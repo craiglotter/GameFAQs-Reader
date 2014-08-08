@@ -1,4 +1,44 @@
-GameFAQs-Reader
+GameFAQs Reader
 ===============
 
-GameFAQs Reader is used for the organised viewing of game faq text files. The application parses all the game folders in the FAQs folder found in its startup path and lists the folder names as a list of games. Each folder then holds the game faq in a .txt format as well as an jpg image file (named after the folder).  Created by Craig Lotter, December 2006
+GameFAQs Reader is used for the organised viewing of game faq text files. The application parses all the game folders in the FAQs folder found in its startup path and lists the folder names as a list of games. Each folder then holds the game faq in a .txt format as well as an jpg image file (named after the folder).
+
+Created by Craig Lotter, December 2006
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2005
+Implements concepts such as threading, picture box manipulation, split containers and file listing.
+Level of Complexity: Very Simple
+
+*********************************
+
+Update 20070123.02:
+
+- Automatically displays box cover art as first file of selected game
+
+*********************************
+
+Update 20070227.03:
+
+- Adds .htm files in order. Current order is: .txt, .mht, .htm and .*
+
+*********************************
+
+Update 20071009.04:
+
+- Changed the No Image to Display image 
+- Added About and Help dialogs
+- Now picks up " -" in folder names and converts it to ":" for display purposes.
+
+*********************************
+
+Update 20080623.05:
+
+- Changed to threaded initial FAQs load
+- Inserted load screen
+- Added various counter labels
+- Added AutoUpdate option
+- Added links to GameSpot and GamesFAQs pages
