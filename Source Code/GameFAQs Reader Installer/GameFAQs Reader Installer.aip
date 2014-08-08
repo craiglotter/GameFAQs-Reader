@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT type="Advanced Installer" version="1.9" modules="professional" RootPath=".">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="CTRLS" Value="3"/>
+    <ROW Property="ProductCode" Value="{08EFFEEC-ACC0-418B-8530-9B5149146CA6}"/>
+    <ROW Property="ALLUSERS" Value="2"/>
+    <ROW Property="ARPPRODUCTICON" Value="controlPanelIcon.exe"/>
+    <ROW Property="BannerBitmap" Value="installer_background.jpg"/>
+    <ROW Property="DialogBitmap" Value="installer_background_dialog.jpg"/>
+    <ROW Property="Manufacturer" Value="CodeUnit"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductVersion" Value="1.0.0"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{75553D3F-7C9D-443A-8A97-44889AB3654B}"/>
+    <ROW Property="ProductName" Value="GameFAQs Reader"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="Crimson_Tears_DIR" Directory_Parent="SampleFAQs_DIR" DefaultDir="Crimso~1|Crimson Tears"/>
+    <ROW Directory="Inputs_DIR" Directory_Parent="TARGETDIR" DefaultDir="Inputs"/>
+    <ROW Directory="Okami_DIR" Directory_Parent="SampleFAQs_DIR" DefaultDir="Okami"/>
+    <ROW Directory="SHORTCUTDIR" Directory_Parent="TARGETDIR" DefaultDir="SHORTC~1|SHORTCUTDIR" IsPseudoRoot="1"/>
+    <ROW Directory="SampleFAQs_DIR" Directory_Parent="TARGETDIR" DefaultDir="Sample~1|SampleFAQs"/>
+    <ROW Directory="Onimusha_3_Demon_Siege_DIR" Directory_Parent="SampleFAQs_DIR" DefaultDir="Onimus~1|Onimusha 3 - Demon Siege"/>
+    <ROW Directory="Sounds_DIR" Directory_Parent="TARGETDIR" DefaultDir="Sounds"/>
+    <ROW Directory="TARGETDIR" Directory_Parent="" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="AutoUpdate.exe" ComponentId="{D05F1EB7-0BAF-466C-9FDD-4CB048E9A571}" Directory_="TARGETDIR" Attributes="0" Condition="" KeyPath="AutoUpdate.exe" FullKeyPath="TARGETDIR\AutoUpdate.exe"/>
+    <ROW Component="Crimson_Tears.jpg" ComponentId="{58D4E241-2060-47D8-BF8C-AEE76EE3E380}" Directory_="Crimson_Tears_DIR" Attributes="0" Condition="" KeyPath="Crimson_Tears.jpg" FullKeyPath="TARGETDIR\SampleFAQs\Crimson Tears"/>
+    <ROW Component="GameFAQs_Secrets.mht_1" ComponentId="{4D3B4A58-CA7E-47D1-BDD4-E506543D8231}" Directory_="Okami_DIR" Attributes="0" Condition="" KeyPath="GameFAQs_Secrets.mht_2" FullKeyPath="TARGETDIR\SampleFAQs\Okami"/>
+    <ROW Component="GameFAQs_Reader.exe" ComponentId="{770E4771-E9B0-4EBD-BB4B-6BFAC3295D73}" Directory_="TARGETDIR" Attributes="0" Condition="" KeyPath="GameFAQs_Reader.exe" FullKeyPath="TARGETDIR\GameFAQs Reader.exe"/>
+    <ROW Component="HEEY.WAV" ComponentId="{D94DCA8A-C9E4-4A71-BC6D-22B036226828}" Directory_="Sounds_DIR" Attributes="0" Condition="" KeyPath="HEEY.WAV" FullKeyPath="TARGETDIR\Sounds"/>
+    <ROW Component="Inputs.txt" ComponentId="{181297BA-AF53-47DC-8805-400C240CAAB9}" Directory_="Inputs_DIR" Attributes="0" Condition="" KeyPath="Inputs.txt" FullKeyPath="TARGETDIR\Inputs"/>
+    <ROW Component="Onimusha_3_Demon_Siege.jpg" ComponentId="{5D051722-4FA1-4AC6-BA76-B7E90717F7A5}" Directory_="Onimusha_3_Demon_Siege_DIR" Attributes="0" Condition="" KeyPath="Onimusha_3_Demon_Siege.jpg" FullKeyPath="TARGETDIR\SampleFAQs\Onimusha 3 - Demon Siege"/>
+    <ROW Component="za.exe" ComponentId="{F1A1A86F-BFEA-46E7-8849-20612EBAA52B}" Directory_="TARGETDIR" Attributes="0" Condition="" KeyPath="za.exe" FullKeyPath="TARGETDIR\7za.exe"/>
+    <ROW Component="Application_Loader.exe" ComponentId="{8D4D0744-5389-46B8-B8E8-6C88C49AA8A8}" Directory_="TARGETDIR" Attributes="0" Condition="" KeyPath="Application_Loader.exe" FullKeyPath="TARGETDIR\Application_Loader.exe"/>
+    <ROW Component="config.aup" ComponentId="{97C5E45B-99E6-4E3D-BD3C-04C8FF647A7A}" Directory_="TARGETDIR" Attributes="0" Condition="" KeyPath="config.aup" FullKeyPath="TARGETDIR"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Feature_Parent="" Title="MainFeature" Description="Description" Display="2" Level="1" Directory_="TARGETDIR" Attributes="0" Components="Application_Loader.exe AutoUpdate.exe config.aup GameFAQs_Reader.exe Inputs.txt HEEY.WAV za.exe Crimson_Tears.jpg GameFAQs_Secrets.mht_1 Onimusha_3_Demon_Siege.jpg"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="No_Cover_Art.jpg" Component_="config.aup" FileName="NoCove~1.jpg|No Cover Art.jpg" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\No Cover Art.jpg" SelfReg="false"/>
+    <ROW File="Okami.jpg" Component_="GameFAQs_Secrets.mht_1" FileName="Okami.jpg" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\Okami.jpg" SelfReg="false"/>
+    <ROW File="UHOH.WAV" Component_="HEEY.WAV" FileName="UHOH.WAV" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Sounds\UHOH.WAV" SelfReg="false"/>
+    <ROW File="Inputs.txt" Component_="Inputs.txt" FileName="Inputs.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Inputs\Inputs.txt" SelfReg="false"/>
+    <ROW File="Description.txt" Component_="config.aup" FileName="Descri~1.txt|Description.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Description.txt" SelfReg="false"/>
+    <ROW File="okami_brush.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami_~3.txt|okami_brush.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami_brush.txt" SelfReg="false"/>
+    <ROW File="No_FAQs.gif" Component_="config.aup" FileName="No-FAQs.gif" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\No-FAQs.gif" SelfReg="false"/>
+    <ROW File="Onimusha_3_Demon_Siege.jpg" Component_="Onimusha_3_Demon_Siege.jpg" FileName="Onimus~1.jpg|Onimusha 3 - Demon Siege.jpg" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\Onimusha 3 - Demon Siege.jpg" SelfReg="false"/>
+    <ROW File="za.exe" Component_="za.exe" FileName="7za.exe" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\7za.exe" SelfReg="false"/>
+    <ROW File="AutoUpdate.exe" Component_="AutoUpdate.exe" FileName="AutoUp~1.exe|AutoUpdate.exe" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\AutoUpdate.exe" SelfReg="false"/>
+    <ROW File="GameFAQs.jpg" Component_="config.aup" FileName="GameFAQs.jpg" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\GameFAQs.jpg" SelfReg="false"/>
+    <ROW File="GameFAQs_Secrets.mht_1" Component_="Crimson_Tears.jpg" FileName="GameFA~1.mht|GameFAQs Secrets.mht" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Crimson Tears\GameFAQs Secrets.mht" SelfReg="false"/>
+    <ROW File="Splash_Image.jpg" Component_="Inputs.txt" FileName="Splash~1.jpg|Splash_Image.jpg" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Inputs\Splash_Image.jpg" SelfReg="false"/>
+    <ROW File="VICTORY.WAV" Component_="HEEY.WAV" FileName="VICTORY.WAV" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Sounds\VICTORY.WAV" SelfReg="false"/>
+    <ROW File="okami_collect.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami_~5.txt|okami_collect.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami_collect.txt" SelfReg="false"/>
+    <ROW File="onimusha_3.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~1.txt|onimusha_3.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3.txt" SelfReg="false"/>
+    <ROW File="onimusha_3_a.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~2.txt|onimusha_3_a.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3_a.txt" SelfReg="false"/>
+    <ROW File="GameFAQs_Secrets.mht_2" Component_="GameFAQs_Secrets.mht_1" FileName="GameFA~1.mht|GameFAQs Secrets.mht" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\GameFAQs Secrets.mht" SelfReg="false"/>
+    <ROW File="okami_beads.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami_~1.txt|okami_beads.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami_beads.txt" SelfReg="false"/>
+    <ROW File="okami_boss.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami_~2.txt|okami_boss.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami_boss.txt" SelfReg="false"/>
+    <ROW File="okami_dojo_tech.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami_~6.txt|okami_dojo_tech.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami_dojo_tech.txt" SelfReg="false"/>
+    <ROW File="onimusha_3_book_trans.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~3.txt|onimusha_3_book_trans.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3_book_trans.txt" SelfReg="false"/>
+    <ROW File="onimusha_3_puzzle_box.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~7.txt|onimusha_3_puzzle_box.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3_puzzle_box.txt" SelfReg="false"/>
+    <ROW File="GameFAQs_Secrets.mht_3" Component_="Onimusha_3_Demon_Siege.jpg" FileName="GameFA~1.mht|GameFAQs Secrets.mht" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\GameFAQs Secrets.mht" SelfReg="false"/>
+    <ROW File="onimusha_3_c.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~5.txt|onimusha_3_c.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3_c.txt" SelfReg="false"/>
+    <ROW File="GameFAQs_Reader.exe" Component_="GameFAQs_Reader.exe" FileName="GameFA~1.exe|GameFAQs Reader.exe" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\GameFAQs Reader.exe" SelfReg="false"/>
+    <ROW File="HEEY.WAV" Component_="HEEY.WAV" FileName="HEEY.WAV" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Sounds\HEEY.WAV" SelfReg="false"/>
+    <ROW File="Help.txt" Component_="config.aup" FileName="Help.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Help.txt" SelfReg="false"/>
+    <ROW File="crimson_tears.txt" Component_="Crimson_Tears.jpg" FileName="crimso~1.txt|crimson_tears.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Crimson Tears\crimson_tears.txt" SelfReg="false"/>
+    <ROW File="okami.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami.txt" SelfReg="false"/>
+    <ROW File="onimusha_3_oni_target.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~6.txt|onimusha_3_oni_target.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3_oni_target.txt" SelfReg="false"/>
+    <ROW File="Crimson_Tears.jpg" Component_="Crimson_Tears.jpg" FileName="Crimso~1.jpg|Crimson Tears.jpg" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Crimson Tears\Crimson Tears.jpg" SelfReg="false"/>
+    <ROW File="GameSpot_Review.htm" Component_="Crimson_Tears.jpg" FileName="GameSp~1.htm|GameSpot Review.htm" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Crimson Tears\GameSpot Review.htm" SelfReg="false"/>
+    <ROW File="GameSpot_Review.htm_1" Component_="GameFAQs_Secrets.mht_1" FileName="GameSp~1.htm|GameSpot Review.htm" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\GameSpot Review.htm" SelfReg="false"/>
+    <ROW File="GameSpot_Review.htm_2" Component_="Onimusha_3_Demon_Siege.jpg" FileName="GameSp~1.htm|GameSpot Review.htm" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\GameSpot Review.htm" SelfReg="false"/>
+    <ROW File="okami_clover.txt" Component_="GameFAQs_Secrets.mht_1" FileName="okami_~4.txt|okami_clover.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Okami\okami_clover.txt" SelfReg="false"/>
+    <ROW File="Application_Loader.exe" Component_="Application_Loader.exe" FileName="Applic~1.exe|Application_Loader.exe" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\Application_Loader.exe" SelfReg="false"/>
+    <ROW File="No_FAQs.html" Component_="config.aup" FileName="No-FAQ~1.htm|No-FAQs.html" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\No-FAQs.html" SelfReg="false"/>
+    <ROW File="config.aup" Component_="config.aup" FileName="config.aup" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\config.aup" SelfReg="false"/>
+    <ROW File="onimusha_3_boss.txt" Component_="Onimusha_3_Demon_Siege.jpg" FileName="onimus~4.txt|onimusha_3_boss.txt" Version="" Language="" Attributes="" SourcePath="..\GameFAQs Reader\Required Files\SampleFAQs\Onimusha 3 - Demon Siege\onimusha_3_boss.txt" SelfReg="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Source="" Target="A higher version of [ProductName] is installed."/>
+    <ROW Action="AI_ViewReadme" Type="194" Source="viewer.exe" Target="[#Description.txt]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][Manufacturer]\[ProductName]"/>
+    <ROW Action="AI_LaunchApp" Type="194" Source="viewer.exe" Target="[#Application_Loader.exe]"/>
+    <ROW Action="SET_TARGETDIR" Type="307" Source="TARGETDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="UpgradeCode" VersionMin="" VersionMax="ProductVersion" Language="" Attributes="1025" Remove=""/>
+    <ROW UpgradeCode="UpgradeCode" VersionMin="ProductVersion" VersionMax="" Language="" Attributes="2" Remove=""/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiMergeModsComponent">
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="GameFAQs_Reader" Directory_="SHORTCUTDIR" Name="GameFA~1|GameFAQs Reader" Component_="Application_Loader.exe" Target="[TARGETDIR]Application_Loader.exe" Arguments="" Description="" Hotkey="0" Icon_="controlPanelIcon.exe" IconIndex="0" ShowCmd="1" WkDir=""/>
+    <ROW Shortcut="GameFAQs_Reader_AutoUpdate" Directory_="SHORTCUTDIR" Name="AutoUp~1|GameFAQs Reader AutoUpdate" Component_="Application_Loader.exe" Target="[TARGETDIR]AutoUpdate.exe" Arguments="force" Description="AutoUpdate" Hotkey="0" Icon_="TARGETDIR_AutoUpdate.exe" IconIndex="0" ShowCmd="1" WkDir=""/>
+    <ROW Shortcut="GameFAQs_Reader_Uninstall" Directory_="SHORTCUTDIR" Name="Uninst~1|GameFAQs Reader Uninstall" Component_="Application_Loader.exe" Target="[SystemFolder]msiexec.exe" Arguments="/x [ProductCode]" Description="" Hotkey="0" Icon_="SystemFolder_msiexec.exe" IconIndex="0" ShowCmd="1" WkDir=""/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
+    <ROW Name="SystemFolder_msiexec.exe" SourcePath="&lt;uninstall.ico&gt;" Index="0"/>
+    <ROW Name="TARGETDIR_AutoUpdate.exe" SourcePath="Images\AutoUpdate.ico" Index="0"/>
+    <ROW Name="controlPanelIcon.exe" SourcePath="Images\Application_Icon.ico" Index="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="installer_background.jpg" SourcePath="Images\installer_background.jpg"/>
+    <ROW Name="installer_background_dialog.jpg" SourcePath="Images\installer_background_dialog.jpg"/>
+    <ROW Name="viewer.exe" SourcePath="&lt;viewer.exe&gt;"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ATTRIBUTE name="Start" value="WelcomeDlg FolderDlg VerifyReadyDlg"/>
+    <ATTRIBUTE name="Progress" value="ProgressDlg"/>
+    <ATTRIBUTE name="End" value="ExitDialog"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.PreReqComponent">
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiMediaComponent">
+    <ATTRIBUTE name="InstallationType" value="1"/>
+    <ATTRIBUTE name="MediaSize" value="0"/>
+    <ATTRIBUTE name="Compress" value="1"/>
+    <ATTRIBUTE name="Package" value="10"/>
+    <ATTRIBUTE name="PackageName" value="Release\GameFAQs Reader Installer"/>
+    <ATTRIBUTE name="IconPath" value="Images\Application_Icon.ico?0"/>
+  </COMPONENT>
+</DOCUMENT>

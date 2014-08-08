@@ -1,0 +1,3 @@
+APPLICATION_NAME=GameFAQs Reader
+EXECUTABLE=GameFAQs Reader.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/GameFAQs Reader/manifest.xml

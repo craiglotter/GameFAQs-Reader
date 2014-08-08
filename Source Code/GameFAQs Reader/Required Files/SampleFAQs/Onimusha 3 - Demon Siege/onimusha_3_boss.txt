@@ -1,0 +1,705 @@
+-----------------------------------------------
+- Onimusha 3: Demon Siege - Boss FAQ        / /
+- version 7.5 | status: 90% complete       / /
+- by majin cloud | www.cloudsrealm.net    / /
+- e-mail: majincloud@hotmail.com         / /
+- updated last: may 27, 2004            / /
+=========================================
+
+=======================
+[- Table of Contents -]
+=======================
+I. Introduction
+II. Battle Tips
+A.	Swordplay Hints
+B.	Ako's Help
+III. The Bosses
+A.	Ranmaru Mori
+B.	Brainstern (Mecha)
+C.	Marcellus
+D.	Heihachi Honda I
+E.	Genma Ranmaru Mori
+F.	Gertrude (Guard Dog)
+G.	Guildenstern
+H.	Heihachi Honda II
+I.	Gertrude (Guard Dog) Redux
+- Sub-boss: Marcellus
+J.	Vega Donna
+- Sub-boss: Brainstern (Mecha)
+K.	Genma Ranmaru Mori Redux
+L.	Nobunaga Oda - First Interaction
+M.	Nobunaga Oda - Second Interaction
+N.	Demon Genma Nobunaga - Final Interaction
+IV. Outroduction
+V. Credits and Thanks
+VI. Version History
+VIII. Onimusha Links
+XI. Copyright
+
+[[--This Boss FAQ is written from the English version of Onimusha 3--]]
+
+==================================
+I. Introduction
+==================================
+I am making this Boss FAQ purely for two reasons. First reason, some people may feel
+they need guidance in hard situation (if they are having trouble) and don't want to
+bother looking at walkthroughs because they might catch something that may ruin the
+game's story. Second reason, I am totally blown away at the final installment in the
+Onimusha series, I thought it would be decent and alright - but I was wrong, Onimusha
+3 was so in depth in many video game aspects I have to show respect some how and I
+thought this would be a nice simple way too.
+
+Also, bosses won't always be the same in the different difficulties in the game so I
+thought I'd add more substance to the boss FAQ other than the obvious - plus I am a
+stickler for detail so you'll get uber help from me here. So enough chatter, lets move
+on to the FAQ and I hope it is helpful to those that need help.
+
+==================================
+II. Battle Tips
+==================================
+With every game with bosses you'll need some helpful hints on how to be proficient in
+defeating them - so we'll need to start off with the basics, and I don't mean
+kindergarten stuff that should come second nature to you.
+
+A. [ Swordplay Hints ] ------
+As some would know both Samanosuke and Jacques will acquire 3 weapons each throughout
+the game. Some you won't have until later on in the game, and each have magic powers
+and special link to you - as well as strength. So, let's get it on with the swordplay
+tips.
+
+-	Block and Strafing are probably the most important aspects to the game in
+terms of survival and fighting to your advantage. If you are in a jam or
+have chances to block to deflect ranged or close combat attacks use the
+block button [L1] to block. Strafing can help you out move around enemies
+or dodge attacks. Pressing the strafe button [R2] to move in quickly on an
+enemy or swing out of there way of attacks.
+-	Issen and Hajiki Issen - Issen is pressing the Square button right before
+an enemy slash. Best way to pull this off is to time it right and performs
+better if you strafe with R1 and then quickly pressing Square. The result
+is quite impressive delivering a punishing slash and a lot of health, magic,
+and regular souls to swirl about. Hajiki Issen is when you deflect an
+attack and almost simultaneously press the Square button to counterattack
+with the same result as an Issen.
+-	Don't forget your ranged weapons, Samanosuke probably has better reach by
+using a bow and different arrows, so if your range attack is at your
+advantage, use it.
+-	Rotate the left analog stick [L3 button] if you are in enemy grasps, frozen,
+or knocked down to get up faster or escape faster, this becomes a crucial
+role in sustaining damage.
+-	Magic, most boss fights, especially later in the game - almost require you
+to use magic with your weapons just to make the fighting time go by quickly
+plus give thy enemy more of a hurt. Don't forget also that you can switch
+weapons during battle so that you can use all 3 weapons (if you have them)
+and their magic attacks, give them all you got.
+-	Upgrade your weapons and armor when you can. Spend the souls you've
+accumulated during fights at the Protective Mirrors to upgrade yours
+weapons, armor, and gauntlet. If you have extra time keep going back and
+forth through some areas to take out enemies to build up your soul gauge
+-	Conserve herbs, medicine, med kits, after some major battles with tough
+enemies or a group of them have Ako wear the White Haroi to help conserve
+your HP by standing still. You'll be thankful you have extra heals handy.
+-	Onimusha mode - if you have the 5 slots filled press in the [R3] button to
+be invincible to enemy attacks and quickly get in some good shots at your
+enemy. Also if your health bar runs out and you still have the 5 slots
+filled you'll automatically go into Onimusha mode and have some more time
+to hack away, although when your Onimusha mode runs out you'll have little
+health left - so heal!
+-	Charge attacks are very useful in some situations. Pressing and holding
+down the Square button waiting for it to be charged (determining on how
+hard you are pressing) will result in charging up the weapon. Depending on
+what level you've charged the weapon, if you have upgraded a weapon to
+level 2 you can charge it up twice, if it's max level to 3 you can charge
+it up 3 times to pack more a punch in with your attacks.
+
+B. [ Ako's Help ] --------
+Thank god you have a fairy alongside with you, Ako is really helpful other than
+looking cute and grabbing far away items from chests. As you play the game you'll come
+across Haroi's that Ako can wear, each bearing a certain ability and color. So keep
+and eye out from chests and smash everything in the surroundings to find Eco Spirits
+to activate the Haroi's for her to wear. Here are a few examples of her Haroi's and
+its ability.
+
+- Blue Haroi: Faster soul absorption
+- Red Haroi: Nothing but red souls will come out of enemy, allowing for higher soul
+gauge
+- Green Haroi: Allows you to draw soul and life from enemies while doing the soul
+absorb
+- White Haroi: Standing still will recover your health
+- Yellow Haroi: Draw souls from enemy every attack
+- Orange Haroi: Show's enemy HP and Critical Timing
+- Purple Haroi: Uses less magic from the magic meter when you use magic attacks
+[How to get: In the Mont-Saint-Michel Phantom Realm area, complete the Phantom Realm]
+- Black Haroi: Critical attacks with every hit but sacrafice your own HP
+[How to get: In Critical Training [Issen Training] complete all difficulties]
+
+As you can see you'll want to switch out Ako's attire at the times you most see fit.
+But I can't stress this enough to save up on your healing with herbs, medicine, med
+kits, and Secret Med. After taking on a lot of enemies or if you sense a boss fight in
+the next door, equip Ako with the White Haroi and stand still to recover you HP. Sure
+it might take awhile but it'll pay off for you in the end.
+
+It's also nice to outfit Ako with the Orange Haroi to see how far or how much HP is
+needed to take out a boss, of course you won't get this till later in the game but
+comes useful in some situations.
+
+And I do recommend during boss battles if you don't want to monitor the bosses HP that
+you have the Blue Haroi equipped on little Ako so you can grab souls quickly or the
+Purple Haroi if you have it to conserve on your magic.
+
+===================================
+III. The Bosses
+===================================
+Well this is what you came for right?! So on with the Boss strategies!
+
+====================================================
+A. [- Ranmaru Mori -]                              |
+|  [- Difficulty: Very Easy -]                     |
+|  [- Weapon of Choice: Regular Sword -]           |
+|  [- Location: Honnoji Temple - Japan -]          |
+====================================================
+I just added this in to be funny, this fight is honestly really easy since it's only
+3-5 minutes into the game, just block his attacks, strafe and slash away at him. You
+can even try practicing your Issen and Hijiki Issen maneuvers if you wanted, if not
+just make short work of this guy and you'll move on with the game, but this won't be
+the last of Ranmaru.
+
+=====================================================
+B. [- Brainstern -]                                |
+|  [- Difficulty: Easy -]                           |
+|  [- Weapon of Choice: Tenso (dual swords) -]      |
+|  [- Location: Arc de Triumph - Paris, France -]   |
+=====================================================
+Least it's not another demon possessed tank or helicopter in a ninja/samurai game
+(cough). Anyways, this flying mecha can be disposed of quite easily. Brainstern has at
+least 4 major attacks - missiles, gunfire, mecha punch and spin attack. Missiles can
+be easily avoided by seeing the ground and the black dots they make, simply just don't
+be in the area around them. Gunfire you can avoid by using the block to your advantage.
+The punch this mecha does is predictable and can be blocked, but it's so predictable
+that you should just strafe out of the way so you can attack it faster. The spin
+attack is kinda tricky cause you have to have some distance to see the spin attack
+coming and allow it sometime to spin and then block, cause if it hits you right when
+it starts spinning you'll block it but it will still move forward and get you while
+you are stunned, so wait awhile and have some distance for you to block it. Right at
+the start of the battle hack and slash away at it, use your magic up on it as well.
+You can also hide behind some objects on top the Arc de Triumph, but they'll be
+quickly reduced to rubble. You'll notice you are making progress when stuff starts
+falling off the mecha and then begins the spin attack. Remember to have some distance
+to time the block just right so it won't have another chance to get you while you are
+stunned from the block. After wards strafe in quickly to continue hacking away at it.
+Heal when necessary and you make scrap heap out of this mecha in no time.
+
+=====================================================
+C. [- Marcellus -]                                  |
+|  [- Difficulty: Easy/Medium -]                    |
+|  [- Weapon of Choice: Enja (chain sword) -]       |
+|  [- Location: Mt. Hiei - Japan -]                 |
+=====================================================
+Hey it's our ever so precocious friend from Onimusha 1, takes a licking and keeps on
+ticking. As you can see from the beginning of the fight, there is an Oni Fly above the
+room, you'll be needing that. First thing is first, Marcellus is a tough dude to
+handle cause of his shield, I suggest you keep using your Enja weapon with it's fire
+magic to quickly get rid of that - whether tons of blows to the shield or simply
+hitting him from behind when you strafe out of the way works - his shield will break
+away eventually and leave him more vulnerable, but then again this is where he can be
+very tough. You'll need to dodge/strafe from his attacks trying to predict where that
+might land, after doing so and he misses get some hits on him during that time. It's a
+shame Marcellus can't be stunned but he can stun you, his mighty swings with the sword
+will send you sliding around and leave you open for another attack, so make sure when
+you block he is only taking 1 swing at you. He'll then do another attack where he'll
+charge up his sword in the air and quickly slam it on the ground, covering the room
+with electricity. That's where the Oni Fly comes in, this attack is easy to predict so
+time it right to avoid getting shocked. Oni Fly could also be helpful to dodge his
+mighty sword swings as well seeing that you'll almost automatically attack from the
+air after swinging off the Oni Fly. Keep repeating the strafing and slashing to send
+this old buddy packing.
+
+[Added Extra Tip: It has become apparent to me that this guy can be pretty easy by
+doing a few simple things. With the Enja you can press Up + Attack button [Square] to
+result in a forward thrusting motion. This will allow Marcellus to always be in
+blocking mode and will cause a lot of souls to swirl out. Couple forward thrusts and
+step back to collect the souls and then continue on at him till the shield eventually
+goes away. At this time he won't be fazed by your hits since he'll always be on the
+offense. Use the strategy above at this point and when he goes for the big swings and
+lightning smash use the Oni Fly to quickly escape.]
+
+=====================================================
+D. [- Heihachi Honda I -]                           |
+|  [- Difficulty: Easy -]                           |
+|  [- Weapon of Choice: Raisen (polearm spear) -]   |
+|  [- Location: Senshuu - Japan -]                  |
+=====================================================
+Not sure if this is a race against time or just to hang in there, pretty much it's a
+hang in there type deal since there is no timer, seeing that you boat is slowly
+sailing away while you are fighting. This is a pretty easy fight since you have
+Samanosuke alongside you fighting, more so of a chance to test your new weapon out.
+You can either run around and try not to let this guy hit you and let Samanosuke deal
+with him, or fight back while defending yourself as well. Try not to use any herbs or
+medicines, unless you really need to and just hang in there - pretty soon a cutscene
+will come up and you'll stop the fighting.
+
+=====================================================
+E. [- Genma Ranmaru Mori -]                         |
+|  [- Difficulty: Easy -]                           |
+|  [- Weapon of Choice: Tenso (dual swords) -]      |
+|  [- Location: Underwater Temple -]                |
+=====================================================
+Told ya he would be back....just a different look and a bit tougher. He is quite the
+speedy fellow so if you are having some trouble landing hits on him with the Kuga
+sword, you might wanna switch back to the Tenso dual swords. At this time it might be
+wise to have at least your armor upgraded to level 2 and either Tenso or Kuga at level
+2, for me I upgraded my Tenso to level 2. But if you wish to use the Kuga, so be it.
+Since he is speedy, you have to be just as equally speedy, well speedy enough to dodge
+his attacks, close combat fighting is easy to block or strafe pass as soon as he
+performs a slash. Try to knock in a combo or so in as well - using some magic from the
+Kuga and Tenso weapons. He'll also shoot out yellow fireballs at you if you are
+distanced so you can easily block them or dodge them if needed, fire some ranged
+weaponry back with your arrow if you want, just don't blow all your arrows on this guy.
+You'll also notice that he has dual soul grabbing gauntlets that also double for his
+weapons, when you perform a series of slashes on him souls will pop up and you'll get
+to see him trying to suck them back up as well, pretty slowly I might add. During this
+time you too can do a soul struggle with him to obtain the souls you knocked out of
+him or have the opportunity to strike him, depending on your health you can make the
+choice there, if you don't wanna blow a herb or medicine now, then try sucking up the
+yellow soul, if you are pretty full health wise show him whose boss with some steel.
+The best way to land a combo on him or attack him when he least expects it, is to wait
+till he does a flip around/over you, when he lands - let your swords fly. Like I said
+he is a speedy one but keep this strategy in mind and you'll bring him to a halt.
+
+=====================================================
+F. [- Gertrude (Guard Dog) -]                 |
+|  [- Difficulty: Easy -]                           |
+|  [- Weapon of Choice: Hyosai (ball and chain) -]  |
+|  [- Location: Underwater Temple -]                |
+=====================================================
+Well you awoke the beast and it's time to pay, or in this case make it pay. Another
+Oni Fly battle again, you can yet use this to your advantage to dodge this beasts
+rushing attacks or just trying to a get a hit in from above. The beasts right head
+(your left when facing it) deals with electric type of attacks, while the beasts other
+head on the left (your right) deals with ice damage. Weird combo indeed, but a pretty
+easy battle to pull off - you just need to watch out for the beasts ice breathe attack
+which can be really annoying. You'll get frozen and seems no matter how hard or fast I
+mash the buttons it's kinda hard to escape all the time. So at all cost try to avoid
+the ice breathe. You'll also notice when it'll charge, if you feel it might charge
+just get ready to whip onto the Oni Fly, it when after the beast charge you can get
+good time to attack it. I suggest pulling out the Enja for awhile to deal fire type
+magic damage, and to cover a good area in hitting a blow to the beast, but really the
+Hyosai will deal the most damage. Try not to get yourself in front of the beast but
+attack from the sides and behind so you won't get hit. At times the beast will swipe
+at you but more than likely miss if you aren't too close or stand up and stomp, it's
+up to you to decide where he'll stomp and strafe out side or back away. The electric
+type head's magic is easy to know where the attack will land, you'll notice a couple
+of yellow dots on the ground just stay away from them, the one that will strike first
+is the one that pulsates yellow and then finally hits. Use heals when you need them,
+all in all, this battle will be easy if you keep using the Oni Fly to get out of the
+way and keep slashing away.
+
+[Added Extra Tip: It is also possible to wait for Gertrude charge attack and be behind
+a solid wall - strafe, run, or swing out of the way in time for it to run into the
+wall and be stunned. At that time it'd be great to start delivering some damage to the
+beast. Also, hoping around on the Oni Flies work well in damaging the beast and halt
+some of it's magic attacks, so latch on and attack from above as well.]
+
+=====================================================
+G. [- Guildenstern -]                               |
+|  [- Difficulty: Easy/Medium -]                    |
+|  [- Weapon of Choice: Chigo (great axe) -]        |
+|  [- Location: Zoo - Paris, France -]              |
+=====================================================
+Again hopefully you've had some time to upgrade so for now, your armor should be
+around level 2 as well as your Chigo be around level 2, and probably gauntlet as well,
+but really your armor and Chigo should be at that level. It's time to take on this
+crazy genma scientist that got you in this situation in the first place. This battle
+is borderline easy to medium, adding the medium in there if you might have some
+trouble taking on multiple enemies, that's why I suggest your Chigo and armor be level
+2 for it to be a bit easier. Guildenstern will be flying about semi-transparent lucky
+for you, you have a bow. It is when his center of body or heart starts glowing red
+that you want to strike, if far away or in the air let an arrow fly or if he is
+reachable on ground take a swing at him. He also has the ability to fire off his
+weapon at you but they are easy to dodge and then he can summon up to 2 genma knights
+to take care of your hides. With the Chigo upgraded to level 2, at least 3-4 swings
+from this weapon will take care of them. Quickly absorb the souls for health
+restoration off these guys. The Kuga at level 2 should work well if you have magic
+left over in them, though I only advise using the Kuga for magic attacks when the 2
+genma knights are up and Guildenstern is close to them glowing red, this should hit
+all 3 of them delivering great damage to Guildenstern and taking out both the genma
+knights. A good strategy to go about this is to try and distance both these genma
+knights so that it'll take Guildenstren longer to revive them, so try and lure one to
+the other side of the room and keep the other on the opposite side if you can, just to
+make it a bit easier. Usually when Guildenstern floats down to revive them that's when
+you'll see the red glow and that's when you want to make your attack. So you have to
+take out one of the genma knights in order for him to be exposed. Near the end of the
+battle Guildenstern will use the time folder to reset you back to the beginning to
+fight him all over again, if you get caught in it don't worry just keep repeating the
+process till you beat him, although you can escape the time folder portal by simply
+running out of the area it is affecting. Heal when you can since those genma enemies
+can really cut your health down to size quickly and this battle should be no problem.
+
+[Added Extra Tip: About the genma knights, they can also be easily dispatched without
+swinging at them. You need to be some distance away from them, when they charge up for
+a fireball get really close and block. The fireball will most likely deflect and hit
+them back. Also electric or ice arrows for hitting Guildenstern from a distance works
+great as well.]
+
+=====================================================
+H. [- Heihachi Honda II -]                          |
+|  [- Difficulty: Easy -]                           |
+|  [- Weapon of Choice: Raisen (polearm spear) -]   |
+|  [- Location: Mont-Saint-Michel, France -]        |
+=====================================================
+More of the same as last time, just a fair fight is all. Yet again all you have to do
+is hang in there again as he is just putting on an act for Vega Donna. I suggested
+using the Raisen polearm spear just because this weapon seemed to work a bit better
+than the other 2. Hopefully at this time it is upgraded to level 2 as well. I wouldn't
+want to waste some heals here either, so every time you are able to knock health souls
+out of him please take the time to snatch them up if you can. Just hang in there and
+he'll eventually stop this charade, quite funny if you ask me too.
+
+=====================================================
+I. [- Gertrude (Guard Dog) Redux -]           |
+|  [- Difficulty: Hard -]                           |
+|  [- Weapon of Choice: Chigo (great axe) -]        |
+|  [- Location: Mont-Saint-Michel, France -]        |
+=====================================================
+This boss I really had the most trouble with in fighting it, giving that it's somewhat
+of a small area to fight in to dodge some attacks and the ice breath is just plain
+ridiculous to me, so I've found myself cursing at this fight while struggling with it.
+It's best to be ready and prepared for this fight to the fullest - meaning that you
+have full health, full magic meter for all 3 weapons, and a full Onimusha meter with
+all 5 slots filled up. Still having your all 3 weapons upgraded to level 2 as well as
+armor and gauntlet at level 2 should be helpful, what would even be more helpful is if
+either your armor or Chigo was at it's max level of 3. Hopefully you've divvyed up
+your heals between Samanosuke and Jacques to equal portions, just try to have a few
+more for Samanosuke for later as well. And that you have a wooden talisman in case (be
+nice to save for later though). Almost the same strategy as before, the beast deals
+with electric and ice magic and has really mean charges. You can pretty much dodge
+it's normal rush charge by simply timing your run and incorporating a strafe move when
+it gets close to nearly miss you, after the charges is the best time to strike. It
+also has 2 more elemental charges where it'll do 2 rushes in a row so place yourself
+carefully and be on your toes. My biggest gripe about this fight was still the ice
+breath freezing you up constantly especially when you are trying to roll away and heal
+up. My suggestion is that you keep yourself distant from this guy until after charges
+for you to strike and then distance yourself again. Some of its lightning magic is
+hard to avoid, but usually the ground based lighting attacks are easier to avoid just
+as before. Now that you know what to watch out for and when to attacks it's time to
+work on the areas of attacking. You'll notice that on this beast is black armor
+protecting it, and it you check from time to time with Ako wearing the Orange Haroi,
+if his armor isn't broken up good, it's health will still be full. Suggest you still
+have Ako's Blue Haroi equipped for faster soul absorption. Work on the front leg
+armors on both sides of the beast to break them up to where its flesh will be exposed.
+Then work on both the heads to break up the armor covering the faces. This is now the
+time to start dealing some more damage to this nasty boss. When both heads are exposed,
+start using up all yours magic in all 3 of yours weapons on the heads and keep working
+at it. You can even go into Onimusha mode if you are still having trouble breaking up
+some armor or want to deal more damage while the armor is gone. I also found charging
+your weapon too will be useful against the armor so try that when you have a good
+opportunity. Heal when you can cause this is a tough battle especially when it's hard
+to escape the ice breathe. Just make sure the armor is gone before you can dispose of
+this boss. I don't think the armor on its back legs is much of a problem, mostly the
+front and heads you'll have a faster time working on in taking out this beast quickly.
+
+[Added Extra Tip: If you charge your weapon by pressing R1 in and wait for the beast
+to do a normal charge at you, there is a good chance if you time your slash just right,
+there is a good chance you'll stop the beast head on and do some serious damage. Same
+works if you want to take out the back armor. With the Chigo, charge up and wait for a
+normal charge, when the beast comes at you strafe while still charging up the weapons
+with either R1 or Square and deliver a spinning slash to the back armor and legs.]
+
+[==================SUB-BOSS STRATEGY==================]
+[- Marcellus -]
+[- Difficulty: Very Easy -]
+[- Weapon of Choice: Raisen (polearm spear) -]
+[- Location: Rooftop - Genma Fortress - Japan -]
+=======================================================
+Once again this evil menace tries to halt your plans in reaching Nobunaga, fortunately
+he is just another wall we have to crumble to get there. Actually, this fight is
+pretty easy, you can either treat it as such as the first time you encountered him
+[see C. Marcellus above] or completely humiliate him. If you decide to humiliate him
+it's the easy way to take him out, but could be long and boring. Now you had to have
+used an Oni Fly reaching the rooftop above and then Marcellus sprang out on you
+correct? Well you can re-use that Oni Fly to go back down a level and he won't follow
+you, just be stuck there on the side of the rooftop you once were. Some may say that
+his is a small bug or exploit but hey, it works on our behalf and if you are playing
+on the harder levels I am sure this will help out tremendously. So with Marcellus
+being on the rooftop above you, all you have to do is target him and keep jabbing away
+at him with your Raisen or Enja. Be sure to collect souls periodically to and you'll
+come out of this battle virtually untouched. When his sheild goes away and he starts
+doing the lightning ground smash he can hit your from the top of the roof top so you
+might want to come back up and unleash some magic attacks on him. Course if you fight
+him this way and you decide its taking way to slow, get back up there and whoop him.
+Or you can wait still down there till your 5 Onimusha slots are filled pop back up and
+go Onimusha mode on him. Basically Marcellus should be easy either way.
+
+=====================================================
+J. [- Vega Donna -]                                 |
+|  [- Difficulty: Easy/Medium -]                    |
+|  [- Weapon of Choice: All 3 weapons -]            |
+|  [- Location: Genma Fortress - Japan -]           |
+=====================================================
+This boss is pretty hot for a demon insect type woman....I guess. Anyways, all weapons
+should be around level 2 for Jacques by now if 1 or more are at max then good. Armor
+should be maxed, hopefully but if not, still manageable. As you can see I don't have a
+weapon of choice in this battle really seeing how the Hyosai ball and chain weapons
+deals more damage, it's just pretty slow to attack and with Vega Donna's speed, it'll
+be sort of tough landing a blow. That's why the Enja and Raisen might have a better
+chance in this battle. So when the battle starts I suggest having the Enja sword chain
+out first, you have to be somewhat fast and predict her movement to hit her early in
+the stages of battle, hopefully your weapons have full magic seeing how this is a
+great way to get damage on her. So start off using the fire magic on her till your
+magic meter on the Enja is used up and switch to Raisen. Landing a magic attack on her
+with the Raisen can be tricky if she sees it coming, but this weapon may be a bit
+easier to hit her with regularly. You'll need to keep an eye on her attacks though.
+There are some close combat attacks to can deflect easily, then she'll have an attack
+where she clings to the wall and waits for you to be close, just be sure not to be in
+her path to the other side of the wall our she'll rush you good. She'll even climb up
+high onto the banisters and throw shurikens at you that can be easily blocked. Even on
+ground they can be blocked as well. Just keep trying to give her hell with the Enja
+and Raisen, and occasionally Hyosai ball and chain if you feel you are really good at
+it. Close to the end of battle she'll make copies of herself to assist her in battle.
+Can't really tell which one is real but at least they both do pretty much the same
+actions just one is slower than the other, that must be the copy. If they are close to
+each other then I say just swing away at both of them, no real reason to take out the
+copy quickly unless you want too or have a hard time trying to find the copy. She'll
+toss some more shurikens while on ground and some are poisoned, try not to get hit
+with one, these as well can be easily blocked and if facing Vega Donna and the copy
+there is a good chance of deflecting a poison shuriken back at one of them, leaving
+them open for an attacks. Repeat the processes and watch out for her attacks to plot
+the best actions for them, heal when needed as well and try to suck up the health
+souls as much as you can to conserve some healing.
+
+[==================SUB-BOSS STRATEGY==================]
+[- Brainstern -]
+[- Difficulty: Easy -]
+[- Weapon of Choice: Chigo (great axe) -]
+[- Location: Eiffel Tower - Paris, France -]
+=======================================================
+The Enemy is same as before just a little quicker and have to be pretty much on your
+feet the whole time thanks to the static shocks of the time folder flickering about.
+The black sparks are thing I am talking about of course and they can be predicted and
+easy to stay out of the way. The Brainstern seems to do more melee attacks this time
+around in what looks like a double punch so when you see those coming, get out of the
+way, you can block but it may send you back into a static shock area. Not totally sure
+if this might help during the fight but if you move up to the opposite side you came
+in on where there is a bunch of wires and cables [north west, sort of] there is a
+glass container supplying the energy for that area. When the blue light is exposed
+swing away at it till it breaks. This should result in shutting down the energy,
+stopping the static shocks and revealing the passage to your next area. Once again I
+am just speculating if this will help you in battle, if not or you don't want to
+before with that just continue battling the Brainstern, should be the same way as
+before, [see B. Brainstern above] simple.
+
+=====================================================
+K. [- Genma Ranmaru Mori Redux -]                   |
+|  [- Difficulty: Easy/Medium -]                    |
+|  [- Weapon of Choice: Chigo (great axe) -]        |
+|  [- Location: Eiffel Tower - Paris, France -]     |
+=====================================================
+Once again if it hasn't been done already all your weapons, armor, and gauntlet should
+defiantly be at level 2, even more so your armor should be maxed at level 3 as well as
+your Chigo. Also going into the battle with all weapons with its magic meter full
+would be great. Ranmaru is just like before except a little bit faster and dual wields
+swords from his gauntlets. But he is still pretty simple, I tacked on the medium
+difficulty in case you haven't brought your armor or one of yours weapons to its max
+level. He fights just like before, except when one of his swords glows red it's pretty
+hard to stop, in fact I don't think you can possibly block so you might want to try
+and be distant from him. He still shoots out fireballs constantly, even faster than
+before, block or strafe to get past them. What I did was start out with the Tenso
+swords, their magic seemed to have a great effect on him. Keep hitting him with the
+light magic until you run out and switch over to the Kuga for a bit. If you are lucky
+to land a magic attack on him, then great, other wise, he will be too fast to hit
+while you charge for the magic attack. If not, then try to smack him around a bit with
+the Kuga for some more decent damage. Then switch over to the Chigo and use your earth
+magic on him. Feel free to slash away at him with the Chigo as well and since it is
+level 3 maxed should deal a lot of hurt to him. And if you have the item that restores
+the magic, then use it on either the Tenso or Chigo, for me I used it on the Tenso
+swords to deliver to final magic blows to him. Use heals when appropriate and Ranmaru
+shouldn't be much more of a problem, or will he?
+
+=====================================================
+L. [- Nobunaga Oda - First Interaction -]           |
+|  [- Difficulty: Easy/Medium -]                         |
+|  [- Weapon of Choice: Hyosai (ball and chain) -]  |
+|  [- Location: Honnoji Temple, Japan -]            |
+=====================================================
+Armor should be maxed as well as one of your weapons, hopefully the Hyosai. Nobunaga
+time now and he is pretty light on his feet, he strafes pretty fast when you go to hit
+him, usually when his sword glows red and black it's a good time to use the Oni Fly to
+dodge this attack and set up for an attack combo. Now if you have Jacques' Ultimate
+Whip from the final Phantom Realm you can make short work of Nobunaga by attacking him
+with the Triangle button, 5-6 lashes should do the trick - see there obtaining the
+Ultimate Whip just for 1 battle can be worth it. And then the reason why I am giving
+this a medium difficulty is because, if you don't have the Ultimate Whip, it may take
+awhile to actually hit him, so use all your weapons in this one and use up all the
+magic it can handle. I found the ice magic from this Hyosai and the fire magic from
+Enja a bit more useful. The Hyosai is still a bit slower but can be very effective.
+The Enja would probably cover more ground quicker, as well as the Raisen will be
+perfect, just a tad hard to get some magic attacks in on him. You can block his normal
+sword swipes and deflect his fireballs, but try not to get so close sometimes cause
+he'll grab you and have his way with you. So mostly the best opportunity to strike is
+after his attacks, the strafe the attack technique should work well after a normal
+swords swing. And again when his sword glows red and black use the Oni Fly to get out
+of the way and start attacking him from behind. Keep this technique up for awhile as
+well as healing when you can. Luckily this is your last battle with Jacques so you
+don't have to worry bout using up all your herbs, medicines, med kits, and secret meds
+up. And if push comes to shove and you still have your wooden statue talisman, it can
+revive you when your health runs out. So give him hell with Jacques, pretty soon
+Nobunaga will succumb to your blows.
+
+=====================================================
+M. [- Nobunaga Oda - Second Interaction -]          |
+|  [- Difficulty: Very Easy -]                      |
+|  [- Weapon of Choice: Onimusha Sword -]           |
+|  [- Location: Honnoji Temple, Japan -]            |
+=====================================================
+I don't know if maxing out one of your weapons or armor will be helpful here but if
+you have the resources to do so, then go ahead - hopefully by now you have already
+done so. Well it's Samanosuke's turn at Nobunaga and well, by the circumstances,
+Samanosuke is pretty pissed. And wow being in true Onimusha mode is so friggin sweet.
+The battle is pretty easy just charge at him and slash away, you're invinsible and
+can't be touched so his swings will automatically be blocked, keep hacking away and
+this battle shall end soon.
+
+=====================================================
+N. [- Demon Genma Nobunaga - Final Interaction -]   |
+|  [- Difficulty: Medium/Hard -]                    |
+|  [- Weapon of Choice: Onimusha Sword -]           |
+|  [- Location: Demon Realm -]                      |
+=====================================================
+Wow, this is just so awesome to see, Nobunaga in his demon form is just graphically
+impressive and at first very intimidating, but what do you care right - you are in
+true Onimusha form. This battle has about 3 stages to it so well start off with the
+first stage of course:
+
+[First Stage]: Demon Nobunaga will be levitating with 4 pods surrounding him that
+attack as his ranged weapons and defense. You'll also need to watch out for the pods 2
+attacks and Demon Nobunaga's attack as well. The pods attack consists of white flame
+burst shots, easy to strafe quickly out of the way from or block, I suggest you strafe
+around them and then when the pods are closer together in the air 4 point laser blast,
+try to find a good opening to strafe into to miss being hit, course you should be
+pretty distant from Nobunaga at that point. If you are close to Demon Nobunaga as well
+he'll land on the ground and lift up his sword and swat you, I suggest you just back
+way quickly cause it's really hard to block and strafe out of the way of this. Now
+it's time to attack, after the pods have done their attacks such as the white flame
+burst shots move in and start slashing at Nobunaga, the pods will quickly form and
+defend him there, bout 4-5 slashes and go to absorb the white souls that came from
+them. You'll notice that the 5 slots where your Onimusha meter will be starting to
+fill up. You'll need to repeat the process of dodging the pods 2 attacks and after
+every attack move in quickly to slash at the pods and quickly absorb the white souls.
+And remember when Nobunaga lands and lifts his sword up don't be near him, after he
+slams the ground with the sword move in to slash at the pods again. When the 5 slots
+are filled up you'll notice your Onimusha Sword glow white, this is the time to slash
+at the pods again to blow them up. Once they are blown up try to get some more hits on
+at Demon Nobunaga and he'll summon 4 more pods again. Repeat this process of attacking
+the pods and collecting the white souls to fill up the meter again to blow up the pods
+once more, then Nobunaga will finally decide enough is enough and fight you face up.
+Heal if needed but try not to be damaged by the pods or Nobunaga's sword slam - they
+should be pretty easy to avoid in order to conserve heals.
+
+[Second Stage]: No more pods just you and him now, you'll have to use the strafe
+attacking combo method in this situation again, when you see him ready for a sword
+slash get out of the way, I've found it better to strafe behind him and continue
+slashing away at his backside.  Aside from sword swinging, Demon Nobunaga's other
+attacks consist of a fire swing which can be avoidable if you stay behind him and
+pretty close, tornado slash that is also avoidable by staying behind him and then
+running to avoid the funnels, and a lightning attack as before you'll see the yellow
+dots on the ground where they will strike, just don't be around them. Continue to
+dodge his attacks and keep slashing away at his sides and backside. About 1-2 times
+he'll fall down to his knee and rest up a bit, just keep slashing away at him or at
+this time charge up your Onimusha Sword 2-3 times to deliver a harder blow. Could also
+use the Triangle attack as you see fit as well to deliver harder single blows. Keep
+repeating this and heal up when needed and the next time he falls to his knees he
+should drop the sword into the ground. At this time use your soul absorption to suck
+out all the white and red souls emitting from this sword, keeping sucking it up until
+you gain possession of his sword. This will bring us to Nobunaga's final stage.
+
+[Third Stage]: Wow now he is pissed, kick ass graphics still Capcom! At this point his
+attacks are pretty hard to avoid, blocking his charge and fire blast attacks won't
+work much so hopefully you'll have some heals left over, Secret Meds and medicines
+should work great. Once again try to get behind or just close to Demon Nobunaga to
+keep slashing away at him, also charging up this sword 3 times by holding down the
+Square button hard till you see 3 pulses should do it. And then deliver a hard blow to
+him. You can also press the Triangle button to deliver even harder single blows to him
+to bring him down faster I just found it funny to play with him charging up the sword
+and hitting him with a combo to keep bringing him to his knees. When you decide he has
+had enough keep tapping the Triangle button to deliver the hard and final swings at
+him, pretty soon he should fall to the ground completely and you have succeeded.
+
+The battle can take awhile and you might need a lot of heals to keep you in there and
+hopefully you have a wooden statue talisman to keep you in there for longer. When you
+get use to the method of this battle it will become pretty simple and a kick ass
+conclusion to a final battle.
+
+Congratulations! You've just beat Onimusha 3 and concluded the series known as
+Onimusha! It's all over....or is it? At least for the Onimusha series it is.
+
+====================================
+IV. Outroduction
+====================================
+Well I hope this Boss FAQ was useful at least in the later battles. I am trying to see
+about gathering all the Harois for Ako to see what they are capable of and it looks
+like I need to get the last 2 in the Phantom Realm. I am also curious on how the
+different difficulty settings the bosses will remain the same or hurt even more. As
+for now I am taking a slight break for this awesome game, and just say I am truly
+impressed on Capcom's series wrap up, terrific game.
+
+If anyone has any questions, suggestions, added extra tips, links to good Onimusha
+sites or just small tid bits to ask don't hesitate to e-mail me about them and I'll be
+sure to post whatever I missed or is helpful to this boss FAQ. My e-mail address is
+majincloud@hotmail.com - use it responsibly people! Also if you have another site you
+would want to post this FAQ on please just ask for my permission first, most times
+I'll agree for you to use if you don't alter anything, just asking for credit and
+permission first and again you can e-mail me about that.
+
+I'll be wrapping up this Boss FAQ soon, hopefully adding some more knowledgeables to
+it that could give this FAQ an even more in depth look - but for now I hope the
+strategies I've posted help out, good luck with the game!
+
+====================================
+V. Credits and Thanks
+====================================
+First off I got to give credits to some random walkthroughs on the Gamefaqs.com site
+for helping me gather a list of the names of the bosses. Give credit to Capcom for
+making this great game - the wonderful and brilliant team at Robot in making one hell
+of a CG opener. Credit goes out to Jean Reno and Takeshi Kaneshiro for playing
+excellent roles in the game, sound and mo-cap. And thanks to Gamefaqs.com if they
+decide to publish this boss FAQ on the site as well. And I have to give credit and
+thanks to the player Shin that I've seen some videos of him playing Onimusha 3 on Hard
+Mode and gave me ideas in beaten most bosses in the game with ease, arigato Shin and
+great work.
+
+- CJayC, for submitting my FAQ on the wonderful Gamefaqs.com
+- Shin, seen some videos of his fighting the bosses on Hard Mode, really awesome work
+- Greyfoxninja and Chriswan Wanata, for telling me about the Purple Haroi's ability
+- Gray Fox and Gamefaq Boards, for the info on Black Haroi
+- Mpagar, for telling me while fighting Nobunaga in Onimusha form, you can't be hit
+- Hank Hu, for showing that using Jacques' Ultimate Whip will make Nobunaga fight easy
+
+====================================
+VI. Version History
+====================================
+-	Version 5.5 | May 1, 2004 - Started and semi-finished boss FAQ to liking
+-	Version 6.0 | May 2, 2004 - Completed Boss FAQ and ready to submit
+-	Version 7.0 | May 4, 2004 - Fixed Errors, added some more info to the boss
+tips, added help to a few sub-bosses, added links section, added extra tips
+on bosses, and added a few credits
+-	Version 7.5 | May 11, 2004 - Added some to Swordplay Tips, Completed Ako's
+Haroi section, updated the correct locations of the bosses, fixed some
+errors, gave some added tips, name corrections
+
+====================================
+VIII. Onimusha Links
+====================================
+http://www.capcom.com - Official Capcom website
+http://www.oni-musha.com - Official Onimusha website
+http://www.gamefaqs.com - Best video game FAQ site
+http://village.infoweb.ne.jp/~shin/BIOHAZARD.htm - Shin's Onimusha 3 Boss Videos
+*Please try not to distribute this link to much to save on transfer time and space
+
+====================================
+XI. Copyright
+====================================
+Please e-mail me permission before you use my FAQ on any site I haven't already
+submitted or authorized to do so already - majincloud@hotmail.com
+
+Copyright 2004 - Onimusha 3: Demon Siege Boss FAQ
+All Right Reserved - Marc Piniol - Majin Cloud
+www.cloudsrealm.net

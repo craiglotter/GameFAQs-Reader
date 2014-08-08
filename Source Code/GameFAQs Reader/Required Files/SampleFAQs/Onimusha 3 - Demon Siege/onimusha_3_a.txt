@@ -1,0 +1,1555 @@
+ _                   _       _   _
+| | |\ | | |\/| | | |_  |_| /_\  _|  .  D E M O N
+|_| | \| | |  | |_|  _| | | | |  _|  .  S E I G E  ( J P N )
+
+ONIMUSHA 3: DEMON SEIGE (Japan Version)
+---------------------------------------
+Developer: Capcom
+System: PS2
+---------------------------------------
+FAQ by ataboy
+Version 1.3
+
+LEGAL NOTICE: The only sites that can post this document are GameFAQs and
+GameSpot.  Any site or entity other than gamefaqs.com or gamespot.com that
+posts this document is taking an illegal action.
+
+- Table of Contents -
+01. Characters
+ a. samanosuke
+ b. jaku
+ c. ako
+ d. misheru
+ e. andi
+ f. nobunaga
+02. Basics
+ a. fighting
+ b. souls
+ c. upgrading
+ d. controls
+03. Walkthrough (Main Game)
+04. Secrets
+ a. weapons
+ b. archery
+ b. walkthrough (Heihachi's Game)
+05. FAQ
+06. Version History
+07. Conclusion
+-                   -
+
+===============================================================================
+
+                              01. C H A R A C T E R S
+
+===============================================================================
+
+a. Samonosuke
+The samurai who defeated Nobunaga Oda in the first Onimusha game.  He gets sent
+to modern day France.
+
+b. Jaku
+A French policeman who gets sent to feudal Japan.
+
+c. Ako
+A cute little fairy with black wings that follows the heroes around.  She's
+similar to Navi from OoT except Ako actually helps you.
+
+d. Misheru
+I'm guessing in the US version her name will be Michelle.  She is a police
+woman who uses guns.  She is the third playable character.
+
+e. Andi
+Jaku's kid.  He somehow has a sixth sense or something and can tell what's
+going on in the demon world.  Maybe he is a demon in disguise?
+
+f. Nobunaga
+It took him two Onimusha games to come to his senses but he finally realizes
+the potential of time travel.
+
+===============================================================================
+
+                              02. B A S I C S
+
+===============================================================================
+
+a. Fighting and Absorbing
+Square button is used to fight.  Samanosuke can use a bow by pressing R1 and
+then circle.  After you kill things you should absorb their souls.  The hard
+part about fighting in Onimusha is that you have to absorb the souls in a short
+amount of time after killing something but you have to protect yourself so that
+the other demons in there can't hurt you while you're absorbing.  If there are
+other demons in there, run away and absorb from a distance or when you get
+better you can turn the fight to your advantage and make the enemies unable to
+attack for a moment and then absorb.  You learn with practice.  There are such
+things as instant kills.  If you attack just before an enemy attacks you a
+flash of light will go off and you will kill the enemy with one hit and they
+always leave yellow souls.  There are also quick kills.  When you knock an
+enemy to the ground, step over them and press square.  Samanosuke will stab
+them down and kill them and Jaku will step on them, take out his gun, and
+shoot them three times to kill them.  Now for weapons.
+Samanosuke - His three weapons are double swords, a long sword, and an axe.
+             He can fire arrows by pressing R1 and then O.  The axe is so
+             slow it is a hinderance.  Use the double swords during the
+             beginning of the game and the long sword towards the end.
+Jaku - His three weapons are a chain sword, spear, and a chain ball.  The
+       spear is the best and should be used at all times.
+
+b. Souls
+Each enemy you kill gives off souls.  These souls have different purposes and
+come in different forms.
+* red - These are the most common.  They give EXP that you can use to upgrade
+        weapons and armor.
+* yellow - These refill your life bar but are somewhat rare.
+* blue - These refill your magic bar and are also rare.
+* purple - If you get five of these, you can enter demon form which makes you
+           temporarily invincible and elevates the damage of your attacks.
+           They are very rare and are also quite dense making them slow to
+           absorb.  You should always try to get these if you can.  Unlike
+           1 and 2, Capcom fixed the system so that you don't have to waste
+           the souls if you get five of them.  You can save them and use them
+           when you want to by pressing R3.  Also, if you die and have five
+           of them, you won't die and you will enter demon form.
+
+e. Upgrading
+The red souls you get give you EXP which you can use to upgrade weapons and
+armor.  Some doors require weapons to be a certain level so you can't really
+run through without killing things.  You upgrade at save points.  Select the
+second option to upgrade.
+
+f. controls
+Left Analog - Moves character
+[] - Attack
+X - Absorb souls
+O - Confirm/Examine/Use bow/Use bugs
+/\ - Use magic
+R1 - Enter battle stance/Use bow
+L1 - Block
+R3 - Enter demon form
+
+===============================================================================
+
+                          03. W A L K T H R O U G H
+
+===============================================================================
+
+*FRANCE*
+
+Jaku is on his motorcycle talking to his son.  Then demons show up and start
+killing everybody.  Jaku drives off to help.
+
+*JAPAN*
+
+A human army is getting ready to attack the demons.  Samanosuke shows up and is
+given some new armor.
+
+OUTSIDE CASTLE
+You gain control at this point.  You have all your weapons maxed out so you
+can probably guess that you're about to lose all that soon.  This means you
+should take full advantage of this.  Also, don't be afraid to use your
+magic because a magic replenish source is real near.  Join in the battle and
+help your comrades kill the demons.  Kill the two bowsmen with your bow (hold
+R1 and hit circle).  Once at the exterior of the castle, kill the two big
+chain demons with your magic and then replenish it on the right.  There are
+two HERBS around here in chests.  One is to the left of the stairs, the other
+is under them.  The save point is on the right.  The first option saves.  The
+second is for powering up.  The third takes you to hack fests and the fourth
+is the exit.
+
+CASTLE
+Here Samanosuke meets Nobunaga and Annoying Man.  After the scene you have to
+fight Annoying Man.
+
+BOSS FIGHT: ANNOYING MAN
+difficulty - easy
+Get into battle stance by pressing R1.  Wait for him to attack (he always
+yells in kendo style before he attacks) and then back away while still in
+battle stance to rush backwards.  Then attack him when he's vulnerable.  Use
+your magic during these instances.  He'll die after about three to four
+minutes if you fight him in this safe manner.
+
+*FRANCE*
+
+Samanosuke is teleported here in some alley.
+
+ALLEY
+This is very Resident Evil 2ish, isn't it?  Destory the crate and get the
+MEDICINE.
+
+NOTE: If you beat the game already and earned that SWORD from the original
+then it will be sitting in the middle of the alley.
+
+Proceed forward and onto the streets.
+
+STREETS
+Jaku and Samanosuke meet here and then Jaku teleports to Japan.
+
+Kill the demons and make your way to the subway.
+
+SUBWAY
+There is a crate that can be smashed which leads you to the next area.  Go down
+the hallway and then up the stairs.
+
+OUTSIDE ARCH DE TRIUMPH
+Use the bow on the flying demons.  There are two chests around here.  They
+contain a MEDICINE (on on the left of the arch), BOWS (close one), and a book.
+Go up to the torches and a path is revealed.  Go down to get the DOUBLE swords
+(his best weapon) and the one you should use the rest of the game.  The other
+two are more powerful but are much slower and leave you vulnerable much too
+often if you are not very good with them.  Go back up.
+
+You meet some blonde woman.  She gets beat around and then Samanosuke comes to
+help.
+
+ARCH TOWER
+Kill the two demons.
+
+OUTSIDE ARCH
+You're back outside.  Go back inside.
+
+ARCH TOWER
+Kill the demons and get the KEY on the floor.  Go up the stairs and use the key
+on the door.
+
+ARCH SHOW ROOM
+There's a book on the counter.  There is a puzzle box in the top right (Again,
+for puzzles, there is a good puzzle guide on GameFAQs).  Get the MEDICINE in
+the chest on the left near the door.  Before exiting, go to the glowing pink
+miniature tower and absorb all the souls out of it.  Oh, and the glowing item
+near the entrance behind the ropes is not accesible at this time.
+
+ARCH ROOF
+You meet Gilderstern here and then fight a big robot.
+
+BOSS FIGHT: BIG ROBOT
+difficulty - easy
+Use all your magic on him and then it's best to slash and run (especially when
+he does his missile attack which follow you).  His best attack is a spinning
+one where he comes towards you with great speed, twirling around.  If you don't
+run behind him immediately after he starts this, you're going to get hit.  You
+can't outrun this.  Stay close to him and slash away.  When he starts firing
+missiles, run around him.  When he starts twirling, run behind him.  When he
+extends his arms to do the stretch attack, run behind him.
+
+*JAPAN*
+
+Jaku finds himself in past Japan.
+
+FOREST PATH
+Save if you want and then run forward.
+
+You will see Jaku's kid and then be given the soul absorbing gauntlet and a
+weapon.
+
+Kill the demon by staying at a distance and using the weapon's far reaching
+ability.  Jaku's weapons are sort of cheap becuase they all can reach
+distances that the enemies can't reach so you can stay back and avoid lots
+of damage.  Jaku is also good at combos.  Hold R1 long enough for it to
+charge and then attack with square.  Jaku will grab the enemy and then you
+can either attack again, kick, hit circle, etc. Mix it up, really.  If you
+grab them, you can also throw them by pressing in the opposite direction
+and pressing square.
+
+You'll meet a fairy here with black wings.  She follows you around and helps
+you.  Remember that item in the arch showroom that was behind the ropes that
+you couldn't reach?  When Samanosuke is back there, you can get this now
+since the fairy can reach items like this for you.  When it starts talking
+near an item, hit circle.
+
+Kill the easy demons and proceed forward.  Ignore the plants since you can't
+kill them yet.
+
+FOREST SHRINE
+You'll meet Samanosuke here.  Kill the demons.  You can throw rocks by holding
+R1 and pressing circle.
+
+After they shake hands, look around for chests.  Right near the path where you
+start, there are breakable boxes which are hiding a GEM and a chest with a
+HERB.  The fairy will pick up the gem for you.  Hit circle when it talks to you
+to get it from her.  There is a SCROLL and a chest with a GARMENT to the right.
+Go behind the shrine to the right and the fairy can get a HERB for you.  Go up
+the stairs and kill the demons.  Proceed.
+
+WEAPON AREA
+Jaku can get a weapon here but he needs something first.  Go to the right.
+
+WATERFALL AREA
+Open the chest for a BUG.  These bugs help you swing around.  Hold R1 and
+hit circle when it's glowing to swing.  Destroy the crate for another BUG
+and keep swinging to the waterfall.  There are two SCROLLS near the buddha
+statue.  Don't ask me what they say.  Go down the ladder.  Get the metal
+circle in the chest.  Use the fairy to get the DRINK.  Destroy the crate for
+a BUG and swing back.  Leave.
+
+WEAPON AREA
+Use the metal circle on the big thing in here and get your new weapon.  A
+sword that stretches real far.  You can kill plants with this but ignore
+the ones near you for now and head back to that first area you found them
+in.
+
+SHRINE
+Proceed.
+
+FOREST PATH
+Kill the rolling demons and then the plants.  A chain demon falls so use
+this instance to test your magic with this weapon and then finish him off
+by staying at a distance.  Get the KEY that is there.  Now go back to the
+weapon area.
+
+SHRINE
+Kill the enemies.  One enemy has a BUG.  Use it and get the MAGIC CHARM.
+
+WEAPON AREA
+Kill the plants and head through.
+
+PLANT PATH
+Kill all the plants along the way.
+
+OUTSIDE STRUCTURE
+Samanosuke will help you kill these.  Use the key and head in.
+
+STRUCTURE PATH
+Kill everything.  Power up your weapon and save.  Head through door.
+
+STRUCTURE
+Annoying Man is here.  They talk.  An enemy shows up.
+
+BOSS FIGHT: GRINNING DEMON
+difficulty - medium
+For some reason I have trouble with this boss more than almost any other.  Stay
+at a distance and swing on the bug a lot.  Keep swinging around and you'll
+eventually hit him.  He will at one point send out many souls for no reason.
+Do not try to absorb them because this is a trick to get you unguarded.  Once
+you start absorbing, he will fly across the screen and hit you hard.  Wait for
+him to end this attack and then try to absorb if you can.  The souls are not
+worth the damage you will get.  Enter demon mode by pressing R3 if you have
+enough purple souls.
+
+*FRANCE*
+
+Samanosuke talks with the blonde woman and then you control him.
+
+OUTSIDE ARCH
+Head back into the arch.
+
+ARCH TOWER
+Head up.
+
+ARCH SHOWROOM
+Get that hard to reach item now that you got the fairy.  They are FIRE BOWS.
+
+ARCH ROOF
+There are 2 chain demons and a very hard charging demon up here if you want
+to fight them for some souls.  You can fight the two chain demons without
+fighting the charging demon if you want to for some souls and items they have.
+
+ARCH SHOWROOM
+Two fast demons here.
+
+ARCH TOWER
+Descend and proceed.
+
+OUTSIDE ARCH
+Get back to subway.
+
+SUBWAY
+Enter the red door by using the KEY in the guard's hand.
+
+SEWER 1
+Kill the slug demons.  They leave small slugs that you can step on (similar
+to spiders in RE).
+
+SEWER POWER ROOM
+Go to the red blinking thing and activate the power.  Save if you want.  I
+was able to power the double sword to lv. 2 so maybe you can too.
+
+SEWER 1
+Activate the bridge and cross it.  Kill the slug.  There is a scroll in the
+chest.  Kill the other slug and go through the door.
+
+SEWER ROOM
+There is a chest in the top right hall of here after you kill everything.  Go
+open it.  I don't know what the hell that thing is but when you hit it, it
+gives you yellow souls.  It looks like a little dutch girl or some kind of
+gnome or something.  Anyway, when it runs away it leaves you a health item.
+There is a connecting hallway to the right with a GARMENT and GEM.
+Go over to the red door with the lock.  The combo is 3-1-4.  Before leaving
+through the door to the left of this red door, head to the side of this room
+where the hallway is.  Look up and hold R1.  The fairy will fly up to something
+on the ceiling.  Shoot it with a arrow and you get a HERB.
+
+SEWER 2
+Head to the bottom of the screen once you get in the water.  The fairy can get
+a HEALTH PACK here.  Head up the ladder on the right and get the WHEEL.  Head
+back.
+
+SEWER ROOM
+Head up the ladder in here and use the wheel on that thing.  Head down the
+ladder and activate that thing.  Head through the door right across from there.
+
+SEWER 3
+Activate the bridge.  Kill the slugs.  Once your double swords are on lv. 2 you
+should start powering up your armor.  Save.  Head right and get LIGHTNING
+ARROWS in the chest.  Head up the ladder and cut the chain that is holding a
+big ball.  Go down the ladder and then into the water.  You have to push the
+ball while fighting the demons at the same time.  Sometimes Mischeru goes
+temorarily stupid and stops pushing the ball to stare at you fight demons.
+Once Misheru stops pushing the ball and heads up the ladder, keep pushing it
+for a HEALTH ITEM.  Go up the ladder.  There is a GEM to the right on the
+ceiling.  Kill the demon and then head up the hall.  The guard gives you a KEY.
+Ladder.
+
+*JAPAN*
+
+VILLAGE
+Jaku is a village.  Run forward and go in some double doors.  Don't talk to
+the man yet.  Go through the back door and get the GARMENT.  There is a SCROLL
+in the store.  Slash the pots for a GEM.  Now talk to the man.  Something about
+a watch is exchanged and Jaku is told to leave.  The guy locked the door so
+you can't go back in for awhile.  There is a pot to the right of the save point
+with a BUG in it.  Head up the ladder to the right and there is a chest.  Use
+the bug to reach the beach where a puzzle is.  Talk to the kid looking in the
+barrel.
+
+Go to the alley close by and talk to the guy near the watermelons.  He
+will give you one.  Give this to the kid and he'll leave.  Examinine the barrel
+for a BUG.  Use it to get up and enter.  Get the KEY and then use the bug to
+get down.  The fairy can get a MAGIC ITEM near the counter.  Exit.  Kill
+everything and then go into the alley.  Progress through here and you'll see
+a swinging demon.  This thing usually swings five times in a row and then stops
+leaving a time for you to attack then wait for it to swing again.  Kill
+everything and use the key on the door.
+
+WEAPON ROOM
+There is a DRINK the fairy can get near the entrance.  Get the new weapon.
+It has the speed of the last one but more strength.  Exit.
+
+VILLAGE
+Kill everything and then save on the main path.  Head through the gate.
+
+DOCK
+Kill everything and get to the door with the blue circle.
+
+STORAGE SHED
+There's lots of modern things in here like washer machines and CDs.  Get the
+book in here and then go into the back to get the SCROLL in the chest.  Leave
+after the scene.
+
+DOCK
+A chain demon clears your path.  Kill him and then go up the new stairs.  You
+meet a guy named Hiehachi here.
+
+BOSS FIGHT: Heihachi
+difficulty - very easy
+Fight him like any other enemy.  His only attack that you may have to worry
+about is when he starts spinning his weapon.  Stay away and slash from a
+distance.  He should go down easily.
+
+DECK
+Kill everything and go through the door.
+
+BOAT
+Go down the stairs.  Destroy the painting.  Inside the chest is another one of
+those gnome things but this one's a male.  I don't know if this was boss fight
+or what but this thing fought me for like five minutes before vanishing.  He
+gives you a KEY which you should use on the door in this room.  Oh, and he has
+an axe that he hits you with.  It doesn't take off much though.
+
+ENGINE ROOM?
+Get the BOOK in here and exit.
+
+The boat will go under water.
+
+*FRANCE*
+
+OUTSIDE ND
+Hopefully your swords is on lv. 2 so go through but not before getting the GEM
+in the trashcan on the right.
+
+ND
+Kill everything.  There is a LITTLE GIRL to smack around for heath in the
+chest in the top left.  There is a GEM in some pots to the left of the chest.
+There is a soul releasing thing in here in the top right so aborb lots of souls.
+Go to the right of the thing in the front and hit the switch to find anew door.
+Go through.
+
+BENEATH ND
+There are two things to shoot down in here (GEM AND HERB).
+
+KNIFE ROOM 1
+Ther are swinging knives here.  Make your way around here counter clockwise two
+doors and hit the thing to make them stop.  Go through the new door.
+
+SKULL ROOM
+There is a HERB on the cieling.  Kill the demons and get scome PENDANT thing on
+the gold skull mount.  Go to the right of that and get the SCROLL out of the
+chest.  There is a thing on the ceiling (GEM).  To the left of the skull thing
+is a chest with a SCROLL or something.
+
+KNIFE ROOM 1
+Go back to the door in here and exit.
+
+BENEATH ND
+Go up.
+
+ND
+The statues in here have four lightable things in here.  Each of them have one
+through four lit up.  In numerical order, go through and absorb the evil out of
+them.  The dragon statue will light up and you can get your NEW WEAPON.  Go
+back down.
+
+BENEATH ND
+Pass.
+
+KNIFE ROOM 1
+Go to the open doorway.
+
+SKULL ROOM
+Go to the door at the end glowing blue.  Go through with new weapon equipped.
+
+KNIFE ROOM 2
+Wait for the two knives to pass by and move counter-clockwise around the room.
+Kill the plants at the stop points and continue.  There is a chest with a ROPE.
+Get it and exit the room.
+
+SKULL ROOM
+There is a fall in here that you can use the rope on.  Get down and get the
+SKULL.  Go back to the door you just came through.
+
+KNIFE ROOM 2
+Make your way around to the door with the skulls on it and use the SKULL.
+
+TELEPORT ROOM
+You will fight two spinning sword demons here that are very hard.  Use your
+magic on them and kill them quickly.  Then leave and replenish magic at the
+entrance to this room near the save point and then go back in.  There are some
+reading materials around here.  Use the teleport.
+
+*???*
+
+NOTE: You're about 1/3 through the game now.
+
+TEMPLE
+Go on the boat and up the stairs.  There is an (ITEM) here.  Go to the left
+of the boat and you'll see a door with two blue flames on either side so go
+through.
+
+CIRCLE ROOM
+There is a yellow door, blue door, and red door in here with corresponding
+things sticking up in the center circle.  The only door that you can go through
+is the yellow door because the yellow circle is in place.  You can go through
+if you want but the place is flooded and Samanosuke can't proceed so go up and
+get the YELLOW CIRCLE in the thing sticking up.  Now get the SCROLL in the
+chest near the save point.  Near the save point is a teleporter which allows
+Samanosuke and Jaku to teleport items to eachother and let you switch between
+them.  Use the teleporter.  The first slot is the items you can transfer.
+Select the YELLOW CIRCLE.  Now the option under the items is the player
+switching.  With the yellow circle on the right side of the screen switch to
+Jaku.
+
+BOAT ROOM
+Kill everything.  There are lots of enemies.  Let the stupid swinging demons
+kill the other demons by mistake to lessen the foes.  Go through door.
+
+CIRCLE ROOM
+Replenish magic.  Use the yellow circle on the sticking up thing and then go
+through the yellow door.
+
+YELLOW AREA 1
+Use the bug to go up.  Kill the two and go through.
+
+YELLOW AREA 2
+Get the SCROLL in the top left.  Then get the two BOOKS in the chest.  Jaku
+will now see Annoying Man again.  Enemies appear.  Kill them and use the
+elevator in here.
+
+LIBRARY
+Kill some things and then run over and use the book where the other books are.
+Put them in this order: 5-4-3-2-1.  It opens up.  Go in and to the right.  Get
+the BUG and then run out and use it near the entrance to the room.  Get up and
+run over and kill the bowsmen if they are there.  Get the book around here.
+The fairy can get a DRINK to the left of the bowsmen.  Get the TELESCOPE thing
+in the chest.  Go back down.  Go through the door in here and to the left to
+talk to a crazy hanging man from the original.  He is also the memory card
+image in this game too (His popularity stepping up!).  The left choice will
+make you go in a hack fest.  The right is to exit.  Choose either twice to make
+decision.  Exit through elevator.
+
+YELLOW AREA 2
+An enemy is here.  He is easier than he looks.  Exit.  Oh, and kill him.
+
+YELLOW AREA 1
+Use bug.  Kill the enemy and exit.
+
+CIRCLE ROOM
+
+NOTE: You should send all the bows to Samanosuke.
+
+Switch to Samanosuke.  Go through yellow door.
+
+YELLOW AREA 1
+Get the thing in the CHEST under the stairs.  Go up and through the door.
+
+YELLOW AREA 2
+Go to the top right and get the BLUE CIRCLE.  Gildenstern shows up with
+Annoying Man in a demon version of himself.  His technique is still the same so
+**** his **** up and then leave.
+
+YELLOW AREA 1
+Kill the glowing demon for a DRINK.  Then leave.
+
+CIRCLE ROOM
+Use the blue circle and go through the door.
+
+BLUE AREA 1
+Run forward and the glass breaks.  Run as fast as you can to the next door.
+
+BLUE AREA 2
+Go up the stairs and through door.
+
+BLUE AREA 3
+Smash the crates to reveal spinning sword demon and a TELESCOPE thing or is it
+a horn I guess.  Kill everything and get the thing and then leave.
+
+BLUE AREA 2
+Use the TELESCOPE/HORN thing on the thing to the right and the shutters come
+down in area 1.  Go back into area 1.
+
+BLUE AREA 1
+Kill some water demons.  One has a DRINK.  Leave.
+
+CIRCLE ROOM
+Get the blue circle and switch Jaku.
+
+Use the blue circle and go through the blue door.
+
+BLUE AREA 1
+Go down hall and door.
+
+BLUE AREA 2
+Head up stairs and through the door.
+
+BLUE AREA 3
+Kill some glowing demons and keep swinging on bugs until you coem up to your
+new weapon.  Then head back to the door you just came through and exit.
+
+BLUE AREA 2
+Open the door with the purple circle on it with your new weapon equipped.
+
+BLUE AREA 4
+Your bug is dead.  Exit.
+
+BLUE AREA 2
+Use some magic to kill this chain demon.  Run forward to kill those bowsmen and
+another chain demon falls down.  You may want to kill the bowsmen first and
+then him.  Once done, go back to circle room.
+
+CIRCLE ROOM
+Switch to Samanosuke.  Go into blue door.
+
+BLUE AREA 1
+Run forward to door.
+
+BLUE AREA 2
+Go into door with purple circle.
+
+BLUE AREA 4
+Get the BUG WINGS and exit.
+
+BLUE AREA 2
+Go through door you came in here in a second ago.
+
+BLUE AREA 1
+Kill the glowing demons (one gives an HERB).
+
+CIRCLE ROOM
+Send Jaku the bug wings and switch to him.
+
+The blue door is blocked by an evil force similar to the one blocking the
+statues in ND.  Go through the door close to the save point back to the boat.
+
+BOAT ROOM
+Kill everything and then use the bug in the middle of the ship.
+
+BLUE AREA 3
+You're back here?  Keep swinging to the door.
+
+BLUE AREA 2
+Go into the door with the purple circle.
+
+BLUE AREA 4
+Use the bug wings on the bug and it is flying now.  Swing over.  Activate this
+thing and get the BLUE THING.  Leave.
+
+BLUE AREA 2
+Kill everything.
+
+--OPTIONAL--
+Head to the door to the left of the door you just
+came out of.
+
+BLUE AREA 1
+Turn right around and head back in.
+
+BLUE AREA 2
+There are lots of easy enemies to defeat that give you very good items like
+herbs and stuff plus lots of souls.  You can do this some more if you want.
+--END OPTIONAL--
+
+Head up the stairs and through the door.
+
+BLUE AREA 3
+Swing across to the boat.
+
+BOAT ROOM
+There is a charging demon in here that is hard.  Use magic on him.  Head back
+to the cirlce room.
+
+CIRCLE ROOM
+Send Samanosuke the blue thing you just got and switch to him.
+
+Absorb the evil from the blue door and go in.
+
+BLUE AREA 1
+Kill the glowing demons and go through the door.
+
+BLUE AREA 2
+Go into the door with the purple circle.
+
+BLUE AREA 4
+Use the blue thing on the thing Jaku got it from.  The room powers up.  Time
+your running and get out.
+
+BLUE AREA 2
+GO into the elevator in here.
+
+BLUE AREA 5
+Smash the boxes to get your new weapon, the axe.  Kill the enemies and ride
+the elevator back up.
+
+BLUE AREA 2
+Head to the door to the right.
+
+BLUE AREA 1
+Run down the hall.
+
+CIRLCE ROOM
+Go into the yellow door.
+
+YELLOW AREA 1
+Go up to the door and enter.
+
+YELLOW AREA 2
+Use the elevator.
+
+LIBRARY
+Enter the door with the red circle with the axe equipped.
+
+LIGHT ROOM
+There is a GARMENT in the chest.  Get the RED CIRCLE in the thing and then
+exit.
+
+LIBRARY
+Exit.
+
+YELLOW AREA 2
+Exit.
+
+YELLOW AREA 1
+Exit.
+
+CIRCLE ROOM
+Send the red circle to Jaku and switch to him.
+
+Use the red circle and go in the door.  Save though first.
+
+RED AREA 1
+Swing across and go through the door.
+
+RED AREA 2
+
+BOSS FIGHT: TWO HEADED BEAST (FIRST ENCOUNTER)
+difficulty - easy
+This is a very easy boss.  It charges back and forth basically and does a ice
+attack which freezes you and also a lightning attack as well which it throws
+at you and also a fire attack sometimes as well.  Maybe the yellow, blue, and
+red areas are linked to these elements?  Stay on the other side of it.  Once
+it starts charging, dash to the side and then attack.  Use up all your magic
+on him and even switch to demon form if possible.  He'll die after about five
+minutes.
+
+CIRCLE ROOM
+Go into the red door.
+
+RED AREA 1
+Walk across the newly provided boxes and go in.
+
+RED AREA 2
+Scene plays where Samanosuke gets thrown somewhere.
+
+*FRANCE*
+
+The little brat starts spazin' out and misheru runs off.
+
+OUTSIDE ND
+You're now playing as Misheru.  Run up and demons will break the fence.  Don't
+fight anything yet and run over and get the RING in the chest.  It gives you
+the ability to absorb souls.  Now kill everything.  Go back down into the
+sewer but save first if you want.  Oh, you start out with a SPS15+S which is a
+shotgun essentially.  You are about to get a grenade launcher and will most
+likely never touch this weak thing again.
+
+SEWER 3
+Make your way through the long hall.  Eventually you'll get to the ladder on
+the left so climb it.  Kill all the slugs and then head right.  Go up the
+ladder and get the SPS15+G which is the grenade launcher.  Switch to this and
+then head back down the stairs and cross the bridge and go in the room.
+
+SEWER ROOM
+Go through the last door to your left.
+
+SEWER 1
+Run all the way left and go up the stairs.
+
+SUBWAY
+Go to the hallway and back to the arch de triumph.
+
+OUTSIDE ARCH
+Kill everything and then go into the arch.
+
+ARCH TOWER
+Ascend all the way and go in the door.
+
+ARCH ROOF
+Kill the big robot from earlier.  Leave.
+
+ARCH TOWER
+Descend.
+
+OUTSIDE ARCH
+Get back to subway.
+
+SUWAY
+Get back to sewer.
+
+SEWER 1
+Go all the way right and into sewer room.
+
+SEWER ROOM
+To through the last door on the top.
+
+SEWER 3
+Get across bride and then down into water.  Go all the way down the long
+tunnel and then up the ladder.  Then climb the ladder on the right to get back
+to ND.
+
+OUTSIDE ND
+Go inside.
+
+ND
+Go down stairs.
+
+BENEATH ND
+Kill the two fast demons that jump down and then go through the door.
+
+KNIFE ROOM 1
+Go into the open doorway.
+
+SKULL ROOM
+Go down the hall and enter the door.
+
+KNIFE ROOM 2
+Go into the room with the save point next to it.
+
+TELEPORT ROOM
+Go forward and two spinning sword demons show up.  Point and shoot.  Then go
+into the new room and get the BOOK.
+
+Ako shows up and then Samanosuke and Andi are shown in a cell.  Misheru then
+shows what a bad driver she is.
+
+PARK ENTRANCE
+Run forward and kill everything.  Those big ape things are no trouble with the
+grenade launcher but wait until you have to fight them with Samanosuke.  There
+is a PIECE OF PAPER on the floor next to the sign that says "BATEAU".  There is
+something in the chest to the left of the stairs on the left.  Go up the
+stairs.
+
+PARK 1
+Kill everything and go through the door at the end.
+
+PARK OFFICE
+Two of those monkey demons are in here.  Go through the door at the end.
+
+PARK 2
+Kill the rolling demons.  Get behind the panda to see Misheru and Ako in a
+comical fashion.  Make your way around the circular structure and go in.
+
+AQUARIUM
+Go around clockwise and get the book by the door.  Then go down into the
+aquarium.  There is a switch mechanism that lowers capsules with things in
+them.  The first one lowers a monkey demon.  The second lowers a key.  The
+third lowers another monkey demon.  The fourth one lowers a SPS15+R which is a
+sniper rifle.  This is only useful later in the castle part so keep the grenade
+launcher equipped.  Go up the ladder and go around counter-clockwise.  Use the
+first door you come across to go back to park 1.
+
+PARK 1
+Go to the bottom and back to park entrance.
+
+PARK ENTRANCE
+Go to the right and into the Bateau area.  Go down the stairs and enter the
+boat.  Use the key you just got on the boat.
+
+Misheru and Ako talk for awhile here about what, I don't know.  It seems to
+have some significance.  Then the engine stops and demons show up.
+
+Kill the two demons (fast + water) and then absorb the souls.
+
+Ako gets excited when the boat starts and then you're parked in a new area.
+
+BOAT LANDING
+Go up the stairs.
+
+OUTSIDE BUILDING
+Go inside.
+
+BUILDING
+Remember not to get items and leave them for Samanosuke.  Kill the plant and a
+path is revealed so go down.
+
+CELLS
+Run forward and a scene will play where you see Samanosuke and Andi locked up.
+The monkey demons burst through and you have to kill them.  Now go the red
+flashing thing on the wall and unlock the cells.  Prepare to laugh.  This next
+scene is one of the funniest things I've seen in a game.  You then control
+Samanosuke again.  Playing as Misheru softened me up and I forgot how to
+actually fight for awhile so make sure you don't forget that you can't shoot
+things from across the screen anymore.  Go get the things in the chest that you
+hopefully left for Samanosuke (someone that can actually use them).  Also get
+that RING thing on the floor, no I don't know what it does but you probably
+need it.  Go up the stairs.
+
+BUILDING
+Kill everything and then get the two GEMS hanging from the ceiling.  There is a
+chest in here also.  Exit the building.
+
+OUTSIDE BUILDING
+Use Ako to get the item to the right of the stairs.  Start powering up your
+long sword.  Go down into the boat.
+
+BOAT LANDING
+Get in and start it.  Demons come so kill them.
+
+PARK ENTRANCE
+Go up and kill the rolling demons.  Go to the very entrance and go up to the
+Souvenirs store and get the MED PACK in the chest.
+
+PARK 1
+Kill the monkey demons and get the GEM in the trash can on the top next to the
+door and then enter it but not before having Ako get the item to the right of
+the stairs leading back to the park entrance.
+
+PARK OFFICE
+Kill the two glowing demons and then ignore the door with the two blue circles.
+Go to the last door but not before breaking the glass in one of the squares and
+having Ako get a MED PACK.
+
+PARK 2
+Get the MED PACK in the chest to the left of the door.  Go back to the office.
+
+PARK OFFICE
+GO to the other door and exit but if you already have the blue sword on lv. 2
+then go in the door.
+
+PARK 1
+Head back to the entrance area.
+
+PARK ENTRANCE
+First kill all the rolling and flying demons and then power up your sword.  If
+you still need red souls then leave and enter this area over and over again.
+
+PARK 1
+Go back to the office.
+
+PARK OFFICE
+Enter the door with the two blue circles and enter.
+
+BATHROOM
+Get the KEY and leave.
+
+PARK OFFICE
+Go back to the door you just came in here from.
+
+PARK 1
+Go across and leave.
+
+PARK ENTRANCE
+Go over to the boat and use it.
+
+BOAT LANDING
+Head up stairs.
+
+OUTSIDE BUILDING
+Go in.
+
+BUILDING
+Use the key on the door that looks like an elevator.
+
+LAB 1
+Make your way to the room in here.  Get the BOOK and the SCROLL and then go
+over and save.  Enter the door.
+
+LAB 2
+I don't know what he's doing to them but it's probably bad seeing how Andi is
+yelling "Yarete!  Yarete!!"
+
+BOSS FIGHT: Gildernstern
+difficulty - medium
+Gildernstern floats around shooting things at you and creating glowing demons
+that fight you.  At first there is only him.  Shoot him when he glows pink.  He
+does this when he is about to do something.  Later he creates one glowing
+demon.  Fight the demon but shoot Gilderstern whenever he glows pink.  You can
+hit his projectile back at him if you are skilled at timing.  When two glowing
+demons are fighting it gets more difficult.  Kill one of them but don't try to
+kill the second because the first one will come back soon so when there is only
+one just run around waiting for Gilderstern to turn pink and then shoot him
+with the arrow.  At the end, he will try to go back to the past at the
+beginning of the battle and you will have to fight this all over again so don't
+get caught in the black circle on the ground he makes.  Towards the end (you'll
+get a general idea of when the end is) start keeping a good distance from him
+and just fire arrows when he glows pink.  Don't try to fight the glowing demons
+when you think it's almost over.
+
+Samanosuke, Misheru, and Andi all take the car now to an old castle.
+
+NOTE: You are about 2/3 through the game now.
+
+CASTLE ENTRANCE
+There is a save point close by that you should use and also a teleporter but
+wait to touch that.  Get the BOOK on the floor.  Kill everthing and then switch
+to Jaku.
+
+TRAIN SIDE
+Jaku gets off the train and sees Heihachi.
+
+He's the same as the first time and just as easy.  Stay away and slash at him
+from a distance.  It's safe to not go for multiple hits because he will resist
+them and attack you in the middle of a combo so hit him twice and then back
+away and hit again.  The key is to keep a distance or he will hurt you.
+
+Kill all the flying demons in here including the one holding the BUG.  Destroy
+the crate to the left of the train for a GEM.  Use the bug and then go in the
+door.
+
+GARDEN
+Get the BOOK in the chest and then proceed into the center of the garden.  Get
+out the chain sword and light the four torches with it.  It's smart to light
+one of the two closest ones to the moving thing in order to run in there
+quickly after lighting them.  Get in and get the KEY and then light the torch
+in there at the right time for it to stop itself and let you out.  Go to the
+other side of this area and go in the door.
+
+CASTLE ROOF
+Use the bug and then get over to the roof.  Kill everything and then talk to
+the guy here for a HERB.  Use the purple teleporter to send Samanosuke the key
+and then switch to him.
+
+CASTLE ENTRANCE
+Use the key on the gate to the top of the screen.
+
+CASTLE ENTRANCE 2
+Kill everything and then get the BOOK in the chest.  Go through the door.
+
+CASTLE PATH
+Kill the plant and get the GOLDEN CIRCLE in the chest behind it.  Go back.
+
+CASTLE ENTRANCE 2
+There are two chain demon shere to kill.  Exit.
+
+CASTLE ENTRANCE
+Use the golden circle on the gate to the left of the screen near the save
+point and go in.  There is a chain demon to kill.  Get the RED THING in the
+chest and then use the fairy to get something near the edge of the walkway.
+Absorb souls out of the pink temple thing.  Go back to the teleporter and
+send Jaku the red thing and switch to him.
+
+CASTLE ROOF
+Go into the door to the left.
+
+CASTLE STAIRS
+Use the red thing.  The tiles need to be stepped on in the right order.
+You can only walk from left to right and up to down (no diaganol walking).
+So the first time should be in this order.
+Star -> Sun -> Moon
+The only place you can start is the bottom left.  Make your way around in the
+right order.  There isn't ever a time when you have to choose between two
+stars or two moons or two suns so just keep moving.  The second time is in
+this order.
+Ah.  This time you have to make a decision at one point.  Oh, it's
+Sun -> Moon -> Star
+This last time you have to make a decision as well but just as long as you step
+on the right symbol, the thing won't come down and hit you.  Even if it does
+it doesn't do any damage except a little.
+Moon -> Star -> Sun
+Stairs are released so go down.  There is a door to the left which leads to an
+area where the hanging man is.  He can take you to a hack fest if you want.  On
+the stairs, kill some enemies and then destroy the crate on the bottom for some
+bugs.  Run back and use the bug to swing up.  There is a demon here to kill.
+Swing across and then kill the demon here.  Go down and kill the plant.  Then
+open the gate.
+
+CASTLE ENTRANCE 2
+Kill everything and look for something to release a bug.  Fly up to get a
+GARMENT and then go back down.  Exit this area.
+
+CASTLE STAIRS
+Go back up to the roof.
+
+CASTLE ROOF
+Switch characters.
+
+CASTLE ENTRACE
+Run across to the gate and go in.
+
+CASTLE STAIRS
+Run up to the gate on the left and go in.
+
+TELEPORT ROOM
+Kill the demons and then teleport in teh circle.
+
+ALTERNATE PARIS (What is this?   Silent Hill?)
+Go up into the arch after killing the plant.
+
+ARCH TOWER
+There are slugs in here.  Go up.
+
+ARCH ROOF
+There are some hard enemies here.  Kill them and get the KEY in the chest.  A
+teleportation cirlce appears so go in.
+
+TELEPORT ROOM
+Leave.
+
+STAIRS
+Go down to the bottom and to the entrance.
+
+CASTLE ENTRANCE
+Send the key to Jacque and switch.
+
+CASTLE ROOF
+Go into the door.
+
+CASTLE STAIRS
+Run down to the gate on the bottom and go in.  Use the key on the locked door
+here.
+
+GEAR ROOM
+Kill the two demons and get to the top left to get the DRINK in the chest.
+Exit.
+
+STAIRS
+Heihachi gives you a KEY here.  Kill the demons and then talk to the guy here
+for a HERB.  Go up the stairs and to the roof.
+
+CASTLE ROOF
+Use the bug on the edge to get to a door after saving the guy and talking to
+him.
+
+GARDEN
+Make your way to the door.  You'll have to fight some glowing demons.
+
+TRAIN AREA
+Float down and the key on the door here.
+
+CELL ROOM
+Run forward and Jaku saves them.  Get the ROOT on the floor and exit.
+
+TRAIN AREA
+Put the root in the square closest to the tree here.  Use the bug to go up and
+through the door.
+
+GARDEN
+Make your way around.
+
+CASTLE ROOF
+Switch to Samansouke.
+
+CASTLE ROOF
+CLimb down the tree.
+
+TRAIN AREA
+There is a GEM in the trashcan around here and also a MED PACK behind the gate
+on the left that Ako can get.  Also a anothe GEM in another trashcan.  Go in
+the door.
+
+CELL ROOM
+Smash the boxes and get the GEAR.  Also, there are two GEMS in here in boxes.
+
+TRAIN AREA
+Climb the plant.
+
+CASTLE ROOF
+Send the gear to Jaku and switch to him.
+
+Use the gear on the left and then pull the thing.  Go in the new door.
+
+CHURCH
+Kill the plant to get access to the chest which has a HEALTH and then get the
+book on the floor and then go through the door.  Go down and...
+
+OUTSIDE CASTLE
+Andi uses his sixth sense to sense his "pa pa" is in trouble.  You're playing
+as Misheru again.  As I'm typing this she's running her hand through her hair.
+What kind of sane person worries about their hair when demons are running
+around?  Run forward and to the left to get that mysterious RING again.  Go
+through the door.
+
+CASTLE ENTRANCE
+Kill things (the sniper rifle works good here) and then go to the door where
+the glowing demon is shooting things at you from.
+
+STAIRS
+Run up and go to the door at the top.  I kept hitting the button for awhile
+and it kept showing symbols and I was like, "Well, I guess there's some key
+or something", so I went around looking for it and then after no success
+came back and it let me in.  So, keep skipping past the symbols and it'll
+let you in.
+
+CASTLE ROOF
+You're now Samansouke.  Get the RING on the ground or just leave the stupid
+thing there and get in the door you start by.
+
+CHURCH
+Kill the spinning sword demon and then go in the door.  Save here.  Go down.
+Andi hits these buttons and you have to copy him.  It progresses, like it
+starts with up down triangle and then ads more.  I couldn't get the cut off
+points but you don't need them.  Just keep doing this below.
+
+up, down, /\, X, O, down, up, [], left, X, X, right
+
+CASTLE ENTRANCE
+Defeat the demons and save.  Exit this area.
+
+OUTSIDE CASTLE
+Hmm... I wonder if a huge demon is going to burst out of that suspicious
+rock...
+
+BOSS FIGHT: Two Headed Demon (Second Encounter)
+difficulty - easy
+It's the same boss except it has about four times as much health.  This is
+probably the longest battle in the game.  Just keep dodging it's charges
+by going left or right and then attacking and then running to the other side.
+The hardest part about this thing is when it knocks you down.  It's so cheap
+that it will continue knocking you down over and over and there is nothing you
+can do until it either stops or you manage to dodge it which is very hard at
+such a close range.
+
+They escape in the car.  Silly gaijin are overly emotional as usual, right
+Samaosuke?
+
+CASTLE POISON ROOM
+Jaku now.  Go into the door here.
+
+CASTLE BACK ROOM
+Kill everything and there is a BOOK to get.  Use the bug and destroy the crate
+for a GEM.  Go into the door.
+
+What was he trying to do?  Well, he gets attached to the flying thing with the
+cannon.  What is that, the Junon cannon?
+
+SNOW AREA
+Who the **** is this Heihachi guy?  One minute he's giving you keys, the next
+minute he's trying to kill you.  Now he's sitting by fires with you.  Heihachi
+then wanders off, probably to attack other friends of his.
+
+Save and the destroy the crate for a BUG.  This area is pretty big.  You keep
+getting on icebergs and using the bugs to pull over.  At one point you come
+up on an area where you can choose between two paths to two different icebergs
+but they both end up in the same area in the end.  Always look for crates to
+smash which have bugs in them.
+
+At the end, you'll be in front of a house and Samanosuke will away from you a
+bit.  You should save and then go in.  You'll be locked in.  For some reason
+I got the idea that Samanouske was behind this... Why was he hanging back there
+waiting for you to go in?
+
+HOUSE MAZE
+There are lots of respawning swinging demons here but Jaku is so powerful now
+you don't even really have to fight them (just grab them by holding R1 until
+it powers up two colors and then grab them and press in the opposite direction
+and press [] to throw them.  Then run over and do the quick kill).  First run
+all the way to the last room by using the red bug to open the door.  There is
+a blue bug in here.  There are two blue doors it opens.  Ignore the blue door
+close to this bug and run all the way back as far as you can.  Activate the red
+bug and then go in the first room you came in.  Quickly run in the blue door in
+here.
+In the chest is a BUG.  Kill the swinging demon here and then get the HEALTH in
+the chest in the back and use the soul absorbing thing.  You have to destroy
+the purple paper to get back here.  Activate the blue bug and leave.
+Activate the red bug and go into the next room.  There is a GEM to the left in
+here.  This area was unaccessible before you got that bug in the other room.
+Swing across and activate the yellow bug.  Now swing back across and run all
+the way up.  In the last room is a blue bug to use.  Go in the room next to it
+and run to the left into the yellow door.  Save and jump down.
+
+UNDER MAZE
+Kill the two charging demons and then use the bug that comes out to get up.
+SAVE HERE.  Before you proceed make sure you have an hour or so to spare.
+
+BATTLE GROUND
+This part is just awesome.  You really should not leave until you are on level
+20 with your red souls.  This is basically free souls, red, blue, and yellow.
+There are so many enemies and they are all the easy ones that have very long
+attack stances that you can actually get chain instant kills.  I've gotten up
+to a five chain instant kill.  Since instant kills always leave yellow souls
+you are basically always replenished.  Your health should never go below
+half way because of all the potential instant kills and yellow souls.
+Make your way to the right while killing.
+
+Okay, you should get to a gate so go in.
+
+BATTLE AREA
+THere's more of the battle in here.  Make your way over and use the bug.  Then
+there should be another gate.
+
+ANOTHER BATTLE AREA
+Small little area with battle.  Use the bug to get up.  Use the bug on the
+right to get a DRINK.  Go through the gate.
+
+GOLDEN TEMPLE
+You'll see Heihachi here and Annoying Man.  Save here.  Then go up the
+elevator.
+
+GOLDEN ROOM
+THere are some demons to fight.  Get the SCROLL, I guess, in the chest and then
+go through the window.
+
+ABOVE GOLDEN TEMPLE
+There is a puzzle to the right if you care.  Use the bug to go up.  The
+Grinning demon from earlier jumps down.  He is just the same.  Stay at a
+distance and use the weapons long reach to your advantage.  The fairy can get
+a DRINK to the left.  Go in the window.
+
+GOLDEN ROOM 2
+Go to the left for that chest that was visible in room 1.  Then save and go up
+the stairs.
+
+BOSS FIGHT: Demon Woman
+difficulty - very easy (if you know what you're doing)
+             medium/hard (if you don't)
+She is extremely fast and dodges any attack you throw at her unless she is
+attacking also.  Wait for her to attack and then slash her twice (any more
+and she'll dodge and hit you).  If she jumps up on the railings, run behind
+her and she can't attack you.  If she jumps on the wall, run away so she can't
+attack.  Just wait for her to do ground attacks and then counter.  That's the
+easiest and most sure way of beating her.  If she doubles herself, she can do
+great damage if you let them team up on you.
+
+Go up the ladder.
+
+After the scenes are done, you're Samanosuke at the Eiffel Tower.
+
+TOWER ENTRACE
+There is a puzzle box to the left.  Look around for a chest with a MED PACK.
+Go into the door after saving.  You have to press the red switch to the left
+of it.  Then press the red switch inside.  Kill the fast demons that burst in
+and then press the red switch next to the ladder.  Go up the ladder.
+
+ABOVE ELEVATOR
+Kill and then go up ladder.
+
+STAIRS
+You have to make your way up the stairs while avoiding the teleportation
+circles that randomly form on the levels between stairs.  The rolling demons
+are what makes it difficult because they knock you back into them.  What you
+should do is stay on the stairs, and kill the demons before running quickly
+to the next stairs.  Try to stay at the top of the stairs because if you're on
+the bottom they will knock you into teleportation circles.  At the top there is
+a spinning sword demon and a circle which forms around him.  Try to lure him
+away from that area, back towards the stairs you just came from.  Up stairs.
+
+BALCONY
+BOSS FIGHT: Big Robot
+Same techinique.  He has more health though I think.
+
+Once he's done, look for a machine that glows light blue.  It has a shutter
+that closes every now and then.  Attack it when it's open and break it.  A
+path is now open to the right of a chest in here.
+
+MORE STAIRS
+Same strategy as before.  You'll get to a point where you run on a blue wire.
+At one point it goes left and right.  Go right and then to the stairs.  Go up
+and do the same as before.  You'll get to the top and there is a charging
+demon and one of those demons that throws those rings around you.  Kill them
+and go up the stairs.
+
+BALCONY 2
+There is a LITTLE DUTCH GIRL in a chest to the right and HEALTH in the chest
+to the left.  Go up the stairs.  To the bottom right are FIRE ARROWS that Ako
+can get for you.  There is a BOOK to the right.  Hit the red switch next to
+the elevator to activate it.  A spinning sword demon comes down.  I found a
+quick way to kill them just now.  Hit him with a lightning arrow and it stuns
+him.  Then run over and attack him and he'll fall down.  Then do a quick kill.
+Go in the elevator.
+
+BALCONY 3
+Use the soul absorb thing in here and then save.
+
+BOSS FIGHT: Annoying Man
+He's the same as before.  You'd think at this point in the game button mashing
+wouldn't be enough to win but it is with this boss.  Just go crazy on him when
+souls start coming out and he tries to absorb them.  You can keep attacking
+him and he'll keep trying to get the same souls.
+
+*JAPAN*
+
+Back at the beginning but with Jaku.  Make your way to the building.
+
+Jaku beats up Annoying Man.  There is the weird hanging man who can
+take you to hack fests by the save point.  Save and go inside.
+
+BUILDING
+
+BOSS FIGHT: Nobunaga
+difficulty - medium
+This battle is easier than you'd think.  Just use magic on him.  Go through
+all your weapons and use it all.  Then start swinging and you'll hit him
+eventually.  This is it for Jaku so use all your stuff.
+
+*FRANCE*
+
+Watch the scene where Samanosuke teleports.  Then another scene.
+
+*JAPAN*
+
+Payback time.  Save and then go inside.
+
+This next part isn't really a fight.  YOu can't get hurt and you deal super
+damage.  Hit triangle to kill him quickly.  It's like the fight with Sephiroth
+at the end of FFVII.
+
+*???*
+
+BOSS FIGHT: Demon Nobunaga
+difficulty - easy
+You are in demon form.  Keep hitting triangle until he drops his sword.  At
+that point, absorb the evil from his sword.  Now you are using his sword.  Keep
+hitting triangle on him over and over.  He does some attacks you can't avoid
+even if you run away.  So stay as close as possible and keep hitting triangle.
+It's pretty easy if you have some health.
+
+THE END
+
+===============================================================================
+
+                              04. S E C R E T S
+
+===============================================================================
+
+Weapons:
+You can get the original sword by beating the game and saving.  It is in the
+alley in France where you start as Samansouke and is on the ground.
+
+Mini Games:
+The bottom selection on the menu takes you to the secret games.
+
+ARCHERY
+There is an archery type game here.  You can play as Samanosuke or Jaku.  You
+shoot the things that move across.  Ranks are S, A, B, C, and D.  If you get
+D you die.
+* green - normal
+* blue - fast
+* red - explosive
+* purple - put you in demon form
+
+HIHACHI SUB GAME
+
+Walkthrough:
+
+DOCK
+You start here.  Kill everything and head into town.  There is a new room here
+that was not in the main game but there's nothing in there but you can check
+it out if you want.
+
+VILLAGE
+Samanosuke is here to help.  Kill everything and then go onto the side path.
+Continue to the back path.
+
+BACK PATH
+There are bowmen here and a swinging demon.  Kill them and head into the shrine
+thing.
+
+SHRINE
+Talk to the guy in here and he'll give you a BOOK and a SQUARE THING.  I went
+over to the fire in here and used it.  I thought it was some kind of weapon
+material or something.  It opened a portal.  I don't know if you have to
+use this at the fire or not.  Enter the portal.
+
+TEMPLE AREA
+Exit.  Make your way to the circle room.  Find the door that takes you to the
+long undersea hallway.  Fight the two headed beast.
+
+I Don't know if this is some kind of time attack or what but a timer started
+a little after this and I died.
+
+More on this later.
+
+===============================================================================
+
+                                    05. F A Q
+
+===============================================================================
+
+Q: How do I get the sword from the first game?
+A: Beat the game and then save.  It will be in the alley in France where you
+start as Samansouke.  It's glowing on the ground.
+
+Q: What is that slip of paper that looks like a Japanese charm that was in my
+inventory the whole game?  I got it under Notre Dame.
+A: I don't know.  Someone asked this on the message board on GameFAQs and no
+one answered them.  I want to know too!  Answer them!
+
+UNDER CONSTRUCTION
+
+===============================================================================
+
+                          06. V E R S I O N  H I S T O R Y
+
+===============================================================================
+
+Version 1.3
+03.11.04
+* Finished walkthrough, secrets, and conclusion.
+
+Version 0.2
+03.10.04
+* Progressed in walkthrough.
+
+Version 0.1
+03.09.04
+* Started document, story, characters, basics, and walkthrough.
+* Completed story, characters, and basics.
+
+===============================================================================
+
+                              07. C O N C L U S I O N
+
+===============================================================================
+
+* THANKS:
+Thanks to Mike (*looks on Mike's screen*
+                "Oh, that's where you are...")
+
+* LEGAL NOTICE:
+The only sites that can host this document are
+                                              http://www.gamefaqs.com
+                                              http://www.gamespot.com
+
+--
+This document is an FAQ by ataboy for the game...
+ _                   _       _   _
+| | |\ | | |\/| | | |_  |_| /_\  _|  .  D E M O N
+|_| | \| | |  | |_|  _| | | | |  _|  .  S E I G E  ( J P N )
+by Capcom for the Sony PS2
+
+THIS DOCUMENT IS COPYRIGHT 2004 by ataboy

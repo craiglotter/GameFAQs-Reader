@@ -1,0 +1,1079 @@
+                              ::ffLLii..
+                            ..ttLLLLLLii
+                          ;;ffLLLLLLLLLL..
+                        ..jjLLLLLLLLLLLL;;
+                        ..ttLLLLLLLLLLLLjj..        ..
+                          iiLLLLLLLLLLLLff::    ;;ttjjtt..
+                            ttLLLLLLLLLLLL;;;;ffLLLLLLLLLLtt..
+                            ..;;ffLLLLLLLL;;LLLLLLLLLLLLLLLLtt;;
+                                  ..ttffffiiLLLLLLLLLLLLLLLLLLLL..
+                    ;;iittttttiiii;;..;;ttttii;;iiffLLLLLLLLLLLL;;
+                ;;ffLLLLLLLLLLLLLLLLLLjjttLLii..    iiffLLLLLLLL;;
+                ttLLLLLLLLLLLLLLLLLLLLffLLLLLLtt..    ;;ffLLLLLL:'
+                ttLLLLLLLLLLLLLLLLLLiiffLLLLLLLLLLii      ..iiii'
+                iiLLLLLLLLLLLLLLLLttttLLLLLLLLLLLLLL..
+                ';iiffLLLLLLLLLLtt..LLLLLLLLLLLLLLLLff..
+                   ';;ffLLLLLLLL,, .LLLLLLLLLLLLLLLLLLii.
+                      iiLLLLff;;   .LLLLLLLLLLLLLLLLLLLL.
+                      ..tttt..     .LLLLLLLLLLLLLLLLLLLL..
+                                    jjLLLLLLLLLLLLLLLLLL..
+                                    iiLLLLLLLLLLLLLLLLLL..
+                                      ;;LLLLLLLLffjjLLjj'
+                                      ..iiffLLff....ii''
+                                      ii  ..,,..
+                                     .tt
+                                     .ii
+                                    . ;;..
+                                    .. .ii;.
+                                    ;;iitt;;
+ -----------------------------------------------------------------------------
+|                                                                             |
+|                     O K A M I   -   C L O V E R   F A Q                     |
+|                                                                             |
+ -----------------------------------------------------------------------------
+                                    ::....::.
+                                    ''ttii''
+
+                            FAQ for Okami - Clover
+                                 Version 1.00
+                         Last update: 05th April 2007
+                         Written by CJ800 (Kelvin Tan)
+                      Contact: kelvinator_800@hotmail.com
+
+===============================================================================
+00. Content
+===============================================================================
+
+01. Disclaimer & Copyright .............................................. EXCPV
+02. News & Updates ...................................................... WHSUP
+03. Introduction ........................................................ GETIN
+04. Requirements ........................................................ IPASS
+05. Clovers in Eastern Nippon ........................................... EEEEE
+
+06. Clovers in Western Nippon ........................................... WWWWW
+07. Clovers in Kamui .................................................... KKKKK
+08. Frequently Asked Questions .......................................... ASKME
+09. Credits & Special Thanks ............................................ KUDOS
+10. Others .............................................................. ETCCC
+
+
+===============================================================================
+01. Disclaimer & Copyright                                                EXCPV
+===============================================================================
+
+This FAQ is copyright of CJ800, real name Kelvin Tan. This FAQ may not be
+reproduced under any circumstances except for personal, private use. It may not
+be placed on any web site or otherwise distributed publicly without advance
+written permission. Use of this guide on any other web site or as a part of any
+public display is strictly prohibited, and a violation of copyright.
+
+This FAQ is NOT an official FAQ for Okami. All characters two legged, four
+legged, 8 Headed, trademarks...etc, are properties to their respective owners.
+
+
+===============================================================================
+02. News & Updates                                                        WHSUP
+===============================================================================
+
+Version 1.0 - 05th April 2007
+- FAQ uploaded. 137 Clovers found.
+
+
+===============================================================================
+03. Introduction                                                          GETIN
+===============================================================================
+
+Why such a FAQ? Well, let's say I got too much time on my hand. Most of the
+clovers are easily spotted; they are so obvious that you probably won't miss
+90% of them at all. The green glow that emits from it is a dead giveaway.
+Further more, the green glow works non-stops for 24 hours. You don't have to
+hunt for clovers during nighttime. And if there's not helpful enough, you could
+even spots some of the clovers' glow in cut scenes.
+
+However, some clovers are hiding in spots that you might not expect. Some
+clovers could be a few steps away, but you can't see the green glow due to
+bright colors on the screen. Or maybe you found one and suddenly a demon scroll
+attacks you, and you forgot about it after a heated battle?
+
+If you got clovers that are missing from this FAQ, please contact me at
+kelvinator_800@hotmail.com
+
+Now, let's go bloom some clovers. Shall we?
+
+
+===============================================================================
+04. Requirements                                                          IPASS
+===============================================================================
+
+When you found a green spots, go to it and press the Triangle button rapidly to
+dig. A black clover will pop right out. You can rejuvenate these wilted clovers
+by using the Celestial Brush technique, bloom to restore life to them. Once
+they turn green, praise will be given.
+
+Digging and Bloom are basic requirement. However, not every clover can be dig
+up and bloom right away. Some of them require extra help, while some are
+located at hard to reach area. To bloom these clovers, you may require gaining
+some techniques or special items. I'd listed them down in order so that you'll
+know which requirement can be fulfil first.
+
+
+Bloom           Issun will teach you how to use this brush technique in Hana
+                Valley.
+
+Vine            You will gain this brush technique in order to proceed further
+                in Tsuta Ruins. This technique allows you to get up to higher
+                grounds and hard-to-reach areas.
+
+Water Lily      You'll gain this brush technique when you return to Kamika
+                Village for the Konohana Shuffle. This allows you to use the
+                lily pad as a platform to cross over water. Combine this with
+                Galestorm and you can move around on water.
+
+Digging Champ   Spend 30,000 Yen at Ryoshima Coast Dojo to learn this skill.
+                This allows you to dig harder grounds and even dig up holes for
+                more surprises.
+
+Holy Eagle      This is a story-required God technique. Spend 20,000 Yen at the
+                Ryoshima Coast Dojo to learn this skill. This allows you to
+                double jump in the air.
+
+Mist Warp       Trade from the Emperor for 80 Demon Fangs. You can get this
+                once you clear the air in Sei-an City. This allows you to
+                teleport to other location.
+
+Power Slash 2   Donate 60,000 Yen to gain this brush technique from a Divine
+                Spring in N.Ryoshima Coast. This allows you to slash all iron
+                rocks.
+
+Cherry Bomb 2   Donate 120,000 Yen to gain this brush technique from a Divine
+                Spring in N.Ryoshima Coast. This allows you to cast 2 bombs.
+
+Catwalk         You'll gain this brush technique at Catcall Tower. This allows
+                you to stick to the wall like spider and reach places you
+                couldn't before. Just remember to bring some fish feeds to the
+                tower.
+
+Water Tablet    Trade from the Emperor for 100 Demon Fangs. You can do this
+                after returning from Oni Island. This allows you to walk on
+                water, no more silly lily pad, yeah.
+
+Power Slash 3   Donate 360,000 Yen to gain this brush technique from a Divine
+                Spring in Ezofuji. This allows you to slash all diamond rocks.
+
+Blizzard        You'll gain this final brush technique in order to proceed
+                further in Wawku Shrine. This allows you to create ice
+                platforms to form a bridge.
+
+
+
+===============================================================================
+05. Clovers in Eastern Nippon                                             EEEEE
+===============================================================================
+
+    ------------------
+    - Kamiki Village -
+    ------------------
+
+[ ] #001 
+    Location:    On the 2nd island north of Susano's house.
+    Requirement: Water Lily
+    Praise:      5
+
+[ ] #002
+    Location:    On the higher ledge beside the waterfall.
+    Requirement: Vine 
+    Praise:      5
+
+
+
+    -----------------
+    - Shinshu Field -
+    -----------------
+
+[ ] #003
+    Location:    Behind the Merchant, along the river leading towards the
+                 Nameless Man's kiln.
+    Requirement: None
+    Praise:      5
+
+[ ] #004
+    Location:    Southeast from the Guardian Sapling and South from the Cat
+                 statue.
+    Requirement: None
+    Praise:      5
+
+[ ] #005
+    Location:    On the hard ground south of the Guardian Sapling. Next to the
+                 road sign pointing towards Agata Forest.
+    Requirement: Digging Champ
+    Praise:      20
+
+[ ] #006
+    Location:    high above the waterway to Agata Forest. Came here from the
+                 tunnel at Hitoshio Spring, Agata Forest.
+    Requirement: Digging Champ
+    Praise:      20
+
+[ ] #007
+    Location:    Northernmost higher ground of Shinshu Field.
+    Requirement: Catwalk
+    Praise:      30
+
+[ ] #008
+    Location:    Easternmost higher ground of Shinshu Field.
+    Requirement: Catwalk
+    Praise:      30
+
+
+
+    ---------------
+    - Hana Valley -
+    ---------------
+
+[ ] #009
+    Location:    East of the first mirror. Across the river.
+    Requirement: None
+    Praise:      5
+
+[ ] #010
+    Location:    On the island infront of the first waterfall.
+    Requirement: None
+    Praise:      5
+
+[ ] #011
+    Location:    Near the hanging bridge. After aquiring the bloom technique,
+                 Issun will talk about the gloomy patch of grass at the bridge.
+                 There is a curse tree nearby and you can wall jump up the
+                 ledge behind it. You'll find a clover spot and this should be
+                 your very first clover.
+    Requirement: None
+    Praise:      5
+
+
+
+    ----------------
+    - Agata Forest -
+    ----------------
+
+[ ] #012
+    Location:    Behind the Guardian Sapling.
+    Requirement: None
+    Praise:      5
+
+[ ] #013
+    Location:    On the left of the huge tree trunk at Hitoshio Spring.
+    Requirement: Digging Champ
+    Praise:      20
+
+[ ] #014
+    Location:    Underneath the iron rock near the broken bridge.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #015
+    Location:    Inside a cave near Tsuta Ruins. Go up the ledge beside the
+                 gate, blow up the cracked wall to reveal the cave. The clover
+                 will be on top of the pillar.
+    Requirement: Cherry Bomb & Catwalk
+    Praise:      30
+
+[ ] #016
+    Location:    East side of the rapids river.
+    Requirement: Water Tablet
+    Praise:      50
+
+[ ] #017
+    Location:    Underneath the diamond rock, next to the pond where the Madame
+                 Fawn lives.
+    Requirement: Power Slash 3
+    Praise:      50
+
+
+
+    ---------------
+    - Tsuta Ruins -
+    ---------------
+
+[ ] #018
+    Location:    1st Floor. On a small island at the Southwest of the lake. You
+                 can jump in the mid air and dash to reach there. There is a
+                 slightly raised ground where you can gain some height. If you
+                 still having trouble, come back when the water is clean so you
+                 can draw a lily pad and wall jump to reach up.
+    Requirement: None.
+    Praise:      5
+
+[ ] #019
+    Location:    1st Floor. Beside a cursed tree in the next room with clean
+                 water.
+    Requirement: None
+    Praise:      5
+
+[ ] #020
+    Location:    1st Floor again. In the next room from the above clover. Wall
+                 jump to reach higher ground, turn around and jump over to the
+                 pots, continue to follow the narrow path until the end.
+    Requirement: None
+    Praise:      5
+
+[ ] #021
+    Location:    1st Floor. In the room where you have to fight 2 Bud Ogres and
+                 grow some giant mushroom. You need to double jump from the
+                 highest mushroom and dash in the mid air to reach it.
+    Requirement: Holy Eagle
+    Praise:      5
+
+[ ] #022
+    Location:    2nd Floor. On a ledge behind the room with an Origin Mirror.
+                 After repairing the stone bridge, procced to the next room and
+                 go to the back of the mirror to find the ledge.
+    Requirement: None
+    Praise:      5
+
+[ ] #023
+    Location:    1st Floor. On the right foot of the Giant Idol. You can came
+                 here after cleaning the water.
+    Requirement: None
+    Praise:      5
+
+
+
+    -------------
+    - Taka Pass -
+    -------------
+
+[ ] #024
+    Location:    Behind the stone piller at the pond area where you fight Waka.
+                 This only appear after you revived the Guardian Sapling.
+    Requirement: None
+    Praise:      5
+
+[ ] #025
+    Location:    Underneath the iron rock on the left once you get out of the 
+                 tunnel at the higher grounds.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #026, #027 & #028
+    Location:    On the highest ledge with a tree. After you had revived the
+                 Guardian Sapling, follow the railing until you see a Konohano
+                 Blossom. Vine yourself up and to the other Konohano Blossoms
+                 nearby until you see the ledge.
+    Requirement: Vine
+    Praise:      15 (5 each)
+
+[ ] #029
+    Location:    On the ledge above the pond at the Cutters' house. Create a 
+                 water geyser to reach it.
+    Requirement: Waterspout
+    Praise:      5
+
+[ ] #030, #031 & #033
+    Location:    Underground. Underneath the hard ground near Bingo.
+    Requirement: Digging Champ
+    Praise:      30 (10 each)
+
+[ ] #034
+    Location:    On the ledge next to the Cat Statue.
+    Requirement: Catwalk
+    Praise:      30
+
+
+
+    ----------------
+    - Kusa Village -
+    ----------------
+
+[ ] #035 & #036
+    Location:    In a cave behind Blockhead. Vine yourself up to the Guard post
+                 in front of Fuse's house. Follow the narrow path until you 
+                 reach to a platform. Defeat the Blockhead and go into the cave.
+    Requirement: Vine
+    Praise:      10 (5 each)
+
+[ ] #037
+    Location:    On the same platform as above, jump onto the mountain and get
+                 around to the back of the roof.
+    Requirement: Vine
+    Praise:      5
+
+[ ] #038
+    Location:    Along the fences near the enterance to Gale Shrine.
+    Requirement: None
+    Praise:      5
+
+[ ] #039
+    Location:    On the path to Mr. Bamboo's house. Before the tunnel where
+                 Susano was sleeping, jump over the fence.
+    Requirement: None
+    Praise:      5
+
+[ ] #040
+    Location:    On the same path as above. Pass the tunnel and jump up to the
+                 higher ground on the left, where you can see a ladder beside
+                 the fence. You can see Komusa here too.
+    Requirement: None
+    Praise:      5
+
+
+
+
+    ------------------
+    - Sasa Sanctuary -
+    ------------------
+
+[ ] #041
+    Location:    Climb up the ledges south of the Ultimate Origin Mirror. Go
+                 further in and you'll see the clover spot.
+    Requirement: None
+    Praise:      5
+
+[ ] #041
+    Location:    On the ledge above the hot spring. Ammy will jump up there
+                 automically once she learned Waterspout.
+    Requirement: None, otherwise waterspout.
+    Praise:      5
+
+
+
+    ---------------
+    - Gale Shrine -
+    ---------------
+
+[ ] #042 & #043
+    Location:    Underneath the elevator. Stand at the door and draw a cherry
+                 bomb in the middle to raise the elevator.
+    Requirement: Cherry Bomb
+    Praise:      10 (5 each)
+
+
+
+    -------------
+    - Moon Cave -
+    -------------
+
+[ ] #044
+    Location:    1st floor of the central area. After you have aquire the Lips
+                 of Ice, there will be a clover's green glow in the bucket next
+                 to the blue konohana flower.
+    Requirement: None
+    Praise:      30
+
+[ ] #045
+    Location:    3rd floor. On the ledge in front, once you get into the Room
+                 of Sands.
+    Requirement: None
+    Praise:      5
+
+[ ] #046
+    Location:    Same room of the previous Clover, on the left after crossing
+                 the invisible bridge of sand.
+    Requirement: None
+    Praise:      5
+
+
+
+    -------------------
+    - City Checkpoint -
+    -------------------
+
+[ ] #047
+    Location:    Inside the cave behind the waterfall.
+    Requirement: None
+    Praise:      5
+
+[ ] #048
+    Location:    South of the river.
+    Requirement: None
+    Praise:      5
+
+[ ] #049
+    Location:    Pass the Drawbridge, after restoring the grass on the right.
+    Requirement: None
+    Praise:      10
+
+[ ] #050
+    Location:    On a small island north of the river.
+    Requirement: Water Tablet
+    Praise:      5
+
+
+
+===============================================================================
+06. Western Nippon                                                        WWWWW
+===============================================================================
+
+    ------------------
+    - Ryoshima Coast -
+    ------------------
+
+[ ] #051
+    Location:    On the small island at the lake, next to the cat statue.
+    Requirement: None
+    Praise:      10
+
+[ ] #052
+    Location:    Infront of the tunnel and next to the waterfall. (Shortcut to
+                 Agata Forest.)
+    Requirement: None
+    Praise:      10
+
+[ ] #053
+    Location:    Underneath a iron rock beside one of the ponds where you need
+                 to fill with water to revive the Guardian Sapling.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #054
+    Location:    In front of the Moon Turret.
+    Requirement: None
+    Praise:      10
+
+[ ] #055
+    Location:    Underneath a iron rock at the east side of the beach.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #056
+    Location:    On small beach at the other side of the Pier.
+    Requirement: None
+    Praise:      10
+
+[ ] #057
+    Location:    On the ledge with hard ground before Sei-an City.
+    Requirement: Digging Champ
+    Praise:      20
+
+[ ] #058
+    Location:    Underneath a diamond rock at the borders to N. Ryoshima Coast.
+    Requirement: Power Slash 3
+    Praise:      50
+
+
+
+    -----------------------------------
+    - Sei-on City (Aristocratic Qtr.) -
+    -----------------------------------
+
+[ ] #059
+    Location:    West of the city, on the other side of the canel where the
+                 water wheel is.
+    Requirement: None
+    Praise:      10
+
+[ ] #060
+    Location:    Northeast of the Aristocratic Quarter, behind the spring.
+    Requirement: None
+    Praise:      10
+
+[ ] #061
+    Location:    Northwest of the Aristocratic Quarter.
+    Requirement: None
+    Praise:      10
+
+[ ] #062
+    Location:    At the east dead end of Himiko's Palace. Go to the east side
+                 of the Palace, jump over the fence and follow the walls until
+                 you reach the dead end.
+    Requirement: None, otherwise you need Veil of Mist to get pass the guards.
+    Praise:      10
+
+
+
+    ---------------
+    - Sunken Ship -
+    ---------------
+
+[ ] #063
+    Location:    At the room where there is an exposed ceiling which you can
+                 change the tide by changing the time.
+    Requirement: None
+    Praise:      10
+
+
+
+    -------------------
+    - Imperial Palace -
+    -------------------
+
+[ ] #064
+    Location:    On the ledge next to the first Platform Spider.
+    Requirement: None
+    Praise:      20
+
+[ ] #065
+    Location:    On top of the ledges behind the first yellow Plaform Spider.
+    Requirement: None
+    Praise:      20
+
+[ ] #066
+    Location:    On the ledge opposite from the previous clover. Cross over
+                 using the horizontal moving spider.
+    Requirement: None
+    Praise:      20
+
+
+
+    ---------------------
+    - N. Ryoshima Coast -
+    ---------------------
+
+There are quite a bunch of islands here so I'm going to name them by numbers.
+Please follow the numbers in the ascii map below.
+
+         ============================================================
+        |                          __        __                      |
+        |                         |4 |      |5_|                     |
+        |                          ¯¯       //                       |
+        |     __                            ¯                        |
+        |    |3 |      /¯¯¯¯¯\                                       |
+        |     ¯¯      Whirlpool                        __            |
+        |             |       |                       |6 |           |
+        |        __    \_____/                         ¯¯            |
+        |       |2 |                                                 |
+        |        ¯¯                                                  |
+        | |¯¯¯\_            _                                        |
+        |  \ 1  \_          \\   _   _                      /¯¯¯¯¯\  |
+        |   \___/            \\ / \ / \_    __             |  7    | |
+        |                     \\\ //    \  |8 |            |       | |
+        |                     /   \\     \__¯¯              \_____/  |
+        |                     \    ¯        \                        |
+        |                      \_           /                        |
+        |                        \          \__                      |
+        |                         |            \                     |
+         ============================================================
+
+[ ] #067
+    Location:    On the lower land across the badly damaged stairs, near the
+                 Cat statue and some cats.
+    Requirement: None
+    Praise:      10
+
+[ ] #068 & #069
+    Location:     Rocky Area. You have to use Mist Warp on the Ultimate Origin
+                  Mirror to get there.
+    Requirement:  Mist Warp
+    Praise:       20 (10 each)
+
+[ ] #070
+    Location:    Underneath the iron rock near Umi's Restaurant.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #071
+    Location:    On the hard ground beside the Merchant.
+    Requirement: Digging Champ
+    Praise:      20
+
+[ ] #072, #073 & #074
+    Locaiton:    Underground, underneath a patch of hard ground near the pond
+                 of golden fury water where Yochi is practicing his archery.
+    Requirement: Digging Champ
+    Praise:      30 (10 each)
+
+[ ] #075
+    Location:    Island 8, near the Guardian Sapling.
+    Requirement: None
+    Praise:      10
+
+[ ] #076
+    Location:    Island 1. Hard ground on the upper ground.
+    Requirement: Digging Champ
+    Praise:      20
+
+[ ] #077
+    Location:    Island 1 again. Southeast of the above Clover.
+    Requirement: None
+    Praise:      10
+
+[ ] #078
+    Location:    Island 3. Next to the tree.
+    Requirement: None
+    Praise:      10
+
+[ ] #079
+    Location:    Island 4, Lower ground.
+    Requirement: None
+    Praise:      10
+
+[ ] #080, #081 & #082
+    Locaiton:    Island 4 again. Underground. On the upper ground, there is a
+                 rock surrounded by pots. Slash it to reveal a hole, drop in
+                 and you will find 3 clovers. There is also a divine spring
+                 where you can learn Power Slash 2.
+    Requirement: None
+    Praise:      30 (10 each)
+
+[ ] #083
+    Location:    Island 4 again. Underneath the iron rock on the upper ground.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #084, #085 & #086
+    Location:    Island 5. Underground again. Blow up the cracked ground and
+                 jump down the hole. You'll 3 Clovers around the Divine Spring
+                 where you can learn Cherry Bomb 2.
+    Requirement: Cherry Bomb
+    Praise:      30 (10 each)
+
+[ ] #087
+    Location:    Island 6. Underneath the diamond rock.
+    Requirement: Power Slash 3
+    Praise:      50
+
+
+
+    -----------------
+    - Catcall Tower -
+    -----------------
+
+[ ] #088
+    Location:    Ground level of the tower, 2 O'clock direction.
+    Requirement: None
+    Praise:      10
+
+[ ] #089
+    Location:    Ground level of the tower, 1 O'clock direction.
+    Requirement: None
+    Praise:      10
+
+[ ] #090
+    Location:    Ground level of the tower, 11 O'clock direction.
+    Requirement: None
+    Praise:      10
+
+
+
+    -----------------
+    - Dragon Palace -
+    -----------------
+
+[ ] #091, #092 & #093
+    Location:    Underground. Go to the back of staircase, blown up the wall
+                 and Jump down into the hole.
+    Requirement: Cherry Bomb
+    Praise:      30 (10 each)
+
+[ ] #094
+    Location:    On the ledge of the northwest from the spring.
+    Requirement: None
+    Praise:      10
+
+
+
+    --------------
+    - Oni Island -
+    --------------
+
+[ ] #095
+    Location:    3rd floor. Pass the rotating bridge after the area where you
+                 gain Thunderstorm. You can't miss this.
+
+    Requirement: None
+    Praise:      50
+
+
+
+===============================================================================
+07. Kamui                                                                 KKKKK
+===============================================================================
+
+    ---------
+    - Kamui -
+    ---------
+
+[ ] #096
+    Location:    On the higher ground beside the Guardian Sapling.
+    Requirement: Vine
+    Praise:      30
+
+[ ] #097, #098 & #099
+    Location:    In the underground behind the location of the previous clover.
+                 Blow up the wall and you'll see a cracked ground that requires
+                 2 Cherry Bombs to blow it up. Jump down the hole and you'll
+                 find 3 clovers and a Divine Spring where you can learn Cherry
+                 Bomb 3.
+    Requirement: Cherry Bomb 2
+    Praise:      90 (30 each)
+
+[ ] #100
+    Location:    Undeneath a iron rock a little northwest from the Guardian
+                 Sapling. There is a bear nearby.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #101
+    Location:    On a island at a icy lake. West of the Guardian Sapling.
+    Requirement: None
+    Praise:      30
+
+[ ] #102, #103 & #104
+    Location:    Underground. Underneath the hard ground on the same island as
+                 the above clover. There is a Blockhead and 3 clovers.
+    Requirement: Digging Champ
+    Praise:      90 (30 each)
+
+[ ] #105
+    Location:    Underneath the iron rock on the path towards Yoshpet.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #106
+    Location:    Inside the cave at the west. Take the path to the right.
+    Requirement: None
+    Praise:      30
+
+[ ] #107
+    Locaiton:    Inside the same cave. Take the path on the left.
+    Requirement: Power Slash 3
+    Praise:      50
+
+[ ] #108
+    Location:    Take the path up towards Wep'keer. Before the next area, drop
+                 to the lower ground on the right with hard ground.
+    Requirement: Digging Champ
+    Praise:      40
+
+
+
+    ------------
+    - Wep'keer -
+    ------------
+
+[ ] #109
+    Location:    Between the 2 pillars on the icy lake.
+    Requirement: None
+    Praise:      30
+
+[ ] #110
+    Location:    Go up the stairs between the 2 houses on the right. Cross the
+                 wooden plank over to the island.
+    Requirement: None
+    Praise:      30
+
+[ ] #111
+    Location:    Northeast of the village. Take the stairs beside the Merchant
+                 and turn right towards the Snowy Waterfall. Go pass the house
+                 and towards the lake where there are 4 sheeps nearby.
+    Requirement: None
+    Praise:      30
+
+[ ] #112
+    Location:    Go behind Kai's house and cross the bridge where there are 3
+                 sheeps.
+    Requirement: None
+    Praise:      30
+
+
+
+    -------------------
+    - Kamui (Ezofuji) -
+    -------------------
+
+[ ] #113
+    Location:    Go towards the ledge on the east and vines your way through
+                 a trail of Konohana Blossoms until you reach another ledge.
+                 Drop on to that ledge and you should see some monkeys around
+                 the clover spot.
+    Requirement: Vine
+    Praise:      30
+
+
+
+[ ] #114
+    Location:    On the lowest ledge on the north of the Ark. There should be
+                 some sheeps nearby.
+    Requirement: Vine
+    Praise:      30
+
+
+[ ] #115 & #116
+    Location:     On a higher ledge from the previous clover. There is a hard
+                  ground with 2 clover spots and a treasure chest that contains
+                  stray bead #86 too.
+    Requirement:  Vine & Digging Champ
+    Praise:       80 (40 each)
+
+[ ] #117
+    Location:    Get up one more level from the previous clovers and go to the
+                 edge at the east. It's beside the rock and there's a Stray
+                 Beads #85 nearby too.
+    Requirement: None
+    Praise:      30
+
+[ ] #118, #119 & #120
+    Location:    Underground. Go up the path to Tuskle's house and jump down to
+                 the ledge at the Northwest of the lake. Slash the iron rock to
+                 reveal a hole. Jump in and you'll find 3 clovers and a Divine
+                 Spring where you can learn Power Slash 3.
+    Requirement: Power Slash 2
+    Praise:      90 (30 each)
+
+[ ] #121
+    Location:    Underneath a diamond rock on the same ledge as the previous.
+    Requirement: Power Slash 3
+    Praise:      50
+
+
+
+    ------------
+    - Ponc'tan -
+    ------------
+
+[ ] #122
+    Location:    On the huge mushroom at the centre. Climb up the stump on the
+                 right and jump over from the leaves.
+    Requirement: None
+    Praise:      30
+
+[ ] #123
+    Location:    East of the village.
+    Requirement: None
+    Praise:      30
+
+
+
+    ----------------------------------
+    - Kamiki Village (100 years ago) -
+    ----------------------------------
+
+[ ] #124
+    Location:    On the island behind Mr. Grapefruit's house.
+    Requirement: None
+    Praise:      30
+
+[ ] #125
+    Location:    On the ledge above Mrs. Grapefruit.
+    Requirement: None
+    Praise:      30
+
+[ ] #126
+    Location:    On the island behind Nagi's house.
+    Requirement: Water Lili
+    Praise:      30
+
+
+
+    ---------------------------------
+    - Shinshu Field (100 years ago) -
+    ---------------------------------
+
+[ ] #127
+    Location:    At the end of the path towards North. (Where Nameless Man's
+                 house will be 100 years later.) 
+    Requirement: None
+    Praise:      30
+
+[ ] #128
+    Location:    Underneath a iron rock at the footing of the S path.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #129
+    Location:    Underneath a iron rock halfway up the S path.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #130
+    Location:    Head west from the above location and pass the lake. (Where
+                 the Dojo will be 100 years later.) 
+    Requirement: None
+    Praise:      30
+
+[ ] #131
+    Location:    At the top of the S path, north of the red Torri Gate.
+    Requirement: None
+    Praise:      30
+
+[ ] #132
+    Location:    Underneath the iron rock beside the red Torii Gate.
+    Requirement: Power Slash 2
+    Praise:      40
+
+[ ] #133
+    Location:    South of the above location, towards Pier to Agata Forest.
+    Requirement: None
+    Praise:      30
+
+[ ] #134
+    Location:    Left side of the ramp, pass the red Torri Gate.
+    Requirement: None
+    Praise:      30
+
+
+
+----------------
+- Wawku Shrine -
+----------------
+
+[ ] #135
+    Location:    4th Floor. Pass through the Golden Torii Gate and the gears
+                 floor hallway to the outdoor area. Once you reach outside,
+                 turn left and you'll see it. 
+    Requirement: None
+    Praise:      30
+
+[ ] #136
+    Location:    6th Floor. At a higher ledge of the outdoor area before the
+                 trail of cursed trees. You need to create some ice platforms
+                 to get up. 30 Praise.
+    Requirement: Blizzard
+    Praise:      30
+
+
+[ ] #137
+    Location:    4th Floor outdoor again. After unlocking the door. On the
+                 other side of the ledge with cannons. You got some cannons on
+                 your side as well.
+    Requirement: Blizzard
+    Praise:      30
+
+
+
+===============================================================================
+08. Frequently Asked Questions                                            ASKME
+===============================================================================
+
+Q: I can't find the green glow of the clovers as described in this FAQ.
+A: Did you revive the Guardian Sapling yet? The green glow only appear once the
+   cursed zones are removed. Or after a Divine Intervention 
+
+Q: How does a Divine Intervention occur?
+A: By blooming gloomy grass patches or destroy Devil Gates.
+
+Q: When can I starts blooming those clovers?
+A: Once you gain Bloom at Hana Valley, you can starts your clover hunt.
+
+Q: Any missable clovers?
+A: Once you're done with Moon Cave, Imperial Palace, Oni Island, Kamiki Village
+   & Shinshu Field 100 years ago, you cannot re-visit these place again.
+
+
+===============================================================================
+09. Credits & Special Thanks                                              KUDOS
+===============================================================================
+
+I would like to thank,
+
+  Clover - for making great enjoying games like Okami.
+
+  Gaozheng - For introducing this game to me.
+
+
+
+===============================================================================
+10. Others                                                                ETCCC
+===============================================================================
+This FAQ is best view with fonts like Courier, Fixedsys or Lucida Console, if
+you are going to save this FAQ and read it offline.
+
+
+Official Site of Okami:
+Japan - http://www.o-kami.jp/
+US    - http://www.capcom.com/okami/
+
+
+My homepage:
+http://www.geocities.com/kelvinator_800/
+It has nothing to do with Okami but do visit it if you like drawings and other
+artwork. Just be aware that some of the drawings are pretty bad.

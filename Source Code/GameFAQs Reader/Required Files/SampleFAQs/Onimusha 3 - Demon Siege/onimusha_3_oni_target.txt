@@ -1,0 +1,314 @@
+Onimusha 3: Demon Siege
+Oni Target Practice Mini Game FAQ
+By Forcena (Danny Smith or Forcena2236@hotmail.com)
+Version 1.0
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Table of Contents
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+1.) Introduction to the FAQ (IDN)
+2.) The Basics of Oni Target Practice (BSC)
+3.) The Guide (GDE)
+4.) Frequently Asked Questions (FAQ)
+5.) Legal Stuff (LGS)
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Introduction to the FAQ (IDN)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+The Onimusha 3 target practice mini game is the key to unlocking the Ultimate
+Mode for Samanosuke and Jacques. I'll tell you right off the bat that you 
+should expect to spend around four hours sitting in front of your tv while 
+playing the game. It's fairly short, but involving and difficult.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+The Basics of Oni Target Practice (BSC)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+---------------------------------------
+Choosing Your Character
+---------------------------------------
+
+You can choose either Samanosuke or Jacques. While upfront it seems like it's
+a simple character preference, there's actually subtle differences to their 
+shooting styles that may influence your gameplay. Take a look at the character
+chart and decide for yourself which play style you want.
+
+--------------
+Samanosuke
+--------------
+
+-Arrows are fatter than bullets, and can more easily graze and break eggs
+-Arrows move slower than bullets
+-A slight delay occurs before each shot, as he has to string the arrow
+-Doesn't slide left when aiming
+-Possesses a slower slide
+-Doesn't have a recoil, and can fire immediately after a shot
+
+Samanosuke requires less precision when aiming, but you have to lead somewhat
+with your arrows and account for the fraction of a second it takes for the 
+arrow to reach the egg. His fire arrows can easily get you lucky shots by 
+grazing eggs and breaking them. Choose Sam if you can easily estimate shot
+distances and like the ability to rapid fire.
+
+--------------
+Jacques
+--------------
+
+-Bullets are skinnier and require more precison
+-Bullets are faster and pretty much instantaneous upon firing
+-Fires instantly, no delay
+-A slight recoil occurs after each shot
+-Has a faster slide
+-Steps slightly to the left when aiming
+
+Jacques is a faster choice. He's a true sniper. You'll need accuracy with him
+and you'll need to take into account that you can't make frantic shots as 
+there's a recoil time between shots. The left step shouldn't affect you much 
+if you just keep your hand pressed down on the right shoulder button though.
+
+---------------------------------------
+Egg Types
+---------------------------------------
+
+Green eggs are most common. They drop one soul actually worth ten souls.
+These are the bread and butter eggs, and their slow rate of movement will 
+allow you to build up combo points easily.
+
+Blue eggs are faster and more rare. They drop a moderate amount of souls.
+These should be aimed for every time they appear, as they're the best value 
+egg and can easily save your mission.
+
+Red eggs are explosive and are used to detonate groups of eggs. Worth ten
+souls, these should be used when around groups of eggs to explode them all and
+reap you a large chain bonus.
+
+Steel eggs require two shots to break. They're worth the most souls. They 
+appear in level six and are slow moving. Use red eggs to explode them in one 
+shot whenever possible.
+
+Purple eggs transform you into an onimusha. During this time you have an
+unlimited amount of ammo and missing an egg won't penalize your combo score.
+You also suck up souls much faster in onimusha form. The best part though is 
+that soul amounts rise drastically while in onimusha form.
+
+---------------------------------------
+Combos and Chains
+---------------------------------------
+
+By building up combos by striking eggs successively without missing you build
+up your score. If you miss just one shot, it resets to zero. As you 
+accumulate shots, your score color will change. Eventually your egg count will
+multiply by the number of color changes that your score underwent.
+
+By lining up eggs or shooting eggs that are side by side, you chain egg 
+explosions, which awards hefty bonuses. I'm pretty sure that it multiplies the
+base number of released souls by the number of chained eggs. It's not a 
+precise science though as far as I know. The easiest way to gather chains is 
+to explode red eggs when they're clumped together with other egg types. As you
+gain experience playing you can line up eggs and more easily gather chains.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+The Guide (GDE)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+The point of the game is to reach the minimum amount of souls required to 
+reach the next stage by destroying eggs and sucking the souls released. 
+Ideally you'll gather hundreds of more souls than necessary so that you can 
+take advantage of the scoring system. Always keep aiming for eggs after you've
+met the requirements so that you can improve your rank. If you perform 
+perfectly, you get an S, worth a bonus of 60 arrows. If you do exceedingly 
+well, you get an A, worth 50 arrows. If you do good you get a B, worth 40 
+arrows. If you barely make it you get a C, worth 30 arrows. Losing the stage 
+will net you a D and obviously zero arrows. Arrows accumulate between stages, 
+so don't waste them wantonly. You can get a maximum of 99 arrows, and any 
+extra arrows will be discarded. There are a total of eight stages.
+
+-------------------------------------------------
+Stage One - 500 Souls Required - Very Easy
+-------------------------------------------------
+
+This stage is extremely simple. Shoot the slow moving green eggs as they 
+scroll by, and be prepared for the occassional, faster moving blue eggs. If 
+you can, slide left or right and anticipate when the eggs will line up. Shoot
+them at once to garner a nice soul bonus. Try to get over 800 souls and to net
+yourself an A ranking. If you perfectly line up everything you'll get an S. If
+so, pat yourself on the back. You'll need the extra arrows from the early 
+stages to last the entire game, so stockpile them early and do well in the 
+first four missions.
+
+-------------------------------------------------
+Stage Two - 1000 Souls Required -  Very Easy
+-------------------------------------------------
+
+Stage two introduces red eggs. They're lined up conveniently with green eggs 
+and will occasionally intersect the paths of other eggs. Take advantage of it
+and get some sweet chain bonuses for yourself. Note that even if the red eggs
+disappear behind green eggs, your arrows or bullets will pass right through 
+and hit them both. Get yourself used to the red bomb eggs in this level and 
+try to get yourself another A ranking to add to your arrow supply.
+
+-------------------------------------------------
+Stage Three - 2300 Souls Required - Easy
+-------------------------------------------------
+
+Stage three introduces one new aspect... the shield. It's stationary and takes
+up only a small portion of the gallery, so simply slide a step to the right to
+set yourself up for the entire stage. Never deviate from this position unless 
+you feel the need to chase after a missed egg (which you shouldn't do as it'll
+just put you out of position for others). Eggs come more frequently and in a 
+few confusing patterns, but keep your head and it shouldn't be much harder 
+than the first two stages. Again, try to net an A rank, but a B is sufficient.
+
+-------------------------------------------------
+Stage Four - 2400 Souls Required - Moderate
+-------------------------------------------------
+
+More eggs than ever in this level, but no more shields. The amount of souls 
+required is only a hundred more, so just concentrate on getting a good combo 
+going. The main point of interest here are the oni eggs. It appears about half
+way through the stage. Take advantage of it and shoot the oni eggs as they 
+appear to stay in onimusha mode. Try not to go out and then go back into 
+onimusha mode, as your character takes a second to charge up, and that's 
+missed eggs. When you revert to normal mode, you have the same amount of ammo
+as before. Onimusha mode is ideal for conserving arrows or bullets.
+
+-------------------------------------------------
+Stage Five - 2500 Souls Required - Very Hard
+-------------------------------------------------
+
+I can say without any uncertainty that this is the first stage where you truly
+will get stuck on. It's by far the hardest stage in the game, and you'll spend
+possibly an hour or more adjusting to it. Once you master stage five however,
+you're pretty much set for the rest of the mini game. The reason for the rise
+in difficulty is the speed in which the eggs move. They've pretty much doubled
+in speed, and it's hard to compensate for at first. Eggs move at different 
+speeds, and will pile up occasionally when eggs of different speeds collide.
+Take advantage of the pileups to shoot the faster eggs, then pick off the slow
+eggs. The number one thing to remember in the stage is to stay calm. Freaking 
+out only serves to throw off your timing. Eggs are not as numerous in this 
+level, and you need to take advantage of every single blue and red egg that 
+flies across the screen. When the first oni egg appears, nab it or else you've
+already lost. Get every red egg, and most of the blue eggs. After you revert,
+slowly pluck away at eggs and try to get a nice combo going. Don't go after 
+eggs you know you can't get. Reckless shooting is the key to losing in this 
+level. By the time the last oni egg rolls around, you'll need 1300 souls at 
+least or else your chances of winning the stage are grim. Remember, while in 
+onimusha form, grabbing red and blue eggs are absolutely vital. You cannot win
+if you miss more than a few of them. Concentrate on just surviving the stage
+and you may be fine.
+
+-------------------------------------------------
+Stage Six - 3000 Souls Required - Moderate
+-------------------------------------------------
+
+A welcome reprieve from the hectic last stage. Mostly in this stage you'll 
+find steel eggs. They move quite slow, and it should be easy to pick them off.
+What you need to do is target and shoot, then quickly slide in its moving 
+direction and pop off a second shot. When they arrive in a line, simply repeat
+in a timely manner. They'll usually float right into your path, so you can 
+chain them easily. When red eggs appear, shoot them before they go behind the 
+steel eggs. The resulting detonation should take out at least two eggs. When 
+clumps of steel eggs block red eggs, fire rapidly into the group to make the
+red egg explode. It's vital to get most of the steel eggs, or else you can't 
+advance. The final group of steel eggs comes in a group of eight. Fire and 
+try to take them all out, sliding along to keep up with them as you go. If you
+still need a few more souls, be prepared for a blue egg that moves rapidly
+across the screen. 
+
+-------------------------------------------------
+Stage Seven - 3100 Souls Required - Hard
+-------------------------------------------------
+
+Two shields block either side of the gallery, so you'll need to stay 
+stationary in the exact middle of the stage, moving only slightly left and 
+right as the situation arises. The egg speed has risen again to that of stage
+five. The same rules apply for that level, but this time you should try to 
+concentrate on getting blue eggs and destroying steel eggs. Green eggs should
+be fired upon only if there's nothing else in the arena and you can get a 
+clear shot. Red eggs are the most important commodity here, and you must get
+practically every single one to clear the stage. The stage is long, and you 
+can recuperate though from egg losses. Eventually oni eggs will appear. You 
+must get them, or else you can't win. Concentrate on getting red eggs to take 
+out large numbers of green eggs, but fire at every clear target as you get 
+soul bonuses and don't suffer arrow losses. Don't run out of arrows. Try to 
+save around ten or so; preferably twenty if you can manage it. You'll need it
+for the last level of the mini game.
+
+-------------------------------------------------
+Stage Eight - 4800 Souls Required - Moderate
+-------------------------------------------------
+
+This stage is actually pretty easy. Just try not to get overwhelmed by the 
+massive numbers of fast moving eggs. Hopefully you'll have around forty to 
+sixty arrows and you can fire as much as you want. Take out groups of eggs and
+try to accumulate around 2000 to 2500 souls before the forty second mark, 
+which is around the time that you'll get your first oni egg. When in onimusha 
+form, concentrate on firing at green and blue eggs. When more oni eggs appear,
+they'll be bundled in groups with red eggs. Focus not on the oni eggs, but the
+red eggs. They'll detonate the entire group, blow up the oni egg (which will 
+recharge your oni meter) and the resultant chain reaction will grant you a 
+ridiculous amount of souls. That method is how you'll win the last stage with
+relative ease; aim for the red eggs and make them your number one priority. 
+They set off every other egg in the area. Sometimes red eggs will be clumped
+in a cloud of green eggs. As usual, fire at the red one to destroy them all
+and suck up the bounty of souls. Should you still need more souls at the very 
+end of the game, a huge amount of green eggs and two red eggs will zip across
+the screen. Aim carefully at the red eggs and the soul bonus should put you 
+over the top. The key to the last level is to keep a cool demeanor and snipe
+down the targets that matter. Don't go for random green eggs while in onimusha
+mode, which only serve to distract you. Draw on past experience to win.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Frequently Asked Questions (FAQ)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Q.) How many stages are there?
+A.) There are eight stages.
+
+Q.) How hard is Oni Target Practice?
+A.) Pretty hard, but somewhat addictive. You'll get frustrated though.
+
+Q.) How long should it take me to finish it?
+A.) Four hours on average. That's how long it took me. If you're really good
+(or lucky) then you can complete it in two-three hours. If you're poor at 
+shooting games, then it'll probably take five-six hours. 
+
+Q.) Is it worth it?
+A.) Hell yes! You unlock Ultimate Mode.
+
+Q.) What's Ultimate Mode?
+A.) Ultimate Mode can be used in the regular game. It gives Samanosuke the 
+Bishamon Sword, 30 Full Secret Meds, 10 Wooden Charms, maxed out equipment and
+weapons (when you get them later) and infinite magic... all at the beginning 
+of the game! For Jacques, it gives him the exact same benefits, but he gets 
+the Ultimate Whip instead of the Bishamon Sword. 
+
+Q.) Do I have to unlock Ultimate Mode for both Sam and Jacques?
+A.) No, you only have to complete Oni Target Practice with one character to 
+get Ultimate Mode for the both of them.
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Legal Stuff (LGS)
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+The Onimusha series is the sole property of Capcom. 
+This FAQ is the sole property of me, Danny Smith (Forcena).
+You may not take excerpts from this FAQ without my permission, nor use any 
+part of it without first consulting me by e-mail.
+If you have further questions, contact me at Forcena2236@hotmail.com
+Thanks to CJayC for running GameFAQs and putting up my guide.
+Thanks to Capcom for making such a good game.

@@ -1,0 +1,308 @@
+-------------------------------------------------------------------------------
+==============
+Okami Dojo 
+Techniques FAQ
+==============
+By: LinkGanonSlayer
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Table of Contents
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+I. Version History
+II. Introduction
+III. Dojo Locations
+IV. Techniques
+   IVi. God Techniques
+   IVii. Weapon Techniques
+   IViii. New Game +
+V. Legal Stuff
+VI. Thanks
+VII. Contact Info
+VIII. Conclusion
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+I. Version History
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Version 1.11- November 10, 2006
+- New Game + sub-section added, a few other minor changes.
+
+Version 1.01- November 8, 2006
+- A few things were added to the Legal section, small error fixed.
+
+Version 1.0- November 7, 2006
+- The FAQ is created, with prices and descriptions for the techniques.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+II. Introduction
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+This is a FAQ for all of the Dojo Moves and Techniques that can be learned in
+Okami. It's also my very first attempt at a FAQ. There may be a few minor
+spoilers.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+III. Dojo Locations
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+-------------------------------------------------------------------------------
+Dojo 1- Shinshu Field
+-------------------------------------------------------------------------------
+This dojo can be found on the hill towards the right when you exit 
+Kamiki Village. It shouldn't be too hard to find.
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Dojo 2- Ryoshima Coast
+-------------------------------------------------------------------------------
+Swim right of the huge Sunken Ship in this area to find a lone island with a
+dojo on it.
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Dojo 3- Kamui
+-------------------------------------------------------------------------------
+After you revive the Guardian Sapling in Kamui, the Dojo is near Kokari and
+Ume, who are fishing.
+-------------------------------------------------------------------------------
+ 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+IV. Techniques
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+===============================================================================
+IVi. God Techniques
+===============================================================================
+
+-------------------------------------------------------------------------------
+God Technique- Holy Eagle
+-------------------------------------------------------------------------------
+Game Description- Press the X button again in the air to jump a second time.
+First Avaliable At- Ryoshima Coast
+Price- 20000 Yen
+How to use- Press X again after jumping once.
+
+-------------------------------------------------------------------------------
+God Technique- Hardhead
+-------------------------------------------------------------------------------
+Game Description- Break objects that you couldn't before by tackling them. 
+First Avaliable At- Kamui
+Price- 10000 Yen
+How to use- Press Square out of battle to break things such as large rocks.
+Note- The power of this technique increases with the level of the Power Slash
+Brush Technique.
+
+-------------------------------------------------------------------------------
+God Technique- Digging Champ
+-------------------------------------------------------------------------------
+Game Description- Become the ultimate digger! Dig in terrain that was 
+impossible before.
+First Avaliable at- Ryoshima Coast
+Price- 30000 Yen
+How to use- Press Triangle out of battle to dig through some hard surfaces.
+
+-------------------------------------------------------------------------------
+God Technique- Fleetfoot
+-------------------------------------------------------------------------------
+Game Description- Press the R2 button to gracefully move out of harm's way.
+First Avaliable At- Shinshu Field
+Price- 10000 Yen 
+How to use- Press R2 to dodge enemy attacks.
+
+-------------------------------------------------------------------------------
+God Technique- Counter Dodge
+-------------------------------------------------------------------------------
+Game Description- If you've mastered Fleetfoot, damage enemies with this new
+dodge. 
+First Avaliable At- Kamui
+Price- 30000 Yen
+How to use- Press R2 to dodge enemy attacks and deal damage to them if you are
+near.
+
+-------------------------------------------------------------------------------
+God Technique- Holy Falcon
+-------------------------------------------------------------------------------
+Game Description- Holy Eagle maneuvers will now damage enemies.
+First Avaliable At- Kamui
+Price- 30000 Yen
+How to use- Press X after jumping once to deal damage while double jumping.
+
+-------------------------------------------------------------------------------
+God Technique- Wailing Mirror
+-------------------------------------------------------------------------------
+Game Description- Equip Reflectors as main and sub weapons to increase attack
+power.
+First Avaliable At- Ryoshima Coast
+Price- 40000 Yen
+How to use- Equip Reflectors as both weapons to increase attack power.
+
+-------------------------------------------------------------------------------
+God Technique- Bead String
+-------------------------------------------------------------------------------
+Game Description- Equip Rosaries as main and sub weapons to increase attack
+power.
+First Avaliable At- Kamui
+Price- 50000 Yen
+How to use- Equip Rosaries as both weapons to increase attack power.
+
+-------------------------------------------------------------------------------
+God Technique- Sword Dance
+-------------------------------------------------------------------------------
+Game Description- Equip Glaives as main and sub weapons to increase attack
+power.
+First Avaliable At- Kamui
+Price- 60000 Yen
+How to use- Equip Glaives as both weapons to increase attack power.
+
+-------------------------------------------------------------------------------
+God Technique- Golden Fury
+-------------------------------------------------------------------------------
+Game Description- Press the Circle button to insult foes and get Demon Fangs.
+First Avaliable At- Shinshu Field
+Price- 100000 Yen
+How to use- Press Circle to pee on a foe for a Demon Fang. >_>
+
+-------------------------------------------------------------------------------
+God Technique- Brown Rage
+-------------------------------------------------------------------------------
+Game Description- If you've mastered Golden Fury, add insult to injury with 
+this.
+First Avaliable At- Ryoshima Coast
+Price- 2000000 Yen
+How to use- Press Circle near foes for 2 demon fangs per foe. Enough said. >_>
+-------------------------------------------------------------------------------
+
+===============================================================================
+IVii. Weapon Techniques
+===============================================================================
+
+-------------------------------------------------------------------------------
+Reflector Technique- 4 Winds
+-------------------------------------------------------------------------------
+Game Description- Add a 4th hit to your standard Reflector attack combo.
+First Avaliable At- Shinshu Field
+Price- 5000 Yen
+How to use- Press Square four times with a Reflector equipped as your main 
+weapon for a 4 hit combo.
+
+-------------------------------------------------------------------------------
+Reflector Technique- 5 Winds
+-------------------------------------------------------------------------------
+Game Description- If you've mastered 4 Winds, add a 5th hit to the powerful 
+combo.
+First Avaliable At- Ryoshima Coast
+Price- 20000 Yen
+How to use- Press Square five times with a Reflector equipped as your main 
+weapon for a 5 hit combo.
+
+-------------------------------------------------------------------------------
+Rosary Technique- Spirit Storm
+-------------------------------------------------------------------------------
+Game Description- Increase the rate of attack for Rosaries.
+First Avaliable At- Shinshu Field
+Price- 7000 Yen
+How to use- Press Square 6 times with a Rosary equipped as your main weapon to 
+unleash a devastating combo.
+
+-------------------------------------------------------------------------------
+Rosary Technique- Spirit Armageddon
+-------------------------------------------------------------------------------
+Game Description- If you've mastered Spirit Storm, further increase Rosary 
+attack rate.
+First Avaliable At- Ryoshima Coast
+Price- 30000 Yen 
+How to use- Press Square 8 times with a Rosary equipped as your main weapon to
+unleash an even more devastating combo.
+
+-------------------------------------------------------------------------------
+Glaive Technique- 3 Shears
+-------------------------------------------------------------------------------
+Game Description- Add a 3rd hit to your standard Glaive attack combo.
+First Avaliable At- Ryoshima Coast
+Price- 40000 Yen 
+How to use- Press Square 3 times with a Glaive equipped as your main weapon for
+a 3 hit Sword Combo. 
+
+-------------------------------------------------------------------------------
+Glaive Technique- 4 Shears
+-------------------------------------------------------------------------------
+Game Description- If you've mastered 3 Shears, add a 4th hit to the powerful
+combo.
+First Avaliable At- Kamui
+Price- 50000 Yen 
+How to use- Press Square 4 times with a Glaive equipped as your main weapon for
+a 4 hit Sword Combo. 
+-------------------------------------------------------------------------------
+Note: Descriptions are taken directly from the game.
+-------------------------------------------------------------------------------
+
+===============================================================================
+IViii. New Game +
+===============================================================================
+
+After you complete the game, you can start a new file with a New Game +.
+You keep your stats, Yen, Praise, and most of your items. However, you don't
+keep all of your Dojo Techniques. The ones you keep when you start a New Game +
+are:
+
+-Reflector Technique- 4 Winds
+-Reflector Technique- 5 Winds
+-Rosary Technique- Spirit Storm
+-Rosary Technique- Spirit Armageddon
+-Glaive Technique- 3 Shears
+-Glaive Technique- 4 Shears
+-God Technique- Wailing Mirror
+-God Technique- Bead String
+-God Technique- Sword Dance
+-God Technique- Counter Dodge(You have to re-learn Fleetfoot to use this)
+-God Technique- Holy Falcon(You have to re-learn Holy Eagle to use this)
+-God Technique- Golden Fury
+-God Technique- Brown Rage
+
+Counter Dodge and Holy Falcon are most likely kept so that you don't have to
+wait until you get to Kamui to learn them again.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+V. Legal Stuff
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+This entire document is (C) 2006 LinkGanonSlayer. All trademarks are property 
+of their respective owners. This may be not be reproduced under any 
+circumstances except for personal, private use. It may not be placed on any 
+web site or otherwise distributed publicly without advance written permission.
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+The following websites are allowed to use this FAQ.
+
+www.gamefaqs.com
+www.neoseeker.com
+www.supercheats.com
+okamishrine.bravehost.com
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VI. Thanks
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+I just want to thank Clover Studios for making such an awesome game. It's the
+best I've played in quite a while. I'd also like to thank you for using 
+this guide.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VII. Contact Info
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+If there are any mistakes in this guide, or if you need to contact me with
+a suggestion, email me at kefka_xvi@yahoo.com. Be sure to put something 
+like "Okami FAQ" in the subject line.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VIII. Conclusion
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Well, that's about it. I might add strategies for using some of the techniques 
+if I update the guide. I hope this guide was useful to you.
+
+-------------------------------------------------------------------------------

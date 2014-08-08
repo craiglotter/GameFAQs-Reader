@@ -1,0 +1,3517 @@
+
+===============================================================================
+                                   ONIMUSHA 3:
+                                   DEMON SIEGE
+                              *Japanese-US Version*
+===============================================================================
+
+(c)CAPCOM CO., LTD 2004 ALL RIGHTS RESERVED
+Character Samanosuke (c)Fu Long Production.
+
+(c)bWoNg 2004
+   Mytruedestiny2@yahoo.com
+   V.0.66
+My new email address is:mytruedestiny05@yahoo.com
+I appologize to you all for not being able to reply to your email
+since the previous email address is not a valid anymore, duh >_<.
+
+===============================================================================
+                                   INTRO
+===============================================================================
+This game is great.
+Once you play it, (maybe) you do not want to stop.
+Collect all weapons and finished the Training Mode.
+Master the Special Moves.
+Well, it may contains a bit of repetition recipe :).
+It would be nice if the gameplay/Battle System is something in common to the
+Vagrant Story or Legend of Dragoon or "Devil May Cry". I wish for it :)~
+
+What is a Japanese-US version?
+Based on the Japanese walkthrough, I got a chance to play the US version.
+Everything seems to be the same only a few things are belongs to the other side
+The naming is automatically as stated in the US/English version.
+I am writing this US version in order to clarify confuse things and
+to give you all what you want; the complete walkthrough :)
+
+Currently I have already translated this walkthrough into a English version
+up to Episode 10. Let's hope I can complete my task within the next week :).
+
+I still need helps for the Japanese version;
+could you please let me know the Romaji style for all the naming in the
+Japanese version? Also the enemy list if possible?
+I will put the Romaji side by side with the English naming if possible
+so that this walkthrough will be at it's best to serve you all :).
+
+P.S.
+I also put a number on each EcoSpirit I found to make it easier to trace back
+and to recount it :).
+
+
+===============================================================================
+                             DISCLAIMER/COPYRIGHTS
+===============================================================================
+This guide is copyright (c)2004 bWoNg, mytruedestiny2@yahoo.com.
+You can always find the latest update on www.gamefaqs.com.
+
+Friendly sites:
+www.gamefaqs.com,
+www.ign.com,
+www.neoseeker.com,
+www.cheathappens.com
+www.cheatcc.com
+www.videogamewalkthroughts.net
+www.gamerspot.gr
+www.gamercheats.gr
+www.spiderx.servegame.com
+
+Should any other site is requesting for approval to host this walkthrough on
+their site, please write to me by email and hopefully I will be able to reply
+A.S.A.P.
+
+This guide is distributing freely as long as it remains in its original form.
+It is only for private use and may not be reproduced for
+commercial purpose.
+Please notify me on the above address if you found this walkthrough on any
+other site except those listed.
+
+The author (bwong) has the right to use your comments or inputs to help
+providing useful information within this walkthrough.
+I may use a part of your email or a full list of your comments, etc,
+for the above purpose.
+
+Please do not place a direct link into this faq, unless C_Jay_C has given
+you his solid permission and you should let me know in prior to posting it.
+(You might as well violating the rules and regulations on a specific website)
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+===============================================================================
+VERSIONS HISTORY
+===============================================================================
+Version 0.10     February 28, 2004     20.49
+Complete walkthrough from Episode 0 to Episode 5.
+Plus the main idea on Episode 6.
+
+Version 0.15     March 01, 2004        21.19
+Correction on SOME of the naming, items, weapons, etc.
+Thanks to all of you at gamefaqs message boards that provide us with
+the correct naming.
+Place and arrange new sections on the walkthrough.
+
+Version 0.30     March 05, 2004        22.29
+Place and arrange new sections.
+Added walkthrough from Episode 6 to Episode 7.
+
+Version 0.40     March 07, 2004        02.03
+Added ONE MORE Rune Stone in Episode 2 :) -too bad you cannot level select-
+Added new strategy to the boss on episode 2 (easy way to beat him).
+Added walkthrough for Episode 8.
+Use * * sign to differ Rune Stones from other items.
+Other corrections.
+
+Version 0.42     March 07, 2004        21.43
+Added Side Mission info.
+I will include submissions from readers on the next update.
+
+Version 0.45     March 14, 2004        21.11
+Added walkthrough for Episode 9.
+Some corrections. Submission under the Miscellaneous.
+
+Version 0.48     April 18, 2004        21.00
+Added walkthrough up to Episode 10, 11 in progress.
+Some corrections. Submissions from readers and the follow up for
+the updated walkthrough. Thanks for your input guys.
+I myself have finished the game about a month ago, but I was quite busy
+so please forgive me for the late update >_<.
+I have measured a way to beat that **** Nobunaga.
+I hope I still remember it after a month :)~
+And I never did use a single Max HP/MP Increase for the completion of
+this game :)~
+
+Version 0.49     April 25, 2004        20.56
+Corrections here and there.
+IMPORTANT!!!
+There are 3(three) Dark Realms in a new game and it is applicable to
+both Jacques and Samanosuke. So, totally there are 6(six) Dark Realm
+with unique items inside each of it.
+One more Brown Revive Doll for Jacques (transfer it to Samanosuke :).
+
+Version 0.50     May 08, 2004        09.09
+Completed walkthrough on a New Game!
+Minor corrections.
+
+Version 0.52     May 13, 2004        05.40
+Added a new URL for www.videogamewalkthroughts.net
+Added a new URL for http://spiderx.servegame.com
+Reply for a bug report (from Frankie Boyd); Thanks for the confirmation!!!
+That is not a bug at all, it is a common case where
+the Ninja split into two person in order to distract Samanosuke.
+Such Ninja Technique is called "Bunshin" (info from -Jei Potter-)
+Secret (Blade Warriors save data) from Jimmyshar -jimmyshar@hotmail.com-
+Plus minor corrections!
+
+Version 0.55     May 23, 2004        00.30
+Added a strategy for defeating Nobunaga for the last time :)~
+Added info where to get the SPS15+G for the English version
+Minor corrections.
+Added Map and corrections to the Dark Realm no.3 at the Episode 8 & 12
+for Jacques and Samanosuke. Need to add maps from the Episode 6.
+
+Version 0.60     May 30, 2004        21.00
+This walkthrough is officially a Japanese/English walkthrough
+Added maps of Dark Realm 1 on the Episode 6.
+Correction on the Puzzle Box no.1; move 7 to 2.
+Update the submission section.
+Added new URL for gamerspot.gr and gamercheats.gr,
+thanks to Arcadios R. Gamerspot.gr team.
+Added and revise strategy on how to beat Marcellus.
+Use numbering system to EcoSpirit :)
+Other corrections and need more corrections :) on the next update.
+Need to update on the Training Scroll section.
+
+Version 0.65     June 15, 2004        08.15
+Added more corrections. Added map to the Oni Mansion Glide Puzzle
+plus a step by step arrangement.
+A bit update on the submission section.
+Translation to the US version is up to Episode 10.
+
+Version 0.66     October 30,2004      19.17
+My new email address is:mytruedestiny05@yahoo.com
+I appologize to you all for not being able to reply to your email
+since the previous email address is not a valid anymore, duh >_<.
+
+
+                                     ^O~O^
+
+                                       I. Intro
+                                      ***
+                      stiderC.IIIV*         *II.Disclaimer/Copyrights
+
+               suoenallecsiM.IIV*             *III.Version History
+
+                   sedoC/terceS.IV*         *IV. Hints and Tips
+                                      ***
+                           hguorhtklaW.V
+
+
+I.    Intro
+II.   Disclaimer/Copyrights
+III.  Version History
+IV.   Hints and Tips +
+V.    Walkthrough
+      Episode  0: Nippon, Tensho, Year 10, 1582
+      Episode  1: Arc The Triomphe, France, 2004
+      Episode  2: The Old Village on Mt. Hiei
+      Episode  3: The Sewer
+      Episode  4: Sakai City, Senshu
+      Episode  5: Notre Dame
+      Episode  6: The Underwater Temple
+      Episode  7: The Zoo
+      Episode  8: Mount St. Michel, The Castle +
+      Episode  9: Oni Mansion +
+      Episode 10: The Azuchi Castle +
+      Episode 11: The Eiffel Tower
+      Episode 12: Reunited at Nippon, 1582
+VI.   Secret/Codes
+      Secrets:
+      Added the Panda Costume and trailer of 'Shadows of Rome'.
+      Added tips for the Secret Training
+      Codes:
+VII.  Miscellaneous
+      I.Submissions
+        Your inputs and the follow up within the updated walkthrough.
+      1.BUG report from Frankie Boyd on Episode 8.
+        Most did not agree including Jei Potter. But one person -Bad Panda-
+        is standing up for Frankie Boyd. So, what is your final decision???
+      2.Random password for every new game when you Henry is trying to save
+        Jacques on Episode 8.
+      3.A different passwords for saving Jacques' life when playing
+        a new game.
+      4.One more EcoSpirit from the deck of the Nan Ban Ship.
+      5.A request for the True Ending story.
+      6.A request for the Charge Modified Combos.
+        Anybody willing to lend a hand?
+      7.A better explanation on how to absorb the negative aura
+        from the statues :) on Episode 5 -Notre Dame-.
+      8.Same as no. 6.
+      9.A better explanation on how to absorb the negative aura
+        from the Blue Door :) on Episode 6 -The Underwater Temple-.
+      10.Where to get the SPS15+G on the US version.
+      11.Same as no.9.
+      12.EcoSpirit is supposed to disappear said Capcom. Is this a True Story?
+         Hit me baby ?>_<?
+      13.Looking for a firefly walkthrough in color sequence when inside the
+         Trap House.
+         All right, I have added a map and step by step arrangement :) +
+      14.How to do a Max Level Issen to the "Pigs"
+      15.Easier way to do Issen.
+      16.Useful info when playing as Michelle.
+      17.What is inside a big yellow vase thing with a ring of light
+         surrounding it in the yellow door with the elevator?
+      18.Another BUG in Episode 11.
+      19.True identity of Toyotomi Hideyoshi.
+      20.
+
+      II.Side Missions: Help civilians to escape their faith.
+VIII. Credits +
+
++  Means updated
+++ Means next update
+
+===============================================================================
+                              HINTS AND TIPS
+===============================================================================
+1. Upgrading weapons etc will grant you only good things.
+
+2. Ako will help you reach items out of your reach.
+   Get close to the item and press Circle to let Ako get it for you.
+
+3. Counterattack is very useful to get more Experience, Souls and Energy.
+
+4. Complete all the Puzzle Box and Training.
+   You will get useful items and unlock secrets.
+
+5. Use Key Item such as Door Key from the Menu Screen.
+
+6. You cannot skip the first time cut scene, however once you have passed the
+   chapter/episode, you will be able to skip.
+   An example is when you load your save data.
+
+7. Basic Combos:
+   Jacques 1: Grab, shoot 2x, throw enemy, approach the enemy and shoot 3/4x.
+   Jacques 2: Hit the enemy 3x, press Down on direction pad + Square 3x
+              to perform multi kick, once they are on the ground, shoot 3/4x.
+              And if the enemy is slow, you can continue shoot at him
+              as many times as you want.
+   Jacques 3: Grab, shot 2/3x, kick (Down pad + Circle), Magic Skill (Triangle)
+   Samanosuke 1: Hit 3-5x, once they are on the ground, stabs by pressing [].
+   Samanosuke 2: Hit 3x with [] then hit Triangle.
+
+8. You can escape enemy's grab by rotating the L3 analog stick.
+
+9. You can get up faster by rotating your L3 analog stick.
+
+10.By holding down the charge power and be at a certain spot, Ako will let you
+   know if there is an item to pick up. That is your search engine :)
+
+11.Press Down pad and X to step back.
+
+12.When your HP is in critical, defeating some enemies might give you
+   some HP refills.
+
+13.Ways of Counterattack:
+   a. Block and quickly tap []. You will see an aura from Ako if you
+      block at the right timing (almost get hit).
+   b. Just before you are hit, avoid and press [] without blocking.
+      If you are a very lucky guy, button mashing for [] and/or R1
+      continuously and sometimes, you will perform the counterattack.
+   c. Hold Down R1, circle movement in front of the enemy
+      and press Square when the attack is almost hit you.
+      You may use directional pad when charging to move in circle and
+      then press Square at the right timing.
+   d. Tapping the R1 once/twice when avoiding hit and
+      press Square to Counterattack.
+   e. Persuade the enemy to attack by running in front of/near him.
+      Wait until he is beginning to attack then quickly hit []
+      to perform heavy attack, thus performing counterattack.
+      (Heavy attack is perform when you are running for about
+      3 seconds and hit the [] button)
+   f. Rare thing to happen is when you are hitting an enemy/enemies and you
+      are still holding down the R1 button, you will be performing
+      Multiple Counterattacks!
+
+14. When your Purple Energy is full that means you will get additional live
+    and your body will be invulnerable until the shining bar is gone.
+    At that time your power and magic has increased significantly to the limit.
+    It is the Onimusha form. However, your life bar is only 25% after changing
+    back to human form.
+    After that, if, you have been defeated again however you still keep
+    the Black Revive Tool, which means you will get one more additional life
+    without Onimusha form, full life bar.
+    And again, if you still keep the Brown Revive Doll, you will gain another
+    additional live with full health bar.
+    That means you get 3(Three) additional lives plus 1(one) original live
+    for the total of 4(four) lives!!!!.
+    All right, just got one more Brown Revive Doll for Samanosuke in the
+    Dark Realm on Episode 8.
+    More good news, another Brown Revive Doll for Jacques in the
+    Dark Realm on Episode 8.
+    Now the total lives would be for the total of 6(six) lives!!!!!.
+
+15.When Jacques pick up items such as arrows, he can teleport it to
+   Samanosuke using the Teleporto (Purple Magic Mirror) on episode 6.
+   You can teleport almost anything, except for some individual key items.
+
+16.Notice that you cannot hit the enemy below when you are at the deck stairs
+   on the ship. Oh well.
+
+17.Dropped items will disappear after some time if you do not pick it up
+   right away.
+
+18.When Ako pick up item, it will not disappear as long as you do not enter the
+   next door.
+
+19.There are some false EcoSpirits.
+   When you check on the Menu Screen, the one you have just picked up
+   has disappeared without a trace :)~.
+   According to Mickey magante, mickey_ichiro@yahoo.com,
+   Capcom is purposedly design the Eco Spirits to disappear on their journey
+   back to nature, Please read the submission no. 11 for a clearer view.
+
+20.Spare some arrows on your journey. You are going to need it.
+
+21.Do not forget there is a Side Mission to complete (Episode 8).
+   Please read Miscellaneous section for further details.
+
+22.When you need to absorb, PRESS AND HOLD DOWN the O button.
+
+23.There are 3(three) Dark Realms on a new game and it is applicable to
+   both Jacques and Samanosuke. So, totally there are 6(six) Dark Realms
+   with unique items inside each of it. Be sure NOT TO MISS IT!
+   I have already added info about it on the walkthrough.
+   Also, I have completed 3 eyes in the Dark realm.
+   (Sealed White Wind, Sealed Purple Lightning, Sealed Red Flame)
+   Break Demon Emerald and Break Demon Purple Jade is an item to unlock
+   Sealed Chests to get useful items such as Brown Revive Doll.
+   Dark Realm 1: Episode 6  -Underwater Temple- [Sealed Purple Lightning]
+                                                [Sealed White Wind]
+   Dark realm 2: Episode 8  -Mount St. Michel-  [Sealed Red Flame]
+                                                [Purple Haori/Vest]
+   Dark realm 3: Episode 12 -Back to Nippon 1582- [Oni Musou]
+                                                  [Bishamon Sword]
+
+24.Give priority to use Herbs. Tonics and other HP replenish items are limited
+   in quantity. You can collect Herbs also when defeating enemies.
+
+25.The location and use of Vest/Haori:
+   Blue Vest: Episode 2 -Samanosuke is back, pick it up inside the second house
+   Use-->Absorb spirits faster.
+   Red Vest: Episode 3 -Inside the second room, at the end of the small alley-
+   Use-->More Red Spirits from kills (No more Yellow and Blue Spirits!).
+   Green Vest: Episode 4 -At the Backyard of the main store-
+   Use-->Able to absorb spirits from live Genma.
+   White Vest: Episode 5 -Inside the Notre Dame, opposite the altar to the end
+   Use-->Heals you when standing still.
+   Yellow Vest: Episode 6 -Inside the Yellow Door on the upper level-
+   Use-->When attacking Red Spirits come out.
+   Orange Vest: Episode 8 -Glide to the top of the castle from the main door-
+   Use-->Show enemy's life and Issen moment.
+   Purple Vest: Episode 8 -Samanosuke on the Dark realm 2, Green Warp-
+   Use-->Decrease the use of magic when using Sword magic.
+   Black Vest: Complete the Issen Training at the save point.
+   Use-->All Issen :)~
+
+26.I have calculated everything and if you follow this walkthrough correctly,
+   you will get the Onimusha ranking once you completed this game, even if
+   you miss the 'Less than 6 hours' but as long as you get the Black Haori :)
+   For more details, let me copy and paste the info from Kouli and Raimia on
+   the Message Boards:
+   From Kouli:
+
+   In 6 different aspects, have 41+ points to get Onimusha ranking,
+   on easy, you need   50 points.
+   Less than 6 hours                + 10 points
+   170000 Souls                     + 10 points
+   2300 Kills                       + 10 points
+   600+ Issen                       + 10 points
+   Hidden Stuff -Get all 6 stuffs = + 10 points
+
+   Hidden Stuffs are:
+   1. 3 Sealed Jade (for Onimusha 1, Samanosuke's weapons)
+   2. Bishamon Sword
+   3. Oni Musou
+   4. Black Haori for Ako
+
+   From Raimia:
+   a little more detail about the realm items.
+   1. 3 Sealed Jade                 + 10 points for each
+   2. Bishamon Sword                + 30 points
+   3. Oni Musou                     + 30 points
+   4. Purple Haori for Ako          + 10 points
+
+   100 points   = 10 points
+   70-99 points =  6 points
+   50-69 points =  4 points
+   40-49 points =  3 points
+   20-39 points =  2 points
+   19 and below =  1 point
+
+   And what is the reward for collecting the Onimusha ranking?
+   Is it all worthful for the (Michelle's) towel? :)~
+
+27.Bishamon Sword and Oni Musou:
+   Do you think there is a special function of this sword?
+   Yes, you are right.
+   I found out that when using this sword you are semi-invincible!!!
+   When you are using the Triangle button, the enemies will not have
+   a chance to hit you at all!!! (if you hit them first of course :).
+   What I mean is the sword is so powerful that you will finish most of the
+   enemies with one Triangle slash or a few slashes for the boss’s type.
+   You can also combine a 3/4 hits [] with the Triangle button for
+   the final hit. This combination means a semi-invincible combo.
+   Imagine this on the training session :)~.
+   This is what happens to Jacques when he is equipped with the Oni Musou.
+   To get a clearer view, when you use the Triangle move, you are invincible!!!
+
+28.For the English version, you will get your SPS15+G after saving Henry in
+   the Research Center, later on the Episode 7.
+
+29.Keep changing weapons when doing magic attack.
+   That means you will get more chances to do magic attacks and when the
+   magic bar is refilling, it is automatically applicable for all weapons :)~
+
+30.Trainings for Samanosuke:       Trainings for Jacques:
+   1. Guard -T1-                   1. (Guard)
+   2. Draw Weapon -T2-             2. (Draw Weapon)
+   3. Archery -T3-                 3. Oni-Bind Throw -T1-
+   4. Charge Attack -T4            4. Oni Bind-Bind Move -T2-
+   5. Deflect Critical -T5-        5. (Deflect Critical)
+   6. Chain Critical -T6-          6. (Chain Critical)
+   7. Ten Point Slash -T7-         7. (Ten Point Slash)
+   8. Oni
+
+   All Trainings consist of 3 (three sessions);
+   -Beginner, Intermediate, Advance.
+   I list out all the trainings in order of appearance :)
+   However, both Samanosuke and Jacques is capable of completing it
+   at any time. Except for the Oni-Bind Throw and Oni-Bind-Bind Move which is
+   belongs to Jacques.
+
+31.I suggest to upgrade the Oni Gauntlet first to increase functions then
+   the weapons from the highest rank weapon.
+
+32.Shortcut for the current map at anytime: Hold down L2 button for 2 seconds.
+
+
+===============================================================================
+                                   WALKTHROUGH
+===============================================================================
+*******************************************************************************
+Episode 0: Nippon, Tensho, Year 10, 1582
+           Battle in Honnoji Temple
+Items: Honnoji Temple Map, Herbx1.
+*******************************************************************************
+
+Your army is battling against Genma Soldiers and Ninja. Go help them.
+Move your way up the staircase.
+
+*Front of Mainhall* (Save Point)
+
+Here you will find a Save Point (Protective Mirror)
+and Unlimited MP refill at the right corner.
+Pick up [Honnoji Temple Map] from the chest at the left side, in addition,
+one [Herb] behind the stairs on the left side of the Save Point.
+
+Inside the next door are Nobunaga and Mori Ranmaru.
+Fight against Mori Ranmaru: *Easy*
+-You can mash your button doing continuous attack if your HP is not in critical
+ and eventually you will win.
+-Or you can watch his pattern and performing a timing fashion attack.
+ You may also perform counterattack.
+
+Next is ... Nobunaga Oda...
+
+*******************************************************************************
+Episode 1: Arc De Triomphe, France, 2004
+Items: Salvex3, Herbx2, Medicinex1, Normal Arrowx20, Arc Map, Tensho Swords,
+       Observation Key, Banquet Book, Power Jewelx1.
+*******************************************************************************
+
+Jacques is coming to save his best friend, Philip.
+Give zombies some bullets. You need more bullets obviously.
+
+*Paris Alleway* (Save Point)
+
+Look who is coming, Hidemitsu Samanosuke Akechi.
+Smash the box on your right to get [Salve]x1.
+
+Complete the Training program by choosing the third option
+on the Save Point menu.
+Training Scroll S1: Guard (L1).
+-Samanosuke T1-
+Reward: [Herb]x1.
+Beginner    : Get 15 Souls against 4 zombie soldiers.
+Intermediate: Get 15 Souls against 2 archers and 2 soldiers.
+Advance     : Get 15 Souls against 1 Chain Ball.
+Learned Oni Art "Guard"!
+
+Training Scroll S2: Draw Weapon
+Perform a Special Moves (R1 + Square) from behind.
+-Samanosuke T2-
+Trick: Finish them (you may want to use arrows).
+       Once they reappear at the center, perform R1 + [] combos from behind
+       and absorb Souls easily.
+Reward: [Herb]x1.
+Beginner    : Get 10 Souls against 2 soldiers.
+Intermediate: Get 10 Souls against 1 Chain Ball.
+Advance     : Get 10 Souls against 1 High Soldier and 1 Ninja.
+Learned Oni Art "Draw Weapon"!
+
+Training Scroll S3: Archery (Hold R1 and press X).
+-Samanosuke T3-
+Reward: [Medicine]x1.
+Beginner    : Get 15 Souls against 4 Birds. Very easy.
+Intermediate: Get 15 Souls against 2 Birds and 2 Soldiers. Easy.
+Advance     : Get 15 Souls against 2 Birds and 2 High Soldiers. Easy.
+Learned Oni Art "Archery"!
+
+French meet Japan (Onimusha International + Last Mission :)~
+French is going to Japan, while Japan stays in French.
+You got yourself plenty of tourist guides.
+Well, if you do not like a tourist guide, one suggestion is to use a Map.
+No, you have not gotten the map of Paris.
+It is easy anyway not to get lost here.
+Samanosuke sees Guildenstern on the top of the Arc De Triomphe.
+
+Down the stairs, to the left, smash the box blocking your way.
+To the right passageway, and go up.
+
+Open the chest on your front-right to get [Normal Arrow]x20.
+Pick up [Arc Map] from the next chest on the right side of the torch.
+Activate the torch in the middle, get inside the hidden room and obtained
+[Tenso Sword].
+
+Get out and you will see a pretty face. Michelle Auburi/Aubert will be
+your kind assistant during your next quest so please be nice to her :).
+Notice now you can use 'Charge' by pressing and holding R1.
+Go to the left wing side and get [Salve]x1.
+
+FYI, there is one chest on the right wings area outside of your reach.
+Leave it for now. You can get it later once Ako has joined your party.
+
+Get inside the steel door and fight some enemies.
+After, pick up [Observation Key] on the floor.
+Go up and open the door with the key you have just received.
+Pick up [Banquet Book] on the stool.
+Another out of reach item next to the statue, leave it for now.
+
+You will see the first Blue Chest for your first puzzle.
+Puzzle Box 1.
+Turns Count: 3
+Reward: [Power Jewel]x1.
+
+            1     2     3
+
+
+      @ --- 4 --- 5     6
+                  !
+                  !
+            7     8 --- 9 --- @
+
+
+Move 1 to 2, 4 to 1, 7 to 2.
+
+
+There is a Soul Statue here.
+Another chest with [Salve]x1.
+And a Save Point on the right.
+
+*Observation Level* (Save Point)
+
+You may want to upgrade a little bit before proceeding to the Boss.
+Once all set, go upstairs to fight the boss.
+
+Upgrade advice -Samanosuke-: Oni Gauntlet to level 2.
+
+Boss Fight: Brainstern (the Mecha Robot)
+Difficulty: : Easy
+-You can go directly hit the core or cripple it down systematically by
+ destroying both the left and right arm.
+-Be careful with his missile launch and swing attack.
+-Once you get familiar with his basic attack pattern, it will be easy.
+ You can event sneak between the rapid fire and keep hitting the core
+ at the same time.
+
+
+*******************************************************************************
+Episode 2: The Old Village on Mt. Hiei, Nippon, 1582
+Items: Oni Gauntlet, Oni Whip, Onimusha Sroll, Ako Scroll, Herbx2,
+       EcoSpirit no.1-2, Throw Scroll, Blue Vest, Medicinex3, Firefly Scroll,
+       Mt. Hiei Map, Dokan Scroll, Bronze Mirror, Enja, Gate Key, Oni Jewelx1,
+       Mission Scroll, Power Jewelx1.
+*******************************************************************************
+
+-The Banquet Book is in Jacques' possesion now-
+
+Move Jacques forward and you will see a save point.
+
+*South Primeval Forest* (Save Point)
+
+Keep moving forward and Jacques will meet his son Henri, in danger.
+You will then obtained [Oni Gauntlet], [Oni Whip] and [Onimusha Scroll].
+You are able to use R3 to choose target when you are holding down R1.
+This is only a test.
+Fight one Chain Ball. Use R1 Charge and [] to grab follow with [], [], [].
+Repeat. Or pick up the big stone with R1 + Circle.
+
+You will then meet Ogre from the Oni clan.
+After, you will get [Ako Scroll] and a new submenu for "Ako" (Vest)
+which you can equip with some 'EcoSpirits.
+From now on, Ako (she is a Tengu) will accompany you.
+And Jacques from now on is a Japanese fluent.
+She will be helping you with items hunting.
+So please be nice and pay attention to her when pressing the R1 button.
+
+Keep moving and you will meet some enemies.
+One of them will absorb all the souls.
+If you defeat this particular enemy, you will earn back all those souls.
+A little forward you will see a bunch of plants on your
+forward-left. You cannot destroy it now, not until you have received
+your new weapon 'Enja'. Leave it for now.
+
+You are now at the Small Village with two houses.
+The first one has a chest with a [Herb] inside it.
+Destroy one box next to the chest to get *EcoSpirit no.1*.
+
+Samanosuke is back to help you.
+
+On the second house you will get [Throw Scroll-Training -J1-] on the
+front floor and the [Blue Vest] inside the next chest.
+
+Go to the backside of the second house, you will see a chest
+out of your reach. Ako will say "I found it" and fly around the chest.
+Press X button to let Ako to open it and you will get [Herb]x1.
+
+Up the stairs and fight some enemies.
+On the top, you will see some kind of Stupa Tower.
+However, there is a missing part you need to find.
+
+*Stupa Tower* (Save Point)
+
+Go to save point and complete your Training.
+Training Scroll J1: Oni-Bind Throw.
+-Jacques T1- (Charge and Hold R1, press Square to grab, use L3 to determine
+            which way to throw, press Square to smash enemy to the ground)
+Reward: [Medicine]x1.
+Beginner    : Get 10 Souls against 1 Soldiers. Very easy.
+Intermediate: Get 10 Souls against 3 Soldiers. Easy.
+Advance     : Get 10 Souls against 3 Ninjas. Easy.
+Learned Oni Art "Oni-Bind Throw"
+
+Choose the right path when facing to the Stupa Tower.
+You will get [Firefly Scroll] inside a chest on the left turn.
+Use R1 + X to glide over to the next area.
+When the glide is glowing green, which means you are ready to glide.
+
+On the next area, destroy the chest on the left turn to release Glides.
+Glide up. Open the chest next to the Buddha statue to get [Mt. Hiei Map].
+Remember, Shortcut to the map is to press L2 for 2 seconds.
+Behind the chest that contains the map, -on the ground-,
+there is a [Dokan Scroll].
+Get down the ladder, destroy the box to release a Glide and at the end
+get the [Bronze Mirror] you are looking for.
+
+There is a Glide to send you back. Wait, Ako is looking down to a box
+in the middle of the waterfall. Use her to get a [Medicine]x1.
+Now, get back to the tower and put the Bronze Mirror from the Menu Screen
+to get your new weapon; [Enja].
+
+Remember the place where you found the plants inside the first forest?
+Go back there and smash those plants with your Fire Whip.
+Inside you will get a [Gate key]. Watch out for the big guy.
+
+You can search around to defeat some monsters and upgrade weapon.
+
+Get back to the Small Village and defeat one Bird to get the Glide placed
+in front of the first house. Use the Glide to get [Oni Jewel]x1.
+
+Get back to the tower area (save point), this time choose the left path.
+Clean up some plants on the roadside.
+Samanosuke is fighting some soldiers, help him.
+Use the Gate Key from the Menu Screen to open the gate.
+
+Destroy the box on your left after the gate to place one Glide.
+Glide up and pick up [Mission Scroll].
+Go around to the other side and destroy one box to get *EcoSpirits no.2*.
+Open the chest at the end to get one [Medicine]x1.
+
+Equip 2 EcoSpirits to the Blue Vest.
+
+Continue forward,
+
+*Front of Lazuline Hall* (Save Point)
+
+Open the Puzzle Box in front of the main door.
+Puzzle Box 2.
+Turns Count: 4
+Reward: [Power Jewel]x1.
+
+            1 --- 2     3
+            !     !
+            !     !
+      @ --- 4     5 --- 6
+                        !
+                        !
+            7     8     9 --- @
+
+
+Move 1 to 2, 4 to 1, 5 to 4, 8 to 5.
+
+Upgrade advice -Jacques-: Oni Gauntlet to level 2.
+
+Boss Fight: Marcellus
+Difficulty: Easy
+-You need to destroy his Shield. Mash button to attack him if your HP is not
+ in critical. He will rarely counterattack you.
+-Or Charge your weapon, when he attack, avoid then quickly grab him with
+ Enja, shoot him a few times, repeat until the shield is broken.
+ This way, you will also get more souls to absorb.
+-When he is angry and you are on a distance he will start using his
+ Thunder attack, you can avoid either by running away or Glide up. Nice.
+-Another easy way is to let him around the center area, hit him TWICE only,
+ Glide up to avoid his sword, hit him TWICE, glide up to avoid, repeat the
+ process. No sweat. Piece of cake.
+
+
+*******************************************************************************
+Episode 3: The Sewer, France, 2004
+Items: First-Aid Kitx2, Flame Arrowx20, Sewer Key, A Memo to Chief, Sewer Map,
+       EcoSpirit no.3-6, Worker Memo, Scroll Chain Attack,
+       Red Vest, Salvex1, Medicinex1, Oni Jewelx1, Iron Handle, Elec Arrowx20,
+       Oni Med Level 1x1, Secret Medx1, Small Key, Power Jewel.
+*******************************************************************************
+
+Ako is visiting Samanosuke in France and suddenly Michelle
+is able to understand and speaking Japanese.
+
+Go to the right wing and to the left corner.
+Ako will help you to pick up [First-Aid Kit]x1.
+
+Get inside the steel door and go upstairs. Open the door.
+Ask Ako to get [Flame Arrow]x20 next to the statue.
+
+Ako will also pick up items from defeated enemies for you.
+So you will never run out of Herbs and Arrows.
+(If you go to the roof, you will meet three Iron Balls.
+The darker one will perform charge attack, after, he is a sitting duck :)
+Get down and out of the main steel door.
+
+Michelle is waiting for you, ready to help you shooting some bad guys.
+View the map.  You need to get down to the sub ground.
+Pick up the [Sewer Key] on the floor and use it to open the door,
+leading to the underground facilities.
+
+Lots of Slimy here. When the small slimy stuck on your body,
+hold down R1 to make them dizzy :)
+
+Get inside the first door.
+
+*Control Room* (Save Point)
+
+Pick up [A Memo to Chief]. Turn on the Power Generator.
+Light is on again.
+Outside, activate the operating device to lower the bridge.
+Pick up [Sewer Map] from the next chest.
+
+Get inside the second door (on the right) in the sewer.
+Slash one of the barrels to pick up *EcoSpirit no.3*.
+
+Inside the same room, going up the ladder, pick up [Worker Memo] on the table.
+Pick up a [Scroll Chain Attack] on the platform edge
+(you can look down to the ground floor)
+Still on the edge, facing to the left side of your tv/monitor,
+Use Archery to the upper-left and let Ako pick up *EcoSpirit no.4*
+
+Still at the same platform, on your side,
+there is a power generator missing its handle/crank.
+
+Get down, to the small alley at the same room, left side of the entrance door,
+turn right, you will see a chest, ignore it for this time, continue forward,
+slash one barrel to receive *EcoSpirit no.5*.
+Pick up the [Red Vest] from the chest behind the barrel.
+
+Equip 2 EcoSpirits to the Red Vest.
+
+That leaves us for one previous chest. Inside this chest is one funny character
+you need to slash continuously in order for her to drop [Salve]x1.
+By slashing her, you also get Energy Souls (Yellow).
+
+There is another door with three digits number as a password.
+By reading the Worker Note, you will understand what numbers to put.
+I was lucky to get the right numbers without knowing how to read it.
+Input 314 to open it.
+
+If you want to know for sure how to get those numbers, read this:
+-------------------------------------------------------------------------------
+Left: Control Room 1 Number of chairs.
+Middle: Control Room 1 Number of cassette Decks.
+Right: Control Room 1 Number of monitors.
+-------------------------------------------------------------------------------
+
+But before going any further, it is time for another Training.
+get back to the save point.
+
+Training Scroll S4: Charge Attack
+                    (Hold R1 to Charge and then attack by pressing [])
+-Samanosuke T4-
+Reward: [Medicine]x1.
+Beginner    : Get 20 Souls against 4 Soldiers. Very Easy.
+Intermediate: Get 20 Souls against 1 High Soldier and 1 Ninja. Easy.
+Advance     : Get 20 Souls against 2 Chain Ball. Easy+.
+Trick for round 3:
+-Defeat the first two Chain Ball by arrows, take position in front of the Evil
+ Statue.
+-Facing to the front, use arrow to force them back and to defeat them as well.
+-Once they reappear, use your Charge Attack on them to get Souls.
+-Quickly get back to base your position, absorb the Souls.
+-Repeat the process.
+Learned Oni Art "Oni-Bind Throw"
+
+Get back to the second room, open the password door.
+Inside, there is another puzzle box:
+
+Puzzle Box 3
+Turns Count: 5
+Reward: [Oni Jewel]x1.
+
+            1     2     3 --- 4 --- @
+                        !
+                        !
+      @ --- 5 --- 6     7     8
+                  !     !
+                  !     !
+            9     10----11    12
+
+
+Move 3 to 2, 7 to 3, 6 to 7, 5 to 6, 1 to 5.
+
+Get down the ladder to the sewer. Move to the front. Slash some enemies.
+Get up the ladder on the right to pick up the [Iron Handle].
+Get down to the sewer again and move to the end and let Ako pick up
+one [First-Aid Kit] for you.
+
+Upgrade advise -Samanosuke-: Tensho to level 2.
+
+Get back to the second room and up the ladder. Put the Iron Handle to the
+machine. The door below is open. Activate the Device (pull down the lever).
+Power is on, the light is on.
+
+To the upper-left side of the corner door, use Archery to get [Herb]x1.
+Get out from the corner door and activate the operator to lower the bridge.
+Move on to the end of the path to get [Elec Arrow]x20.
+
+*Sewer Area 2* (Save Point)
+
+Get up the ladder on the right, cut off the steel string to drop
+the giant ball into the sewer.
+There is a special chest (for Michelle) here but you cannot open it yet.
+From this point, you cannot get back to the second room.
+
+Your friends are calling for back up. You must hurry.
+Roll the Giant Ball forward. Slash those who dare to interfere.
+On the way, go up the ladder on your left to get [Oni Med Level 1]x1
+(If you miss this item the first time, you will be able to get it on Episode 5)
+
+Once you reach to the place, keep rolling the ball to the end tunnel.
+Pick up [Secret Med]x1 near the end of the tunnel.
+
+Get up the ladder, to your upper-left there is *EcoSpirit no.6*.
+Use arrow to get it. Notice theer is a locked door here.
+Move forward and you will meet our soldier friend and receive [Small Key].
+Get back to where you came and open the door to pick up [Power Jewel]x1
+
+Climb the ladder at the end.
+
+*******************************************************************************
+Episode 4: Sakai City, Senshu, 1582
+Items: Wristwatch, EcoSpirits no.7-11, Sakai Map, Oni Jewel, Jubei Rmr,
+       Oni Med Level 1x1, White Vest, Watermelon, Herbx2, Bind Move Training
+       Scroll, Blacksmith Key, Medicinex2, Power Jewelx2, Toraya Order,
+       Raisen, Hideyoshi Rmr, Time Lab 1, Genma Notice, Western Ship Map,
+       Wheelhouse Key, Wood Charm, Log Book.
+*******************************************************************************
+
+Ako has come back to Jacques. And they found a [Wristwatch].
+
+*Sakai Main Street* (Save Point)
+
+You are free to talk to all the villagers.
+
+Smash the tiger head to get *EcoSpirit no.7*.
+
+Smash a big pot opposite to the save point to place a glide.
+Get up the ladder and open the chest to get [Sakai Map].
+Use the Glide and open the Puzzle Box on the shore:
+
+Puzzle Box 4.
+Turns Count: 5
+Reward: [Oni Jewel]x1.
+
+      @ --- 1     2     3
+            !
+            !
+            4 --- 5     6
+                  !
+                  !
+            7     8 --- 9 --- @
+
+
+Move 6 to 3, 5 to 6, 8 to 5, 9 to 8, 6 to 9.
+
+Get inside the Toraya Store with the two tigers at the front.
+Smash two big pots to get *EcoSpirit no.8* and *EcoSpirit no.9*.
+Pick up [Jubei Rmr] on the tatami.
+From where you are standing now, move to the left and face to the tatami,
+Ako will say "Right here" and help you to to get [Oni Med Level 1]
+from the upper-left corner.
+
+Go to backyard through the back door. Open the chest to get the [White Vest].
+Equip the Vest with 4(four) EcoSpirits. (No more need to health items?)
+
+Talk to the shop owner (Kichiemon Toraya). You will be sent out.
+(You are free to explore and get some items before the enemies show up)
+I suggest you to get some items before revisit the shop since it is easier
+to pick up items and later on you can concentrate to finish off
+all the enemies.
+
+Talk to a kid outside the shop. He found something inside the barrel.
+Jacques wants it, but the kid found it first :).
+So the kid ask Jacques to barer it with something sweet.
+
+Now, if you talk again to the guy opposite the kid, you will be informed
+that the drawnbridge is broken and the blacksmith is intend to repair it.
+
+Go to the other path (turn left) to visit a market.
+Talk to the guy at the stall and he will give you a [Watermelon]
+as a replacement for the Wristwatch.
+
+Walk to the end of the road and turn right to get [Herb]x1 from the chest.
+Now choose the left path, open the door and follow the path to a chest
+contains [Bind Move Training Scroll].
+
+Go back to the kid and give him the Watermelon. He is very happy now and
+leave. Check the barrel and a will Glide fly out of the barrel heading to
+second level of the Toray Store.
+Get inside the store and then pick up the [Blacksmith Key] on the left side.
+
+Go to the Save Point and play the Oni Bind-Bind Move Training.
+Mission Training Scroll J2: Oni Bind-Bind Move.
+-Jacques T2- (Charge and Hold R1 + [] to grab and then press Triangle to Burn
+             the enemy)
+Before you start, please absorb the Magic Souls from the center.
+Reward: [Medicine]x1.
+Beginner    : Get 10 Souls against 2 Soldiers. Very Easy.
+Intermediate: Get 10 Souls against 1 High Soldier and 2 Ninjas. Easy.
+Advance     : Get 10 Souls against 2 High Soldiers and 1 Chain Ball. Easy+.
+Trick:
+-Whenever you are in critical condition, use the Triangle button to perform
+magic attack to let you out of danger.
+
+Move forward to the big gate, which lead you to the seaside.
+Get inside the left door. Smash those big pots to get *EcoSpirit no.10 and
+*EcoSpirit no.11*.
+Absorb the Souls from the statue.
+
+And a puzzle time.
+Puzzle Box 5:
+Turns Count: 6
+Reward: [Power Jewel]x1.
+
+            1     2     3
+
+
+      @ --- 4 --- 5     6
+                  !
+                  !
+            7     8 --- 9 --- @
+
+
+Move 5 to 2, 4 to 5, 1 to 4, 2 to 1, 5 to 2, 6 to 5.
+
+Get [Toraya Order] on the platform on the right side.
+
+On the other side, you will find a sealed (Thunder-resonate) door.
+Leave it for now.
+Pick up [Herb]x1 from the chest on the second pier.
+
+If you run out of Oni Souls, go to the market road and fight some Ninjas.
+They usually releases Oni Soul once defeated
+(If you smash those sweet Waermelons, they can give you Energy Souls)
+
+Upgrade advise -Jacques-: Oni Gauntlet to level 3 (Max level).
+Upgrade advise -Jacques-: SA Coat to level 2.
+
+Go to where the Blacksmith is, -where you found the Oni Bind Training Scroll-.
+Open the door. On the upper-right of the door, there is [Medicine]x1.
+Ask Ako to help you get it.
+
+Inside, pick up [Raisen].
+Go back to the seaside, to the sealed door.
+Use your Raisen to remove the seal.
+Inside, get [Hideyoshi Rmr] on the left side near the door.
+Move further in to get [Time Lab 1].
+On the way out, Samanosuke comes to you.
+
+Go outside to help Samanosuke.
+Go up the stairs on the left leading to the harbor.
+You will meet Heihachi who will ask for a strength contest.
+
+After,
+Jacques will jump on his motorcycle to the ship.
+Defeat some enemies downstairs.
+Hit one lack box at the left corner to place one Glide.
+Get on top. Puzzle time.
+Puzzle Box 6.
+Turns Count: 5
+Reward: [Power Jewel]x1.
+
+            1     2 --- 3     4
+                  !     !
+                  !     !
+      @ --- 5     6     7 --- 8 --- @
+            !     !
+            !     !
+            9 --- 10    11    12
+
+
+Move 1 to 2, 5 to 1, 6 to 5, 7 to 6, 11 to 7.
+
+Note: If you miss this Puzzle Box, you will be able to get it on episode 6.
+
+Get inside the door on the deck. Pick up [Genma Notice] on the floor and
+get [Western Ship Map] from the chest.
+Downstairs, hit the big picture and open the chest to get a fight with
+one strange character. After you defeat him, (He will not run away),
+you will get [Wheelhouse Key].
+Open the next door. Inside, puzzle time.
+
+Puzzle Box 7.
+Turns Count: 6
+Reward: [Wood Charm]x1.
+
+            1     2     3     4
+
+
+
+      @ --- 5 --- 6     7 --- 8 --- @
+                  !     !
+                  !     !
+            9     10----11    12
+
+
+Move 1 to 5, 2 to 1, 3 to 2, 7 to 3, 6 to 7, 2 to 6.
+
+Absorb Souls from the Souls Statue.
+Pick up [Log Book] from the chest.
+
+Get out of the Captain's Room.
+
+*******************************************************************************
+Episode 5: Notre Dame, France, 2004.
+Items: D Critical Training Scroll, Power Jewelx1, EcoSpirits no. 12-17, Salvex1
+       ,Ice Arrowx20, Herbx2, Genma Rmr, Oni Jewel, Anti-Dark Charm,
+       Dark Parchment, Notre Dame Map, Kuga, Rope Ladder, Statue Charm,
+       Gold Skull, Time Lab 3, Elec Arrowx20.
+*******************************************************************************
+
+Samanosuke's turn.
+
+*Notre Dame Square* (Save Point)
+
+Pick up [D Critical Training Scroll] on the ground on the right side.
+
+Training Scroll S5: Deflect Critical
+-Samanosuke T5-: Press L1 to block DURING the attack (almost get hit)
+                 and press [] to immediately counterattack.
+                 It is easier to tap the [] right after the blocking.
+Reward: [Power Jewel]x1.
+Beginner    : Defeat 8 enemies. Easy+
+              (2 Soldiers, 2 High Soldiers, 2 Lizards, 2 Aquas).
+Intermediate: Defeat 7 enemies. Medium.
+              (1 Ninja.1 Four Hands,1 Ninja+1 Four Hands,2 Slimes,1 Big Club)
+Advance     : Defeat 6 enemies. Medium.
+              (1 Ninja,1 Four Hands,1 Ninja+1 Four Hands,1 Big Sword,1 Big Ape)
+
+Note: You can perform counterattack for 2(two) enemies at the same time or
+      tap the [] button after the first counterattack to perform the second one
+
+The bin on the right contains *EcoSpirit no.12*.
+
+Open the main entrance of the Notre Dame.
+Notice the double yellow seal in front of the door?
+That means your weapon should be at level 2 to open it.
+(That is why you can go back to previous levels to upgrade weapon by
+climbing down the ladder to the sewer)
+
+Inside, clear up some enemies so they will not disturb you when
+picking up items. You can practice your counterattack skill here.
+There are five statues here, one of them is a shape of a Lion with a pair
+of wings keeping a jewel inside the mouth.
+There is also a letter on the wall says
+"Holy lights shows dark and bright".
+
+Almost to the upper-left, smash those pots to get *EcoSpirit no.13*.
+At the upper-left corner, open one chest and there you go,
+the strange character again. Beat her to get [Salve]x1.
+Remember she will disappear if you waste your time.
+At the center front, there is a table.
+Smash the pot on its left to get *EcoSpirit no.14*.
+
+At the upper-Right area, Ako will tell you there is one item box.
+Use her to get [Ice Arrow]x20.
+On the right side, there is a Souls Statue. Absorb it.
+
+Now, from the Altar, move down to the end and pick up [Green Vest].
+Go to lower-right corner to get [First-Aid Kit].
+
+Continue to outside and smash the bin on the right to get another EcoSpirit,
+unfortunately, this one will not be counted :)~
+So I guess this one is just a glitch.
+
+Upgrade advise -Samanosuke-: Oni Gauntlet to level 3 (Max).
+
+Get back to the Church (Notre Dame), get inside, and go to the altar.
+Examine the right side, see the red painted part of it?
+After you choose yes, a hidden door arises from the bottom.
+
+Underground.
+There is a small tomb lying on the ground.
+It says "The Oni...absorb darkness...hidden...shinning...ornament"
+From where you stand now, use arrow to get *EcoSpirit no.15* and [Herb]x1.
+
+Open the door in front.
+This place is working on blades trap at the center, walk to the left.
+You cannot open the door, yet. Continue to the left.
+At the right turn pick up [Genma Rmr].
+
+Deactivate the trap by pressing the skull. It will also release the
+seal on the door. But do not enter yet.
+Continue to the left.
+
+Puzzle Box 8.
+Turns Count: 6
+Reward: [Oni Jewel]x1.
+
+            1     2 --- 3     4
+                  !     !
+                  !     !
+      @ --- 5 --- 6     7     8
+                        !
+                        !
+            9     10    11----12----@
+
+
+
+Move 7 to 8, 6 to 7, 10 to 6, 11 to 10, 12 to 11, 8 to 12.
+
+Get inside the unsealed door.
+There is a fork. At the corner where the fork starts,
+you will see a shinning spot, smash it and then pick up [Anti-Dark Charm].
+From now on, you can absorb the Darkness Energy by pressing and
+holding the O button.
+
+Choose to go straight and you will get [Dark Parchment].
+In front of you is a cliff.
+From where you stand now, use arrow to get *EcoSpirit no.16*.
+
+Get back to the fork and choose the left path of the fork.
+Something is hanging on the ceiling. Use Ako to get [Herb]x1.
+Another one, use arrow to get one *EcoSpirit no.17*.
+Open a chest to get [Notre Dame Map].
+You cannot open the sealed door, yet.
+You need to go back to the Church.
+
+If you examine the Dark Parchment you have just picked up,
+you will notice there is a connection between the four statues in the Church
+with the Darkness surrounding the statues.
+Now you need to visit the four of them one by one, starting from the
+statue with only one candlestand burning and so on.
+
+You have to absorb the Darkness from those statues in orderly fashion.
+->Please hold down the O button to absorb the Darkness<-
+(Thanks to Steve Tan, desho55@yahoo.com for asking about a more elaborate
+explanation on how to absorb the Darkness)
+
+Finally, the jewel on the mouth is shining brightly.
+Approach it to obtain [Kuga].
+
+Go back to the sealed door inside the underground.
+Open it with the Kuga equipped.
+Another blades trap is waiting for you. As usual, go to the left.
+The first pit stop is just a safe place with some plants.
+Continue going to the left.
+There is a safe point at the next pit stop.
+and a closed door with one skull lost.
+
+*Slicing Corridor* (Save Point)
+
+Continue to the left. Get [Rope Ladder] from the chest.
+At the next pit stop, guess what?
+
+Puzzle Box 9.
+Turns Count: 5
+Reward: [Statue Charm]x1.
+
+            1     2     3     4
+
+
+      @ --- 5     6     7     8
+            !
+            !
+            9 --- 10----11    12----@
+                        !     !
+                        !     !
+           13     14    15----16
+
+
+Move 8 to 4, 12 to 8, 11 to 12, 10 to 11, 6 to 10.
+
+Go back to the cliff after the 'fork' where you picked up the Dark Parchment.
+Use the Rope Ladder and move down. At the bottom pick up [Gold Skull].
+Use the Gold Skull to open the closed door next to the save point at the
+Slicing Corridor.
+
+Inside, you will meet Guildenstern again.
+Wait, he is escaping through a time machine.
+Well, he left you a present with personal bodyguards.
+Use Blocking Counterattack to win easily.
+(You can still get out and save if you want to)
+
+On the ground, there is [Time Lab 3].
+On the right side of the platform there is a box contains [Elec Arrow]x20.
+Use Ako to get it.
+After Guildenstern to the Time Machine, (you cannot go back).
+
+
+*******************************************************************************
+Episode 6: The Undersea Temple, 2004.
+Items: Oni Med Level 1x1, EcoSpirit no.18-19, Tablet:Time Fold, Yellow Disk,
+       Ancient Slab, Time Lab 2, D Critical Training Scroll, Sea Temple Map 1,
+       Oni Tortoise, L Dragon Horn, Medicinex1, Dark Realm Scroll,
+       Thunder Seal, Secret Med, Blue Disk, Soul Arrowx10, Oni Jewelx1,
+       Hyosai, Sea Temple Map 2, Chain Critical Training Scroll, Firefly Wings,
+       R Dragon Horn, Power Crystal, Chigo, Temple Tablet, Yellow Vest,
+       Red Disk, Wind Seal, Power Jewelx1.
+*******************************************************************************
+Upgrade advise -Samanosuke-: Kuga to level 2
+
+You will be in a place where the 'Nan Ban Ship' harbors. Remember Jacques?
+But no sign of him because this is in a different time folding :).
+Ako is unable to warp to Jacques either.
+
+On the left side of the upper deck, you will find [Oni Med Level 1]x1.
+At the center of the upper deck, if you use Archery, the arrow will point out
+to a certain direction on the upper-left corner of your screen
+(you should see the steel bar with holes on your feet).
+Use your arrow TWO TIMES and Ako will get you *EcoSpirit no.18!*
+Thanks to Fabian Tan for informing about this finding although I have updated
+the walkthrough itself, but Fabian is eligible for a Full Credit for her
+kind assistance :).
+
+Get inside the Main Door.
+
+*Undersea Temple* (Save Point)
+
+On your right there is a chest contains [Tablet:Time Fold].
+
+The main idea is to teleport Key Items between Samanosuke and Jacques.
+When one of them get the key item (Color Disk), transfer it using the
+Teleporto/Time Folder by activating the Purple Mirror next to the save point.
+Opposite to the Purple Mirror/Time Folder, there is the Unlimited MP Refill,
+but you can only use it starting from Jacques.
+
+At the center platform, There are three Mini/Elemental Towers.
+Each tower needs a (color) Disk -Yellow, Blue and red- to fully operate.
+-Each color is corresponding to their elemental power-
+It is now your mission job to find the three Disks and place it on the
+correspondence tower.
+
+Take the staircase and grab the [Yellow Disk] from the tower on the right.
+Use the Time Folder and deliver the Yellow Disk to Jacques.
+Yes, you can send and receive other items to and from between both of them.
+And you can switch character by using it at any time.
+
+(Samanosuke can get inside the Yellow door, however he cannot continue further
+because of the flood)
+
+Jacques comes out from the ship, in the year of 1582.
+Place the Yellow Disk on its original place.
+Now you can get through the Yellow Door.
+
+Get inside, use the Glide to get to the next room.
+Before you enter, notice on the right there is a Dragon Decoration
+on the wall with one Horn only. You need to find the other one.
+
+Inside the room, there is one chest contains [Ancient Slab] and [Time Lab 2].
+Once you picked up the Key Item, enemies show up.
+There is also a Pedestal surronded by Red light. Inside the Pedestal is the
+Red Disk (the color of the light determines the color of the Disk).
+You cannot touch it now, not yet.
+
+Do not worry wasting your MP because you can always absorb MP from the
+Unlimited MP refill near the first Save Point.
+(The first time, only Jacques can take advantage of the Unlimited MP Refill)
+
+Do not forget to pick up [D Critical Training Scroll] from th upper-left corner
+Go back to the save point and complete the Training.
+
+Training Scroll :
+-Jacques - Push the [] button just before an enemy attack for the special
+           "Critical" move.
+           Works better when executed ~while side-stepping an attack~
+
+Weapon Used: Lightning Spear (For better range, faster charging, etc)
+I recommend upgrading your armor to level 3.
+           (No Souls to absorb this time)
+           Remember, there are several ways to achieve counterattack;
+           -Hold Down R1, circle movement in front of the enemy
+            and press Square when the attack is almost hit you.
+           -Tapping the R1 once/twice when avoiding hit and
+            press Square to Counterattack.
+           -Avoiding and press Square during the enemy's attack/almost hit
+            (this may the best solution in this mission).
+           -If you are a very lucky guy, button mashing for R1 and []
+            continuously and sometimes, you will perform the counterattack.
+           -Persuade the enemy to attack by running in front of/near him.
+            Wait until he is beginning to attack then quickly hit []
+            to perform heavy attack, thus performing counterattack.
+            (Heavy attack is perform when you are running for about
+            3 seconds and hit the [] button)
+
+Trick: This may take more time to beat the enemy.
+*Hold down left/right directional pad when holding down R1 to move in circle
+ and press Square at the right timing when the enemy is start attacking.
+ Up and down pad to move forward and backward.
+ You move faster when using directional pad.
+ This way, when you fail to perform the counter attack, your whip will
+ grab the enemy and lock his attack and movement (100% safe).
+ Press X button to cancel grabbing and keep repeating the process
+ until you get the result.
+ It is better to move in a circle with the enemy at the center area.
+
+Reward: [ ]x1.
+Beginner    : Defeat 7 enemies. Easy+
+              (Soldiersx2, Four Feetsx2, Lizardsx2, Slimyx1)
+
+Intermediate: Defeat 7 enemies. Medium.
+              (Ninja, Four Hands, Ninja + Four Hands, Four Hands, Big Club,
+              Chain Ball)
+
+Advance     : Defeat  enemies. Hard. This one is a real a pain in the a** >_<.
+              (Big Sword, Big Ape, Genma Soldier?, Genma High Soldier?,
+              Big Sword + Big Ape, )
+
+Go ride the capsule to the upper level.
+Inside the chest, you get [Sea Temple Map].
+To defeat the enemy above, you may throw the small pillar or use charge + X
+when near to them.
+
+Opposite to the capsule there is a Puzzle Door.
+Place the Ancient Slab to the empty shelf.
+Puzzle Time.
+
+5 X 4 + 3 + 1 - 2 = 22 or
+5 X 4 + 1 + 3 - 2 = 22.
+
+Forward and you will see the Earth Sealed Door.
+Turn right and open one chest to release a Glide outside.
+
+Go to upper platform using the Glide and turn right to get [Oni Tortoise].
+Open one chest at the opposite center contains a [L Dragon Horn].
+Do not forget to use Ako to get [Medicine]x1 on the upper-left shelf
+to the left of the big door.
+
+Get back to the Earth Sealed Door. This time turn left.
+At the end of the left turn, wait for a moment and a strange guy will
+glide down on a rope and still hanging. Choose yes two times to answer him.
+
+Dark Realm 1: Jacques
+---------------------
+
+                             START
+                            /     \
+                           /       \
+                          B2        P1
+                            \
+                             \
+                              G3
+                              !
+                              !
+                              P4*
+
+
+B = BLUE
+P = PINK
+G = GREEN
+* = Thunder Seal
+START = STARTING POINT
+
+Start: In the Main Warp Zone, you will automatically get [Dark Realm Scroll].
+       Defeat all enemies in the Main area.
+1. Pink : Fight three Big Clubs. Try to perform Deflect Critical with your lvl 3
+          All 3 of them will be counterattacked one by one in a lightning zap.
+          Cool. Defeat another two of them. Absorb Souls from the Souls Statue.
+2. Blue : Defeat enemies.
+3. Green: Defeat enemies.
+4. Pink : Defeat enemies and pick up [Thunder Seal]
+Exit through the Center Warp.
+
+Go back to the lower level. Get outside the room with the Pedestal.
+On your left, there is a door with Dragon Decoration with one horn only.
+Place your L Dragon Horn to activate the mechanism. The water is draining.
+Now you can go down/up the stairs or at least it is accessible for Samanosuke.
+
+Switch character to Samanosuke.
+Get inside the Yellow Door. Down the stairs, pick up [Secret Med] from
+chest at the upper-left corner.
+
+Go up the staircase and open the only door at the end corner.
+Pick up [Blue Disk] from the Pedestal.
+
+Boss fight: Genma Mori Ranmaru. -Easy+-
+Weapon used: Wind Katana.
+-Get close to him. Hit him. Charge your level up if possible.
+-Seldom, when you are still holding down the R1 when hitting him,
+ you will be performing Multiple Counterattack! (3 times in a row in
+ charge up level :)
+-When he throws fireball, avoid or block or throw it back by guarding.
+-Your arrow can eliminate his fireball.
+-When Genma Mori Ranmaru is absorbing his broken energy/souls, combo him.
+ If possible, at the end of the combo use (Wind) Magic.
+ Or just use magic for a better chance to hit.
+-As long as there is still Souls/Energies to absorb,
+ take that to your advantage.
+-You can use arrow to damage him and then he will try to absorb his souls,
+ giving you chance to do more/greater damage.
+-That's it.
+
+Wait, this is a very easy way to finish off Ranmaru (secret tips):
+-Always absorb!!! within a safe range.
+ Mori Ranmaru will then releases his Yellow Fireball, perform counterattack.
+ It will turn into a Energy (Yellow) Soul.
+-Absorb the Energy Soul. Once you get it, Ranmaru will be angry and therefore
+ more Yellow Fireball to come. Counterattack all of them to get Engergy Souls.
+-When Ranmaru is absorbing back his Energy Souls, give him a direct hit/combo
+ with magic preferred or just a direct charge hit.
+
+Teleport the Blue Disk and switch character to Jacques.
+
+Place the Blue Disk on the Lightning Tower, center platform.
+The correspondence door will open. Go in.
+(Remember, you can switch character at any time)
+
+Open the door at the end.
+Once you are in this room, to your right is another Dragon Decoration
+with only one horn. Again, you need to find the other pair.
+
+In this room, also there is a sealed door and an elevator.
+Get in the elevator to the lower level. Use Ako to open a box on top of the
+container on your upper-right corner to get [Soul Arrow]x10.
+Get out to the upper level. Use the stairs to go up and open the door.
+Use the Glide to find one Puzzle Box at the corner.
+
+Puzzle Box 10.
+Turns Count: 5
+Reward: [Oni Jewel]x1.
+
+            1     2     3 --- 4
+                        !     !
+                        !     !
+            5     6     7     8
+                        !     !
+                        !     !
+      @ --- 9 --- 10    11    12----@
+                  !     !
+                  !     !
+           13     14----15    16
+
+
+Move 9 to 13, 10 to 9, 11 to 10, 7 to 11, 6 to 7.
+
+At the end of the road, you will find three more Glides lying on the floor.
+Use Ako to reactivate them.
+
+Continue forward and use one Glide then pick up your new weapon
+[Hyosai]. Now you can smash enemies on the ground and use Ice magic.
+
+Retrace to the sealed door and open it. Inside there is a
+wingless Oni Firefly (Glide) on the floor. Nothing you can do about it.
+Your job is done for now.
+
+Go back to where you found Hyosai just now.
+Use the Glide on the right and you will find the Puzzle Box 6
+which you have already completed during episode 4.
+Continue gliding two times more and you will be onboard the ship.
+
+Move to the save point, switch character to Samanosuke.
+Do not forget to teleport the Bloody Arrow and other kind of arrow
+to Samanosuke.
+Retrace your way back to the unsealed room.
+
+Ups, better hurry before the water gets to you.
+On the right outside the unsealed door there is a chest contains
+[Sea Temple Map 2].
+On the left outside, next to the staircase,
+pick up [Chain Critical Training Scroll].
+
+Inside the unsealed room, at the end you will get [Firefly Wings].
+Get upstairs and open the door. Now you can smash those boxes.
+Pick up [R Dragon Horn]. Now, on this part, when you smash those boxes to
+get the Dragon Horn, I once obtain one false EcoSpirit,
+which is I think a glitch just like the one I get on the episode 5
+(when you smashed the bin on the right :).
+
+Get downstairs, find the Dragon Decoration.
+Activate it using the R Dragon Horn. Now you can get out from that door.
+Move your way to the Save Point.
+
+Complete your Training.
+Training Scroll S6: Chain Critical.
+           Push the [] button after Deflect Critical or Critical to execute
+           additional critical on surrounding enemies.
+-Samanosuke T6-
+Note: Press forward + Square to trigger.
+      Even if you press forward on your analog stick,
+      it will work just fine.
+      Then subsequently tapping the Square button in accordance to
+      the  Red Orbs.
+Beginner    : Need to perform Double Counter attack or more and collect 10
+Souls.
+        (Soldiers and High Soldiers) Easy.
+Intermediate: Need to perform Double Counter attack or more and collect 10
+Souls.
+        (One Big Ape and two Lizard Man) Medium.
+Advance     : Need to perform Double Counter attack or more and collect 10
+Souls.
+
+Teleport the Firefly Wings and switch character to Jacques.
+
+(Thanks to Kouli for mentioning a route back to Nan ban Ship)
+Go to the Nan ban Ship. Use the Glides there and move Jacques to the
+Generator Room, where Samanosuke picked up the Firefly Wings.
+Use the item on the Glide lying on the floor :).
+
+Pick up the [Power Crystal]. All the machines stop working.
+
+Go back to the Save Point through the Nan Ban ship
+and switch again to Samanosuke.
+(Outside the room, Heihachi is fighting with the Genma)
+
+Do not forget to teleport the Blue Power Capsule.
+The Blue Door is covered with somekind of Dark Mist.
+->Please hold down the O button to absorb the Dark Mist
+on the Blue Door<-
+(Thanks to Tan Wie Tiong, for reminding me to explain
+more clearly on how to absorb the negative aura)
+
+Route your way to the generator room and equip the Blue Power Capsule
+to power it up.
+You need to avoid those machines by performing side stepping.
+Get inside the elevator outside and go to the lower level.
+Smash those boxes to get *EcoSpirit no.19*.
+Take the new weapon [Chigo].
+
+Get back to the Yellow Door.
+The elevator is now working fine.
+You are now able to unsealed the Earth Door with the help of Chigo.
+Inside, you will get [Temple Tablet] and the [Yellow Vest] inside the chest.
+And do not forget to pick up the [Red Disk] on the Pedestal!.
+
+Equip 5 EcoSpirits to the Yellow Vest :).
+
+Wait, Samanosuke is able to join the Dark Realm. It is about time now
+
+Dark Realm 1: Samanosuke
+------------------------
+
+                             START
+                               !
+                               !
+                               B1
+                             /    \
+                            /      \
+                           P2------B4
+                           !        !
+                           !        !
+                           G3*      P5
+
+
+B = BLUE
+P = PINK
+G = GREEN
+* = Wind Seal
+START = STARTING POINT
+
+Start: In the Main Warp Zone, defeat all Soldiers and Ninjas.
+1. Blue : Defeat Big Clubs and Big Sword.
+2. Pink : Defeat Soldiers, Genma Sword.
+3. Green : Ninja and Scissors. Pick up [Wind Seal] from the chest.
+4. Blue : Plants and Slimmers.
+5. Pink : Four Hands, Birds. Soul Statue.
+Exit from the Center Warp.
+
+Finally, place the Red Disk on the Elemental Tower.
+
+Get inside the Red Door.
+Puzzle Box 11:
+Turns Count: 6
+Reward: [Power Jewel]x1.
+
+            1     2 --- 3     4
+                  !     !
+                  !     !
+            5     6     7 --- 8 --- @
+                  !
+                  !
+      @ --- 9 --- 10    11    12
+
+
+           13     14    15    16
+
+
+Move 14 to 15, 10 to 14, 11 to 10, 7 to 11, 6 to 7, 5 to 6.
+
+Now, as Samanosuke, the road ahead is a dead end.
+
+Switch to Jacques and do not forget to teleport the Red Disk to him.
+Use Jacques to put back the Red Disk.
+Get inside the Red Door.
+Continue forward and open the big door at the end.
+
+Boss Fight: Easy+
+-Hit him once or twice and he will fight back.
+-Be careful of his Ice  Breath, use R1 + Circle to jump to a secure place.
+-Be careful of his Fire Breath, use R1 + Circle to jump to a secure place.
+-When his body is charge with electricity, which means he is ready to charge
+ you down.
+-When jumping away using R1 + Circle, if you are passing over him,
+ then Jacques will automatically hit him once.
+-When he is standing tall, he is ready to smash you. You cannot defend
+ against this attack. Better jump away using R1 + Circle.
+-His weak side is on the left or right side or behind him.
+-Repeat the process.
+
+After, you need to escape from the flood and get on the Train.
+The water will not flow over the train station, no worry.
+
+Samanosuke's Turn.
+Get inside the Red Door and open the door at the end.
+You will meet Mori Ranmaru, again, but not for long.
+
+*******************************************************************************
+Episode 7: The Boulogne Zoo
+Items: Soul Bracelet, Grenadex10x2, Paris Report, First-Aid Kitx6,
+       EcoSpirit no.20-26, Zoo Flyer, Zoo Map, Mecha Demon 1, Boat Key,
+       SPS15+R, Secret Medx1, SPS14+G, [Soul Bracelet], Lab Building Key,
+       Mecha Demon 2, Ten Slash Training Scroll, Oni Jewelx1.
+*******************************************************************************
+
+You are now controlling Michelle Auberry/Aubert.
+Your first weapon is SPS15+S. This is a short-range weapon.
+Ako is not with you so you need to pick up items/drop items by yourself.
+Open the chest on the left for [Soul Bracelet].
+Now you can absorb souls from the defeated Genma.
+
+You can get into the sewer and get wet, yes you need to go there to get
+your new weapon. Get back to where Samanosuke cut off the metal string to
+drop down the giant ball on Episode 3 (get up the ladder on the end of the
+corner). Pick up [Grenade]x10.
+---(In the Japanese version though, you should get [SPS15+G].
+That is a long range Grenade Launcher :))---
+
+*******************************************************************************
+All right guys, I received a lot of emails regarding this SPS15+G and those
+who did not get this baby at the exact place as stated on the Japanese
+walkthrough.
+The reason is because they are playing a different version, namely the
+US version. That is why they get the new weapon on a different place.
+I received some emails informing that you can get the SPS15+G after saving
+Henry at the end of episode 7 in the Research Center.
+So do not worry, you will get your weapon as promised :)~
+*******************************************************************************
+
+Care to join a field trip?
+Get back all the way to the city and get to the top on the tower where
+Samanosuke fight the Mecha Robot on Episode 1.
+You will not get much trouble with the hi-tech Grenade Launcher on your hands.
+(Not suitable for the US version :)~
+
+Route back to the Church (Notre Dame).
+Retrace all the way to the underground, then to where Samanosuke met
+Guildenstern (before using the Time Machine).
+She will meet two Big Swords. Please use grenade :) R1 + Triangle.
+And a hidden room shows up. Take out the [Paris Report] from the bookshelf.
+Ako has finally come to you seeking help for Samanosuke.
+And Anry/Henri is somewhere with Samanosuke, get caught.
+
+In the Zoo, walk up the staircase on the right screen and open a chest
+in the corner contains [First-Aid Kit].
+
+Important Note: Please use the Assault Riffle and equip the Yellow Vest
+                for the best Souls Collecting result :).
+                Thanks to Sheeperstar Mary-Killa for the info.
+
+Get on to a new screen, destroy the bin on the right to get *EcoSpirit no.20*.
+Move forward and some enemies will show up, nothing you can’t handle of.
+On the left corner, before the bridge, there is a box contains [Grenadex10].
+On the right area, there is a save point.
+
+*East Section of Zoo* (Save Point)
+
+Pick up [Zoo Flyer] on the right-end floor.
+
+Go to the left, pass the bridge. Right after the bridge, on the right side,
+use Ako to open a box to get [First-Aid Kit].
+
+On the left side there is a locked big door.
+
+At the end of the road, destroy one bin to get *EcoSpirit no.21*.
+Get inside the door at the end of the road, and it is a bit dark.
+Use your grenade to light it up a bit.
+Inside the window case there is a box contains [First-Aid Kit].
+You have to use Ako to open it.
+Remember, there is a Sealed Door in this room.
+
+Get out from the next door.
+On the upper-left corner, there is a chest contains [First-Aid Kit].
+
+Shoot a bin at the straight end to get *EcoSpirit no.22*
+and open a chest at the opposite corner to receive [Zoo Map].
+
+Get inside the door on the left.
+Move to the left and pick up [Mecha Demon 1] in front of a big gate.
+You cannot open the big gate, not now.
+
+Continue to the left, shoot the big pot to get *EcoSpirit no.23*.
+
+Get down the ladder to the bottom.
+Approach the four handles to operate the gate.
+1. Operate the Left handle and defeat one Big Ape.
+2. Operate the Mid Left handle to get [Boat Key].
+3. Operate the Mid Right handle and defeat one Big Ape.
+4. Operate the Right handle to get your new weapon [SPS15+R].
+   It is a type of sniper riffle, but is not effective for short range
+   combat, especially when the power is less compare to the Grenade launcher.
+
+Open the big gate upstairs to shortcut your way back.
+
+Route back to the East Section Save Point, continue forward,
+turn left at the end, down the stairs and onto the boat on the river.
+Use the Small Key to on the Control Box.
+(You can use this boat to go back and forward)
+
+We have arrived. Up the stairs and move to the Save Point.
+
+*Front of Research Point* (Save Point)
+
+Get [First-Aid Kit]x1 on the opposite end corner.
+
+Get inside the door.
+Clean up the messy room. Pick up [Secret Med]x1 from behind the stairs.
+From where you stand, aim to your top (from under the staircase)
+and get *EcoSpirit no.24*.
+Walk to the center of the room and aim to the ceiling in front of
+the steel door for *EcoSpirit no.25*.
+
+From where the big plant was, there is a hidden path.
+Go through it. You will meet Anry/Henri. Clean up some mess.
+
+On the upper-right top corner (opposite to Anry/Henri),
+there is *EcoSpirit no.26* for the total of seven in episode 7 :).
+
+IMPORTANT:
+Right after you finish off the two Big Apes, collect the [SPS14+G]
+from one of the cage.
+Do not deactivate the Control Station before Michelle pick up her
+Grenade Launcher!!!
+
+Also get one [First-Aid Kit] in another broken cage.
+
+Finally, deactivate the Control Station on the wall.
+Anry/Henri and Samanosuke will be free.
+A reunion, how touching, for a short time.
+
+Samanosuke's turn (Still inside the Research Center).
+Pick up [Soul Bracelet] on the floor.
+
+Upstairs there is a sealed door. Need to find the key.
+Route your way back to the sealed room over the bridge on the East Section.
+It is at the end road after passing over the bridge near the starting point
+
+Use your level 2 Kuga in order to open the Sealed Door.
+Inside, pick up [Lab Building Key].
+
+Get back to the Research Center, except this time you do not need to get
+downstairs. Open the Lab door using the Lab Buiding Key.
+Some enemies will show up. Here you can find a Puzzle Box and a Save Point.
+
+*Inside Research Center* (Save Point)
+
+[Mecha Demon 2] is on the table and [Ten Slash Training Scroll] lying there
+just in the corner opposite of the Puzzle Box.
+
+Complete your Training.
+Training Scroll S7: Ten Point Slash
+           Back away, draw and push UP + [] button to charge the enemy.
+-Samanosuke T7-
+Note: Press forward + Square to trigger.
+      Even if you press forward on your analog stick,
+      it will work just fine.
+      Then subsequently tapping the Square button in accordance to
+      the  Red Orbs.
+Beginner    :
+Intermediate:
+Advance     :
+
+
+Puzzle Box 12:
+Turns Count: 5
+Reward: [Oni Jewel]x1.
+
+            1     2 --- 3     4
+                  !     !
+                  !     !
+            5     6     7 --- 8-----@
+                  !     !
+                  !     !
+      @ --- 9 --- 10    11    12----@
+                        !     !
+                        !     !
+           13     14    15----16
+
+
+Move 12 to 11, 8 to 12, 7 to 8, 6 to 7, 10 to 6.
+
+
+Next to the save point is a door to the boss.
+Boss fight: Guildenstern.
+Difficulty: Easy+.
+Weapon Used: Hyosai.
+-He is flying, so you need to wait for him to get lower.
+ Of course during the fight you are allowed to use arrows of any kind.
+-He will then summon his minion.
+ If you beat down the minion, he will revive it, and get him self lower.
+ His heart is glowing red. That is your best chance to hit him hard.
+ If you use Battle Axe, you can charge it to the highest level.
+ Wait until he is lower enough, then release your charge move.
+ It will give him enough damage and give you secure. Also you will hit
+ the minion. Three-in-one move.
+-When you hit the minion, some times they will give you Health Energy.
+ You do not need to use Health Items actually.
+-Once Guildenstern feel angry, he will release another minion.
+ Use the same strategy, only be more careful.
+-Repeat the process and you will be fine.
+ This is a long battle. That is why you need to get Health Energy from
+ the minions using the charge up move.
+ Unless you want to use the Health Items from the Menu Screen.
+-Once a while he will throw his weapon down to you, but it is predictable.
+-When you beat him the first time, he will use a Sand Time Revive Tool.
+ So you need to beat him one more time. Not bad for practicing your skill.
+ You will beat him definitely, without any problem.
+
+
+*******************************************************************************
+Episode 8: Mount St. Michel, The Castle.
+Items: Ranmaru Book, Eco Spirit no.27-33, MSaint Mitchel Map, Main Gate Key,
+       Herbx2, MSaint Michel Map 2, Sun Crest,
+       Power Jewelx2, Red Eye Stone, Ice Arrowsx10, Green Orb, Medicinex7,
+       Fire Sealx1, Orange Vest, Wood Charmx2, Purple Orb, Purple Vest,
+       Time Lab 4, Red Key, Triangle Key, Oni Med Level 1x2, Genma Plant,
+       Secret Medx2, Iron Gear, French Note, Vega's Diary, Souls Bracelet,
+       Grenadex10, Souls Bracelet 2, Time Lab 5.
+*******************************************************************************
+
+Samanosuke's turn.
+
+*Grand St.* (Save Point)
+
+And a Teleporto is next to it.
+Pick up [Ranmaru Book] in front of the save point.
+Continue forward.
+
+On the next house on the left, there is a box out of reach on the second level.
+you cannot get it, yet. Move on, you will see a short left turn to a locked
+steel door right after the hotel. You need to find the key, a round shape key.
+
+Smash one bin on the right to get *EcoSpirit no.27*.
+Those enemies are just annoying. Better finish them off.
+If you are using Chigo for Samanosuke, it's Swing Charge Up attack
+can eliminate those fireballs from the enemies.
+Samanosuke cannot open the door at the end.
+
+Switch to Jacques, You will meet Heihachi and fight him, not really.
+
+Go to the front of the train, smash those boxes and get *EcoSpirit no.28*.
+Knock down one Bird and A Glide will be place in front of the front door.
+Check on this door and you will see three persons locked inside.
+
+Use the Glide to go to the upper level and get inside the door.
+Pick up [MSaint Michel Map] from inside the chest.
+
+There is one human, standing in front. Talk to him.
+Do not get out of this room before you talk to him otherwise he will disappear.
+
+At the center garden, there is an unlimited MP Refill.
+On the pillars surrounding the garden, there are some torches you need to light
+Opposite the MP Refill, you will see a trap mechanism, but you can see inside
+(there is no door actually). One chest inside and one torch on the wall.
+
+-------------------------------------------------------------------------------
+CHANGE YOUR WEAPON TO ENJA. Feed the torches with fire from your whip.
+Your job is easy, fire all the small torches (use Triangle).
+Remember, when you hit the last small torch, the trap should be stopped
+temporarily at the top position, thus allowing you to get in.
+Get inside and open the chest for [Main Gate Key].
+Fire whip the big torch right when the trap is going down. When the torch is
+lighted, the trap is on the top position. That will make the trap stop forever.
+-------------------------------------------------------------------------------
+
+Get out from the garden and circle around to the next door.
+This is the door on your right when you are outside at the courtyard.
+Use the Glide to get to the next platform.
+
+Side Mission 1:
+-------------------------------------------------------------------------------
+In the save point area, there is a man need your help. Do not let him die.
+After saving his life, talk to him and he will give you [Herb]x1.
+-------------------------------------------------------------------------------
+
+*Front of Monastery* (Save Point)
+
+And a Teleporto next to it.
+If you open the front door, you are stuck at the next area.
+No Glide and no other way to move further.
+On the right side of the door, there is a statue with only one Red Eye.
+
+Go back to the save point area. You will see a handle on the wall opposite
+the save point. On the most left part of the wall, there is some kind of
+gears. Now activate the handle. The Gears are working, ups,
+you need one more gears for the mechanism to work successfully.
+
+Nothing to do.
+Switch to Samanosuke and do not to teleport the Main Gate key
+you found just now.
+
+Use the key to the door at the end of the road.
+Walk up the staircase. Fight some enemies. Defeat those magician first,
+because their magic will absorb not only you HP but also your MP significantly.
+When they are defeated the magic will disappear too.
+Smash the bin for *EcoSpirit no.29*.
+Inside the chest you will get [MSaint Michel Map].
+There is another box in the left corner, but it is not for Samanosuke.
+It is for Michelle?
+
+Inside is a long hallway. On the right wall you will see a Yellow Steel Door
+you cannot reach by now.
+At the end there is a giant flower monster.
+Finish it and you will see a chest behind it. Open it to get [Sun Crest].
+Yes, place it at the side door on the left, turn right after the hotel.
+
+Smash the bin for *EcoSpirit no.30*.
+
+And there is one Puzzle Box next to it.
+Puzzle Box 13.
+Turns Count: 5
+Reward: [Power Jewel]x1.
+
+            1     2     3 --- 4 --- @
+                        !
+                        !
+            5 --- 6 --- 7     8
+            !
+            !
+            9     10    11    12
+            !
+            !
+      @ --- 13    14    15    16
+
+
+Move 7 to 11, 3 to 7, 2 to 3, 6 to 2, 10 to 6.
+
+Move on, you will see the Soul Statue. Absorb souls and energy from it.
+(Press and hold the O button)
+
+At the end, there is a chest contains [Red Eye Stone].
+Use Ako to get the out of reach box to get [Ice Arrowx10].
+
+Switch to Jacques and do not forget to teleport the Red Eye Stone.
+
+Open the gate, place the Red Stone Eye to the statue on the right side
+of the door.
+Here we go, a floor puzzle.
+Round 1.
+Clue:
+         1
+ -------SUN--------
+3!               2!
+STAR------------MOON
+
+You got approx. 17 seconds starting from the very beginning.
+
+
+ 4       5       6
+STAR    SUN     MOON
+
+ 3       8       7
+MOON    SUN     STAR
+
+ 2       9       10
+STAR    MOON    STAR
+
+ 1       12      11
+SUN     MOON    SUN
+
+
+Note:
+- From no. 1 to 4, start running by pressing forward (analog or direction pad
+  gives you different speed) + R1.
+  It will save you a lot of time.
+
+Result: One figure on the left at the other side is lighted with aura.
+---------------------------------------
+
+Round 2.
+Clue:
+         1
+ -------SUN--------
+3!               2!
+STAR------------MOON
+
+You got approx. 17 seconds starting from the very beginning.
+
+
+
+ 12      5       4
+STAR    MOON    SUN
+
+ 11      6       3
+MOON    STAR    STAR
+
+ 10      7       2
+STAR    SUN     MOON
+
+ 9       8       1
+SUN     MOON    SUN
+
+
+Note:
+- From no. 1 to 4, start running by pressing forward (analog or direction pad
+  gives you different speed) + R1.
+  It will save you a lot of time.
+
+Result: One figure on the middle at the other side is lighted with aura.
+
+---------------------------------------
+
+Round 3.
+Clue:
+         1
+ -------SUN--------
+3!               2!
+STAR------------MOON
+
+You got approx. 17 seconds starting from the very beginning.
+
+
+ 8       7       6
+MOON    SUN     STAR
+
+ 9       10      5
+STAR    SUN     MOON
+
+ 12      11      4
+STAR    MOON    SUN
+
+ 1       2       3
+SUN     MOON    STAR
+
+
+Note:
+- From no. 1 to 4, start running by pressing forward (analog or direction pad
+  gives you different speed) + R1.
+  It will save you a lot of time.
+
+Result: One figure on the right at the other side is lighted with aura.
+Main result: Platforms are rising from below to build a staircase
+             going down.
+
+Continue forward, do not miss a small door on the left.
+Inside you will meet the strange guy from the Underwater Temple.
+You know the drill. Say yes.
+Same situation. Beat them up. This time is really tough!
+Before this, I have never used a single Health Item, even when fighting
+with bosses. But in here, you are going to need that Herbs and Medicines.
+Or else leave it to Ako and the White Vest :)
+
+Dark Realm 2: Jacques part 1
+----------------------------
+
+                             START
+                            /     \
+                           /       \
+                          P1         P7      G8
+                        /    \        \     /    \
+                       /      \        \   /      \
+                     B2*       B4        B6        P9
+                       \      /  \     /         /
+                        \    /    \   /         /
+                          P3--------P5        B10
+                                             /
+                                            /
+                                         G11***
+
+B = BLUE
+P = PINK
+G = GREEN
+* = Green Orb
+START = STARTING POINT
+*** = Fire Seal
+
+Start: On the Main Warp Zone, there is a Sealed Chest.
+       You cannot open this box, yet.
+       Need Samanosuke to finish his part in the Phantom Realm
+       and get the 'Break Demon Purple Jade'.
+       After that let Jacques come back and pick up 'Brown Revive Doll'
+1.  Pink: Defeat enemies.
+2.  Blue: Defeat enemies and pick up [Green Orb].
+3.  Pink: Defeat enemies.
+          Absorb Souls Statue as necessary.
+4.  Blue: Defeat enemies.
+5.  Pink: Defeat enemies and pick up [Medicine]x1.
+6.  Blue: Defeat enemies.
+7.  Pink: Defeat enemies.
+8.  Green: Defeat enemies.
+           Absorb Souls Statue as necessary.
+9.  Pink: Defeat enemies.
+10. Blue: Defeat enemies and pick up [Medicine]x1.
+11. Green: Defeat enemies and pick up [Fire Seal].
+Exit
+
+Get outside and continue our journey.
+At the end of the staircase, smash the boxes to place two Glides on its
+position. Retrace to the very start of the staircase and you will see
+the Glides. Use it to get to the bridge. On the bridge, turn left.
+Another Glide to get down. Defeat one Giant Flower monster.
+Open the chest behind it to get [Power Jewel].
+
+There is a locked door in front of you but you cannot get in, yet.
+On your back there is a door, open it.
+Shazam, you are back to the staircase.
+Walk down to the very end of the staircase and open the door.
+
+You are outside the castle.
+Smash the box there to place a Glide.
+Stand in front of the main door to see the Glide and use it to get to the top.
+Open the chest to get [Orange Vest]. Equip your EcoSpirits to it.
+
+Go back to the save point.
+
+Switch with Samanosuke.
+Do not forget to teleport the Green Orb.
+Go back to the castle. Now there is a new platform on the hallway.
+Samanosuke now is able to reach the Yellow Steel Door.
+
+Before entering the Yellow Steel Door, Samanosuke should meet with
+the strange guy from the Dark Realm. it is the right time.
+Go forward and turn right before the floor puzzle
+location (same location as when Jacques battling in the Dark Realm).
+
+Dark Realm 2: Samanosuke
+------------------------
+
+                             START       P19
+                            /     \    /     \
+                           /       \  /       \
+                          P1         B5        B18
+                        /    \        \           \
+                       /      \        \           \
+                     B2 ------P4        P6        G17
+                       \               /          /
+                        \             /          /
+                         G3*        B7        P16
+                                  /   \          \
+                                 /     \          \
+                               P8        G14------B15
+                                  \
+                                   \
+                                    B9
+                                      \
+                                       \
+                                         G10
+                                       /
+                                      /
+                                    P11
+                                   /
+                                  /
+                                B12
+                                  \
+                                   \
+                                    G13***
+
+
+B = BLUE
+P = PINK
+G = GREEN
+* = Purple Orb
+START = STARTING POINT
+***=Purple Vest
+
+Start: Destroy enemies in the Main Warp Zone.
+       On the main Warp Zone, there is a Sealed Chest.
+       Use the Green Orb to unlock it and pick up [Wood Charm].
+1.  Pink: Defeat enemies.
+2.  Blue: Defeat enemies.
+3.  Green: Defeat enemies and pick up [Purple Orb].
+           Absorb Souls Statue as necessary.
+4.  Pink: Defeat enemies.
+5.  Blue: Defeat enemies.
+6.  Pink: Defeat enemies.
+7.  Blue: Defeat enemies and pick up [Medicine].
+8.  Pink: Defeat enemies.
+9.  Blue: Defeat enemies.
+10. Green: Defeat enemies.
+           Absorb Souls Statue as necessary.
+11. Pink: Defeat enemies and pick up [Medicine].
+12. Blue: Defeat enemies.
+13. Green: Defeat though enemies and pick up [Purple Vest].
+14. Green: Defeat enemies.
+           Absorb Souls Statue as necessary.
+15. Blue: Defeat enemies.
+16. Pink: Defeat enemies.
+17. Green: Defeat enemies.
+           Absorb Souls Statue as necessary.
+18. Blue: Defeat enemies and pick up [Medicine].
+19. Pink: Defeat enemies.
+Exit
+
+Teleport the Purple Orb to Jacques!!!
+
+Dark Realm 2: Jacques part 2
+----------------------------
+Since you have gotten the Break Demon Purple Jade from Samanosuke,
+rejoin the Dark Realm 2 and open the Sealed Chest at the main Warp Zone
+to get another [Wood Charm].
+-------------------------------
+
+Note:
+If you want, you can transfer the Brown Revive Doll to Samanosuke
+because he is the one who will fight face to face with Nobunaga!
+
+Now, get back to business.
+Get your way back to the Yellow Steel Door.
+Inside there is a big strange Green Ball shape, hanging on the center.
+This room is some kind of a lab.
+Some magicians are here too.
+
+There is a black hole on the floor at the end.
+Next to it there is the [Time Lab 4].
+After you get the book, get into the black hole.
+You can smash those boxes, but nothing will come out.
+Activate the black hole.
+
+You have been teleported to the City, with Ako on your side.
+There is a Giant Flower on the West Wing. Destroy it.
+Get inside the door to the tower.
+On the top of the tower, fight some enemies.
+Open the chest for the [Red Key]. The Black Hole is back. Activate it.
+
+Welcome back to the lab?.
+
+Switch back to Jacques and do not forget to teleport the Red Key.
+Make sure your MP Energy is in full condition for the Side Mission ahead.
+SAVE first before you try to save those civilians :)
+
+Retrace to the locked door on the second level after using the bridge.
+Use the two Glides to get to the bridge, and the third Glide
+will get you to the locked door.
+Or, another way is, to move down the staircase and turn left when
+you see a open door on the left near the exit door.
+Use the Red Key to open the door.
+
+Inside, slave people are working hard monitored by Heihachi's partner
+-Vega Donna-.
+
+Open the chest on the upper-left corner to get [Medicine]x1.
+Looks like you got no business here. Get outside.
+You will meet Heihachi and he will give you the [Triangle Key].
+
+Side Mission 2:
+-------------------------------------------------------------------------------
+Outside, there are two people asking for help.
+Do not let them die.
+Magic is the most effective in this situation.
+Use magic one time for each rescue.
+Talk to the first man and he will give you [Herb]x1.
+Talk to the second man and he will give you [Oni Med Level 1]x1.
+-------------------------------------------------------------------------------
+
+Side Mission 3:
+-------------------------------------------------------------------------------
+When you arrived at the save point area, there is another man who is
+calling for your help. Do not let him die.
+After saving his life, he will give you [Oni Med Level 1]x1
+-------------------------------------------------------------------------------
+
+Go all the way down to the train area. Use the Door Key to open the locked door
+You are going to save the three of them.
+
+Pick up [Genma Plant] from the floor.
+Use Ako to open a box containing [Secret Med].
+(There is a chest behind those boxes)
+
+Get out. Approach the right wing of the back yard.
+There is a place to grow plant seeds.
+Grow your Plant Seed into one of the square.
+The fourth square from the top left (next to the already planted).
+
+Switch to Samanosuke.
+Let him crawl down the tree.
+Ako will automatically get you the *EcoSpirit no.31*
+
+Get inside the door, smash those boxes and open the chest behind it
+to get the [Iron Gear].
+
+Smash the other boxes to get [Medicine]x1 and *EcoSpirit no.32* and
+*EcoSpirit no.33*.
+Pick up [French Note] from the shelf on the left.
+Go back to the save point area, place the Iron Gear.
+Activate the handle to open the center gate.
+D*** the handle is now broken! >_<
+
+Ask help from Jacques in the year 1582 where the handle is still in
+good condition :).
+Do not forget to teleport the Iron Gear to Jacques.
+Operate the handle successfully.
+
+Get inside.
+Pick up [Vega's Diary] on the floor.
+Defeat one Giant Flower. Open a chest behind it to get [Secret Med]x1.
+
+Get inside the left door and take to a passageway to downstairs.
+
+Ups, it is a trap door and a poison? gas?
+---
+
+Let Michelle and Henri handle this.
+Pick up [Soul's Bracelet] from the chest.
+
+Inside, defeat all enemies then you can move on.
+Go through the gate.
+
+Pick up [Grenadex10] from the left side of the next gate.
+Get inside to the alley and defeat all the enemies then you can move on.
+
+You have to read the book you found just now to be able to get through
+the next door.
+
+Reunion with Samanosuke at the front of Mon, Ako is also here.
+Need to hurry to help Jacques.
+
+Pick up [Souls Bracelet 2].
+Get inside, pick up [Time Lab 5] on the floor.
+Go through the left door.
+
+Get downstairs.
+
+You need to repeat the password Anry is trying to input.
+There is a time limit, so be careful not to waste your time.
+1. Up, Down, Triangle.
+2. Up, Down, Triangle, X, O.
+3. Up, Down, Triangle, X, O, Down, Up.
+4. Up, Down, Triangle, X, O, Down, Up, Square, Left, X.
+5. Up, Down, Triangle, X, O, Down, Up, Square, Left, X, X, Right.
+Thanks to Cirio (Cirio@rome.com) for reminding me that the code will keep
+changing for a new game or a new game plus. Good job.
+
+Get out of the castle.
+
+Boss Fight:
+Weapon Used: Chigo level 3.
+-He is pretty much the same as the Boss on Episode 6.
+-Except that he has more HP, a little bit more aggressive and no more
+ Glides to escape. You need to time your run wisely.
+-Release him from his ARMORS!
+-You are allowed to use arrows.
+-Do not get too close all the time.
+ However, after successfully escaping his charging attack you need to
+ approach him and it is advisable to use your charge up attack often and
+ continuously. He is tough, but believe me, when you use the charge up attack
+ level 2/3 frequently, he will not get a chance to do more damage on you.
+
+
+*******************************************************************************
+Episode 9: Oni Mansion
+Items: EcoSpirit no.34-35, Forest 1, Biwa Map,
+       Medicinex5 (Additional 1 Medicine if you choose the top-left continent),
+       Secret Medx2 (Additional 1 Secret Med if you choose the top-right path),
+       Oni Mansion Book, Oni Army Book, Oni Army Orb, Azuchi Area Map.
+*******************************************************************************
+
+Start with Jacques.
+Get out the room through the only door.
+Trash some enemies outside.
+Break the box in front of you to get *EcoSpirit no.34*.
+Pick up [Forest 1] at further left corner.
+
+Use the Glide to the other side and open the next door.
+
+Cut scene.
+
+The reunion of the three heroes.
+Samanosuke will accompany you one more time.
+Now this is the right time to finish your Training lessons, if you have not.
+
+*Lake Biwa* (Save Point)
+
+First continent:
+Smash the box to place a Glide.
+Now instead of gliding around, which Samanosuke cannot catch up with
+Jacques, he will pull the iceberg in the direction of the Glide.
+Smash on the box to place one Glide.
+More Glides coming up when you defeat the enemies.
+
+Second continent:
+Open the chest on the right side to get [Biwa Map].
+Use Ako to get [Medicine]x1 from the out of reach chest on the right side.
+Next is a ice platform with weight sensitivity. When the heavy Big Ape
+is walking on top of it, the platform will goes down.
+Defeat one or two of them and you will be on your way.
+
+Ahead, there is a fork.
+The top-left one and the top-right one.
+As usual, find the Glides and you will be save and sound.
+Press and hold R1 + Circle to smash enemy in the air (Birds).
+
+*If you choose the top-left one, you will get [Medicine]x1.
+ Third Continent:
+ Another fork.
+ If you go straight there is another platform just like the previous one.
+ Kill the two Big Apes, and get the Medicine from the chest at the end.
+ Now, go back to the fork and ride the other iceberg on the right side.
+ Please note there are two Big Apes carrying one Glide each.
+ You have to charge up your weapon and perform combo in order to defeat them
+ in certain time. If you fail you cannot get the Glide placed and the
+ iceberg will crash but not to the fatality.
+ That is it. No more bonus item.
+
+*If you choose the top-right one, you will get [Secret Med]x1.
+ You will arrive at the West-side island. Clear some enemies.
+ There is a Glide to a deserted island. Jacques alone will go there
+ and pick up the Secret Med. Easy, right.
+ Now get back to the West-side island and get onto the next iceberg
+ to get you into the Trap House.
+ But I warn you, it is not a very safe path to cross to.
+
+*Front of Oni Mansion* (Save Point)
+
+Finish all the Trainings if you have not.
+
+
+                               -------
+                              ! #     !
+                   ----------- ----???----
+                  !       G2B !  SP       !
+                  !      *3   !           !
+                  !           !           !
+                  !           !           !
+                  !           !           !
+                   ----   ---- ----(Y)---- -----------
+                  !           !           !           !
+                  !           !           !           !
+                  !          (B2)                     !
+                  !           !           !           !
+                  !           !           !        G7B!
+                   ----   ---- ----------- -----------
+                  !           !*2!  !  !  !           !
+                  !           !  !  !  !  !           !
+                  !              ! G4Y !              !
+                  !           !  !  !  !  !           !
+                  !           !  !  !  !  !        G6Y!
+                   ----(R)---- ----------- ----------- -----
+                  !       G1R !   *4      !           !   ST!
+                  !           !           !           !*6   !
+                  !      *1  (B1)                     ?     !
+                  !           !           !      *5   !-----
+                  !           !           !        G5B!
+                   ----   ---- ----------- -----------
+                  !           !
+                  !   MAIN    !
+                  !   TRAP    !
+                  !   DOOR    !
+                  !           !
+                   -----------
+
+                              Front of Oni Mansion (Save Point)
+
+*1 = ONI MANSION (BOOK)
+*2 = ECOSPIRIT NO.35
+*3 = MEDICINEX1 (DEFEAT THE STRANGE CHARACTER)
+*4 = G4Y
+*5 = ONI ARMY BOOK
+*6 = SECRET MEDX1
+?  = WALL SCROLL
+ST = SOUL STATUE
+#  = HOLE
+(R)= RED DOOR
+(B)= BLUE DOOR
+
+Inside the house. Jacques is trapped.
+
+1.Get inside the next door. Pick up [Oni Mansion (Book)] from the floor.
+2.Now, the doors around here will only open when Jacques uses his weapon on
+  the Glides scattered around on the ceiling. When it turns green,
+  press R1 and Circle to open the correspondence door.
+  Activate the G1R (Red). The Red Door (R) will open. Go North.
+3.On the next room turn West and to the left corner.
+  Smash the box the box at the corner to get *EcoSpirit no.35*.
+4.Get back to the previous room.
+  This time go to North two times. Open the chest to get [Medicine]x1.
+  -Well, you need to defeat the strange character first-
+  There is another Glide in this room; G2B (Blue).
+  Activate it and quickly go back to G1R and activate it too.
+  One Blue Door (B1) on the West side is now open.
+5.What are you waiting for?
+  Go inside the room and place the [G4Y (Yellow)] from the chest.
+  Go to your front and pick up [Oni Army Book] on the floor.
+  -G4Y is heading to the place where you get your EcoSpirit no.35.
+  You should use it to get across-
+6.On the next room, there is another Glide; G5B (Blue).
+  Before retracing your way back, smash the Wall Scroll.
+  Get inside the hidden room and pick up [Secret Med]x1 from the chest
+  and absorb the souls from the Soul Statue.
+  Activate G5B to open the previous Blue Door and get out to the G1R.
+7.Activate G1R, the Red Door is open. Go to the next room and turn right.
+  Here you will see the G4Y. Use it to get accross to the next room
+  where the G6Y is waiting for you.
+  Activate the G6Y and retrace as fast as you can to G2B, activate it to
+  open the Blue Door (B2). Once get inside B2 Door, turn to your left
+  to get accross the Yellow Door.
+  That's it. You are now have reached the Save Point.
+  If, on your way to the Yellow Door you are running out of time,
+  then you need to retrace to the G6Y and start all over again.
+  That is why you are going to need the help of G7B to get out of the B2 Door.
+
+*Oni Mansion Gate Room* Save Point
+
+8.There is a Wall Scroll next to the save point. Smash it.
+  Inside there is a hole. Choose to get inside the hole.
+
+-------------------------------------------------------------------------------
+Face to face with two Giant Chain Ball.
+Glide on the only Glide after defeating them.
+
+At the end (in front of the big statue),
+Ako will help you get a [Medicine]x1 on the upper-left chess.
+
+Check on the Statue, you will get the [Oni Army Orb] from it's mouth.
+Samanosuke and Ako will join you.
+Jacques gives the item to Samanosuke.
+-------------------------------------------------------------------------------
+
+You will end up in a open battlefield!
+Just go forward and keep smashing those never ending Soldiers.
+Hey, you may want to practice your chain counterattack here.
+This is the best place to practice anyway.
+
+At the upper-left, you will find a chest with [Azuchi Area Map] inside it.
+Get inside the big gate. Another battlefield.
+They are endless, so let's open the next gate.
+You will get [Medicine]x1 at the upper-right area. Use Glide to get there.
+Open the Gate. You will meet Heihachi in the castle
+
+
+*******************************************************************************
+Episode 10: The Azuchi Castle
+Items: Fortress 2, Azuchi Map, Vassal Book, Oni Jewelx1, Medicinex1,
+       Oni Med Lv 1x1.
+*******************************************************************************
+
+*Azuchi Castle Main Hall* (Save Point)
+
+Pick up [Fortress 2] on the upper-left side
+
+There is a locked door at the end of an alley.
+The other way is a lift to go up.
+Take the lift to the second floor.
+
+Get the [Azuchi Map] at the end of the bridge.
+Another Ninja show up from the wall at the end.
+You cannot get through to the right anyway.
+Get inside the wall and you will see a Puzzle Box and a Glide.
+
+Pick up [Vassal Book] at the bottom-left corner.
+You cannot get out now, not after you defeat Marcellus.
+
+On the bottom-right,
+Puzzle Box 14:
+Turns Count: 5
+Reward: [Oni Jewel]x1.
+
+            1     2 --- 3 --- 4 --- @
+                  !
+                  !
+      @ --- 5     6 --- 7 --- 8
+            !           !     !
+            !           !     !
+            9 --- 10----11    12
+                              !
+                              !
+           13     14    15    16 --- @
+
+
+Move 2 to 6, 3 to 2, 7 to 3, 11 to 7, 15 to 11.
+
+Take a ride on the Glide and you will fight with Marcellus.
+
+At the very end of the left corner you can get [Medicine]x1.
+Use Ako to get it.
+
+You will see one door near the box is open. Get inside.
+Walk down the stairs to get [Oni Med Lv 1]x1.
+Across the bridge,
+
+*Azuchi Castle Sky Bridge* (Save Point)
+
+Move forward and walk up the stairs at the end to the right.
+
+Boss Fight: Vega Donna
+Weapon Used: Chigo, Raisen, Enja.
+-Use all the magic you got in order starting from Chigo, Raisen and Enja.
+ With that arrangement, you will not get any difficulties on defeating her.
+-You are able to block and counter her poison arrows.
+ When she is hit by the poison arrow, she will be vulnerable.
+ Do your best combo or combine with magic :)
+-She is semi-predictable :)
+-You may need some HP items though.
+
+
+*******************************************************************************
+Episode 11: The Eiffel Tower
+Items: Green Medical Kitx2, Max MP Increasex1, Small MP Recovery, Map,
+       Max HP Recoveryx2, Book, Fire Arrowsx5/10?
+*******************************************************************************
+There is a save point here. To the left opposite of the save point there is a
+chest containing [Green Medical Kit].
+
+At the other side's corner you will find the last Puzzle Box.
+Puzzle Box 15:
+Turns Count: 6
+Reward: [Max MP Increase]x1.
+
+            1     2 --- 3     4
+                  !     !
+                  !     !
+            5 --- 6 --- 7     8 --- @
+            !                 !
+            !                 !
+      @ --- 9     10    11----12
+            !            !
+            !            !
+           13 --- 14----15----16 --- @
+
+
+Move 3 to 6, 4 to 3, 8 to 4, 7 to 8, 11 to 7, 10 to 11.
+
+Use the lift to go up, first enemies.
+After, activate the button on the other side of the lift to pull down
+the ladder. Upstairs, fight one Big Ape, then continue going up the ladder
+in the middle.
+Now, it is time to walk from platform to platform.
+First, choose the down path and use Ako to get one [Small MP recovery].
+Up the way to fight some of the Spikeys.
+There are some Black Warp Zone to move you away from the right path.
+Time your attack not to drag to the Black hole.
+I use Battle Axe to destroy them.
+
+Fight the Mecha Robot (Boss on Episode 2).
+On the upper-left end side, there is one Generator need to be destroyed.
+Pick up [Map] on the right side.
+Enter the door next to the Map.
+Up, up and away.
+There is a Save Point here.
+
+Go up and go to the left path and there is another fork,
+choose the left one and get one [Max HP Recovery].
+Get back to the fork, this time choose the right path.
+You are now on the upper platform to the left.
+Same thing goes here, defeat some Spikeys, watch out for the Black hole.
+
+When your arrive at the very top platform, to your left is one
+[Max HP Recovery].
+On the right corner, there is a chest contains on strange character.
+Hit her a few times to get one [Green Medical Kit].
+Get up the stairs to the upper platform,
+get one [Book] in front of the lift door.
+Go to the right and use Ako to get one [Fire Arrowsx5/10?].
+
+Activate the lift, fight one Genma Big Sword. Use it to get to the
+upper level. There is a Soul Statue and Save Point here.
+
+Take the stair to meet the Boss: Genma Mori Ranmaru.
+-He is more likely the same as before, except that he is more active now.
+-Use Battle Axe for dealing good damage.
+-Use some arrows when he is at distance.
+-Charge your Battle Axe whenever possible and when he is close hit him
+ manually.
+-Use magic if you want.
+-You will set him free in no time.
+
+
+*******************************************************************************
+Episode 12: Conclusion at Nippon, 1582
+Items: Max HP Recovery, Scroll, Break Demon Purple Jadex8, Tonicx1,
+       Oni Musou, Bishamon Sword.
+*******************************************************************************
+Open your way to the upper ground, to the Castle of Nobunaga.
+Mori Ranmaru will intercept you guys in front of the castle.
+Well, Jacques is proving himself for the sake of Heihachi :).
+
+To the left corner, open a chest to release one Glide.
+Glide up to get [Max HP Recovery].
+To the right of the stairs, next to the Mori Ranmaru's body, pick up [Scroll].
+Next to the Save Point, to it's left, you can join for the Dark Realm.
+
+Dark Realm 3: Jacques
+---------------------
+
+
+
+                         START------B5---------P6*
+                        /    \               /    \
+                       /      \             /      \
+                     P1*       B4        B7        P19
+                       \      /        /          /
+                        \    /        /          /
+                          G2        G8         P18*
+                         /        /   \          \
+                        /        /     \          \
+                     P3*       P9*       B13       G17
+                              /          / \      /
+                             /          /   \    /
+                          B10       G14*      P15
+                             \              /
+                              \            /
+                               G11       B16*
+                                  \
+                                   \
+                                    P12*
+
+B = BLUE
+P = PINK
+G = GREEN
+* = Break Demon Purple Jade?
+START = STARTING POINT
+
+Start: Destroy enemies in the Main Warp Zone.
+1.  Pink: Defeat enemies and pick up [Break Demon Purple Jade?].
+2.  Green: Defeat enemies.
+3.  Pink: Defeat enemies and pick up [Break Demon Purple Jade?].
+          Absorb Souls Statue as necessary.
+          Funny thing is Oni Musou cannot destroy the Plants on the center
+4.  Blue: Defeat enemies.
+5.  Blue: Defeat enemies.
+6.  Pink: Defeat enemies and pick up [Break Demon Purple Jade?].
+7.  Blue: Defeat enemies.
+8.  Green: Defeat enemies.
+           Funny thing is Oni Musou cannot destroy the Plants on the center
+9.  Pink: Defeat enemies and pick up [Break Demon Purple Jade?].
+10. Blue: Defeat enemies and pick up [Max HP Recovery].
+11. Green: Defeat enemies.
+12. Pink: Defeat enemies and pick up [Break Demon Purple Jade?].
+13. Blue: Defeat enemies and pick up [Max HP Recovery].
+14. Green: Defeat enemies and pick up [Break Demon Purple Jade?].
+15. Pink: Defeat enemies.
+16. Blue: Defeat enemies and pick up [Break Demon Purple Jade?].
+17. Green: Defeat enemies.
+18. Pink: Defeat enemies and pick up [Break Demon Purple Jade?].
+          Absorb Souls Statue as necessary.
+19. Blue: Defeat enemies and pick up [Tonic].
+20. You have collected 8 Break Demon Purple Jade?.
+    Get back to the Main Warp Zone and unlock the Sealed Chest to get
+    [Oni Musou].
+
+Get inside the Main Door and Jacques will have a chance to deal
+with Nobunaga!
+
+...
+
+Young Samanosuke is returning to the Old Japan.
+Before taking a good revenge, please spare your time to
+obtain one last weapon in this New Game.
+
+Dark Realm 3: Samanosuke
+------------------------
+
+                                         START
+                                        /    \
+                                       /      \
+                          B3--------P1        G17
+                        /              \         \
+                       /                \         \
+                     G4*-------B5*      G2*       P16*
+                       \                         /
+                        \                       /
+                          P6-------P12       G13
+                        /             \     /    \
+                       /               \   /      \
+                     B7-------P8*       B11*      B14
+                       \                /         /
+                        \              /         /
+                          G9*------P10      G15*
+
+B = BLUE
+P = PINK
+G = GREEN
+* = Break Red Flame
+START = STARTING POINT
+
+Start: Destroy enemies in the Main Warp Zone.
+1.  Pink: Defeat enemies.
+2.  Green: Defeat enemies and pick up [Break Red Flame?].
+3.  Blue: Defeat enemies.
+4.  Green: Defeat enemies and pick up [Break Red Flame?].
+5.  Blue: Defeat enemies and pick up [Break Red Flame?]
+6.  Pink: Defeat enemies and pick up [Tonic].
+7.  Blue: Defeat enemies.
+8.  Pink: Defeat enemies and Marcellus, pick up [Break Red Flame?]
+9.  Green: Defeat enemies and pick up [Break Red Flame?]
+10. Pink: Defeat enemies.
+11. Blue: Defeat enemies and pick up [Break Red Flame?]
+12. Pink: Defeat enemies.
+13. Green: Defeat enemies, pick up [Max HP Recovery].
+14. Blue: Defeat enemies.
+15. Green: Defeat enemies and pick up [Break Red Flame?]
+16. Pink: Defeat enemies and pick up [Break Red Flame?]
+17. Green: Defeat enemies.
+18. You have collected 8 Red Sealed Flame,
+    choose the Blue Warp to get back to the Main Warp Zone
+    and unlock the Sealed Chest to get [Bishamon Sword].
+
+---
+The Young Samanosuke and the Old Samanosuke is becoming one, Oni-Samanosuke
+
+Samanosuke's final form is an Oni while Nobunaga's is a Genma
+(thanks to  ).
+
+The Oni versus the Genma part 1. -Very Easy-
+Clue: O** M****
+*Jacques need only to whip Nobunaga's *** a few times to win this battle?
+
+The Oni versus the Genma part 2. -Average-
+--Well, at first, I did not want to spoil you with this one, but since
+  it has been a few months and I bet you all know how to beat that ****
+  Nobunaga, then please allow me to share a piece of my scroll--
+
+Important:
+*Remember that you can still use HP replenish items from the Menu Screen.
+
+*First Form:
+ Goal: Absorb souls to achieve the Oni form (enable you to defeat Nobunaga).
+ -Directly/quickly get close to Nobunaga, destroy the satellites by 4 hits,
+  you may need to retreat a bit and then absorb the souls.
+ -When he is releasing laser beams (it is actually a piece of cake),
+  since you are a bit far from him when absorbing, just walk to your left
+  or right (do not stop), the laser beams will not be able to touch you!!!
+  If you are close to him, use the same strategy, only, you may need to
+  circle behind him to get more space.
+ -If the satellites are releasing beams, just avoid/block and place yourself
+  close to Nobunaga for the next attack.
+ -Whatever you do, just place yourself close to Nobunaga for the next attack,
+  and destroy the satellite again by 4 hits, absorb.
+ -Repeat the process.
+ -If after absorbing, Nobunaga gets angry, he may want to slice you through.
+  Just avoid or block.
+ -When you are in the Oni form, which means you going to hurt Nobunaga for real
+  and for sure, also every hit to the satellites will give you a health
+  replenish souls (yellow soul).
+ -Avoid his attack and combo him, for example: 3hits with [] combine with
+  triangle button.
+ -If he releases subsequent laser beams, avoid to the left and/or right
+  in a timely manner.
+ -you may get [Herb] when destroying the satellites :).
+
+*Second Form:
+ Goal: Beat him down and absorb the souls from the big sword to achieve
+       Oni form (enable you to defeat Nobunaga).
+ -Since the satellites have been destroyed, you need only to combo Nobunaga.
+  Use 3 hit [] and then triangle.
+ -He is able to perform 3 types of magic attack;
+  1st-Cyclone attack:
+  Three cyclones is searching for Samanosuke with a big gap of empty spaces.
+  *Avoid by running away looking for an empty space until the cyclone is gone
+  *If you are far enough then move in a circle from left to right or vise versa
+  *Stand on the right side of Nobunaga then move in a clockwise manner
+   circling him.
+
+  2nd-Fire attack:
+  Start from the front of Nobunaga then circling him in a counter-clockwise
+  manner.
+  *Stand still on the left side of Nobunaga then quickly combo him as the
+   fire keep moving away from you.
+  *If you are far from him, then quickly avoid to the left or right once
+   the big sword touches the ground.
+
+  3rd-Thunder attack:
+  Start from the front of Nobunaga then half-circling him in a clockwise
+  manner.
+  *Circling Nobunaga from left to right/clockwise will leave the thunder
+   trails behind Samanosuke.
+  *Or just walking or stand outside of the Thunder trails circling Nobunaga.
+  *If you are far from him, just look at the thunder tails above you and
+   avoid standing near or below the trails.
+  *Usually (but not 100% always), stand behind him is adequate enough :)~
+   (When the trails are circling Nobunaga then you need to bail out)
+
+ -Keep slashing Nobunaga.
+
+*Third Form:
+ Goal: To defeat Nobunaga for the last time :)~
+ -He is MAD for sure. His hair turns into fire. All his words are made of fire.
+ -Stay in a good distance when he is going to throw his words of fire.
+  Move from left to right on a good distance (the edge) to avoid it.
+  Approach him but hold your sword, go to his behind while avoiding his punch,
+  then combo him.
+ -Repeat the process.
+ -Once a while he will perform charge attack.
+  Listen to his mourn then avoid from a good distance.
+  Combo him from behind.
+  Actually this is his biggest mistake to do a charge attack so easily to
+  avoid and leave his behind so widely open :)~.
+
+This is it, the Ending and the True Ending of a True Masterpiece.
+Normal Ending:
+*Samanosuke is enjoying the beautiful day when Ako persuade him to continue
+ on the journey.
+ On the other part of the 'Earth', troops of samurai are marching to
+ a new direction of purpose, mislead by the Evil General -Toyotomi Hideyoshi,
+ used to be Kinoshita Tokichiro-
+ (thanks to Sky Lee for the naming of Tokichiro, lee_cw@tm.net.my).
+ The new name of Tokichiro is Toyotomi HIdeyoshi.
+ (thanks to David Tran, kilvoctudbt@yahoo.com).
+
+
+True Ending:
+*
+
+
+===============================================================================
+                                CODES/SECRETS
+===============================================================================
+1.Jimmyshar -jimmyshar@hotmail.com-
+
+-------------------------------------------------------------------------------
+  dude, nice faq..but i gotta few tips i wanna share with my fellow
+  otakus...first of all, if you guys have a save file of onimusha blade
+  warriors, DO NOT DELETE THEM!!when you load the game for the first time you
+  will get a trailer of shadows of rome(an excellent game) and samanosuke's
+  panda costume, even if you never played onimusha3 before.then, many people
+say that nobunaga is so hard, i beg to differ.
+................................
+  ...(the author has the right to cut it short since the rest is off the above
+  topic)
+
+  form jimmyshar, malaysia
+
+-------------------------------------------------------------------------------
+  Thanks Jimmyshar, I know some of you have something to share.
+  Give me a punch here and I will surely kick you back fully worthful.
+
+-------------------------------------------------------------------------------
+
+2.Tips for the Secret Training (bwong)
+  When you are facing Mori Ranmaru again.
+  Always Absorb!!! within a safe range.
+  He will then throw the famous Yellow Fireball to you.
+Perform counterattack and absorb the Souls you need to complete the training
+:)~
+  It is sooo easyyy.
+
+
+===============================================================================
+                                MISCELLANEOUS
+===============================================================================
+I. Submissions:
+*This is where I pay a thank you very much for all of you who are sincerely
+ supporting my Onimusha 3 FAQ by sending good ideas, helps, requests, questions
+ and everything else that will give a better look to this FAQ/Walkthrough :).
+
+1.A BUG Report from Frankie Boyd, frankie_boyd@hotmail.com
+  *Edited by the author*
+  Most of us do not agree with Frankie Boyd :)
+
+===============================================================================
+  REPLY FROM JEI POTTER -ryune@cubiclecommando.com-
+This actually isn't a bug. The enemies are meant to do that. You'll notice
+that
+these ninjas that do this are different from the normal ones(they have a
+scarf)
+  They're performing a ninja technique known as Bunshin. So... No, not a bug.
+
+  Your friend,
+  Jei.
+
+===============================================================================
+  P.S. THANK YOU VERY MUCH FOR ALL OF YOU WHO CLAIMED DISAGREEMENT WITH
+  FRANKIE BOYD :)~
+  THIS CASE IS NOW OFFICIALLY CLOSE!
+  Other readers who are confirming Jei's opinion:
+  From Jhu Stew Tue May 4 22:13:35 2004, a_heroic_one@hotmail.com
+  From J Mon May 3 17:26:08 2004, ************2003@yahoo.com
+  From Jhu Stew Tue May 4 22:13:35 2004, a_heroic_one@hotmail.com
+  From Todd Snow Wed May 5 13:55:30 2004, snowstorm52@hotmail.com
+  From slandy cherfils Wed May 5 14:50:21 2004, sabertooth_21@hotmail.com
+  From OnegaiShin@aol.com Sun May 9 08:34:28 2004, onegaishin@aol.com
+  From Gray Fox Sun May 9 12:37:07 2004, grayfox121@hotmail.com
+  From Brian Lau Mon May 10 02:10:49 2004, captain_briol@yahoo.com
+  From Mac Ippo Mon May 10 09:46:55 2004, chorussongs@yahoo.com
+  From Mickey magante Fri May 14 17:43:09 2004, mickey_ichiro@yahoo.com
+
+-------------------------------------------------------------------------------
+  But hei, PLEASE read one email from Bad Panda:
+  vanilla88@myself.com
+  Bad Panda
+  Glitch -And about the glitch that you mentioned before, I found it too
+  in the US ver. of this game.
+  First time I saw the enemy scramble, I thought its one of the ninja ability.
+  Maybe you could pass this problem to Capcom. Thanks for your reading & nbsp;
+  Robert Tan
+
+-------------------------------------------------------------------------------
+  Why is Robert Tan still confirming about the GLITCH?
+  Is this really a glitch? Come on guys, make a FINAL decision!!!
+
+-------------------------------------------------------------------------------
+
+2.cirio@rome.com
+  Hello I am Cirio. Could I make some correction about your FAQ.
+  In Episode 8 where you have to put the password same as Anry said are wrong.
+  It's RANDOM. Random for every new game. But If you die there and load again
+  it remains the same.
+  The kid maybe sound Anry but I guess Capcom tried to use a french football
+  star's name Thiery Henry. Correct me if I am wrong.
+  Good job with Onimusha3 faq, Cirio
+
+-------------------------------------------------------------------------------
+  Thanks Cirio. That is a very useful information.
+
+-------------------------------------------------------------------------------
+
+3.mbeahhch1@aol.com
+  mbeahhch1@aol.com
+Hey, thanks for the excellent walkthrough. It was very thorough. I just
+noticed
+  that when I was playing the game on "hard" mode, the puzzle that Jaque solve.
+  ( the 1 where he has to repeat the password Anry is trying to input) This was
+  different than when your playing in "easy" or "normal" mode. This is the
+  password:
+  1. Down, Circle, Left
+  2. Down, Circle, Left, Right, Down
+  3. Down, Circle, Left, Right, Down, Triangle, X
+  4. Down, Circle, Left, Right, Down, Triangle, X, Up
+  5. Down, Circle, Left, Right, Down, Triangle, X, Up, Down, Triangle, Right,
+     Triangle
+  It took me a bit to get it figured out but this is it.
+I havent noticed anything else "yet", but if I do i'll be sure to let you
+know.
+  Thanks alot for the walkthrough,
+
+-------------------------------------------------------------------------------
+  Thanks for saving us a lot of time :)
+
+-------------------------------------------------------------------------------
+
+4.ahdebus@yahoo.com.sg
+  hi bWoNg, you wrote:
+  "You will be in a place where the 'ship' harbors. Remember Jacques?
+  But no sign of him. Ako cannot warp to Jacques either.
+  On the right top deck, you will find a [Small MP Recovery].
+  At the top-right corner of the deck, if you use arrow, it will point out
+  to a certain direction, but this time you got nothing."
+  towards the end of your FAQ, i did the same action and got a RUNE STONE.
+  Regards
+  Fabian Tan
+
+-------------------------------------------------------------------------------
+  I have replied to Fabian.
+  The walkthrough itself has been updated with the Rune Stone info when I
+  received her email. But Fabian get the Full Credit for her kind assistance :).
+
+-------------------------------------------------------------------------------
+
+5.jazzznico1@yahoo.com
+  Jasmine Hall
+  When you do beat it, could you please tell me in detail the true ending,
+  I don't like that fairy!!!
+
+-------------------------------------------------------------------------------
+  The first ending I got is when the Evil General leading an army of Samurai,
+  marching forward to a new destiny of chaos.
+  No fairy included, so no worry.
+  Anyway, I will describe it better when I have time to beat that *** Nobunaga
+  one more time.
+
+-------------------------------------------------------------------------------
+
+6.neokillerx@yahoo.com
+  You haven't listed the charge modified combos, the ones that end in a charge
+  move. I suggest you do list them as they can be helpful to newbies.
+
+-------------------------------------------------------------------------------
+  That is a good idea, only I may not have the time right now to do the list.
+  Anybody out there willing to lend me a hand?
+
+-------------------------------------------------------------------------------
+
+7.desho55@yahoo.com
+  Steve Tan
+  Hi, I've just read your walkthrough of Onimusha3, great job, that really
+  helps a lot! Yet, I am currently stuck in the church (Notre Dame) where I
+  need to absorb the dark aura from the statues. Your walkthrough said that
+  'Now you need to visit the four of them one by one, starting from the statue
+  with only one candles stand burning and so on.You have to absorb the negative
+  auras from those statues in orderly fashion.' -- BUT HOW??? I just couldn't
+  use the scroll! It would be very kind of you if you couldexplain that part
+  a bit better, thanks a lot!
+
+-------------------------------------------------------------------------------
+8.slimne2000@yahoo.ca
+  Neal Slim
+  absorb the negative auras from those statues in orderly fashion? I am having
+  trouble trying to do that because nothing is happening. Could you tell me what
+  I am doing wrong.
+
+-------------------------------------------------------------------------------
+  Thanks for reminding me. I have made a revision accordingly :)
+  Good job.
+
+-------------------------------------------------------------------------------
+
+9.kreuger@pacific.net.sg
+  Tan wie tiong
+  Can u help me with my problem, i'm stuck here very long
+  " Pick up the [Blue Power Capsule]. All the machines stop working.
+  Go back to the save point and switch to Samanosuke.
+  Do not forget to teleport the Blue Power Capsule.
+  Route your way to the generator room and equip the Blue Power Capsule
+  to power it up. Get inside the elevator outside and go to lower level.
+  Smash those boxes to get one *Rune Stone*.
+  Take the new weapon [Battle Axe].
+  No, you cannot take out the Power Capsule anymore."
+  after i switch to samanosuke with the blue power capsule, i cant find any way
+  to go back to the generator room the blue door cant access and i cant use
+  the gliding like Jacques to go there by the ship.
+  can u help me? thx alot
+  WeeTiong from singapore
+
+-------------------------------------------------------------------------------
+  Sorry for the trouble, I should have made it easier to understand.
+  And thanks for your reminder. I have made a correction based on your input.
+  I welcome another input from you :)
+
+-------------------------------------------------------------------------------
+
+*******************************************************************************
+Allright guys, I received a lot of emails regarding this SPS15+G and those
+who did not get this baby at the exact place as stated on this walkthrough.
+The reason is because they are playing a different version, namely the
+English version. That is why they get the new weapon on a different place.
+I received some emails informing that you can get the SPS15+G after saving
+Henry at the end of episode 7. So do not worry, you will get your weapon
+as promised :)~
+*******************************************************************************
+For examples:
+10.xinfantasy@hotmail.com
+   DDFantasy
+   Hi B wong, First of all, thank you for your anwser! Of course, I would never
+   touch a ladies   stuff without her permission. No, my probleme is, that even
+   when I use Michelle, in the box are just  Granades. But it's alright.
+   I have got it later in the zoo at the end, where Michelle
+   frees Samanosuke and Henri.
+
+------------------------------------------------------------------------------
+11.mickey_ichiro@yahoo.com
+   Mickey magante
+   It helped me out a lot. In Michelle Aubert’s walkthrough (Episode 7) I got
+   Michelle’s SPS15+G in the Research Center while rescuing Samanosuke and Henri
+   (Henry pronounced with a French accent). Maybe, it’s because I skipped the
+Sewers Area because when I loaded an earlier saved game and backtracked for
+it
+   the box gave me grenades instead. I can’t be sure but that means,
+   for anyone who missed the Grenade Launcher in the Sewers Area they can get it
+   in the Research Center.
+
+-------------------------------------------------------------------------------
+   Thanks for your confirmation :)
+
+-------------------------------------------------------------------------------
+
+12.mickey_ichiro@yahoo.com
+   Mickey magante
+   As for the false “Rune Stones” or Ecospirits in the American version, I read
+   in a strategy guidebook somewhere that the disappearing ecospirits are not
+a glitch. Since they are energies or forces from nature,some are not
+contained
+   enough and so go back to nature thus disappearing from your inventory.
+   I don’t know what purpose it serves but I guess CAPCOM designed it that way.
+
+-------------------------------------------------------------------------------
+   Anybody knows why Capcom designed it that way ?>_<?
+
+-------------------------------------------------------------------------------
+
+13.mickey_ichiro@yahoo.com
+   Mickey magante
+In the Oni Mansion [The Trap House] where you are looking for the Oni Army
+Orb,
+   in the room where you obtain the [Book], there is a blue door to your right
+when facing the red firefly and door. This can be activated by the blue
+firefly
+   in northernmost room with the Medicine [Tonic] and one of those pesky
+   demonically possessed dolls. Activate it and go back, activating the red one
+   along the way. There’s a Big Club here that you have to take care of first
+   then slash through the calligraphy paper and follow the narrow corridor.
+   Inside are a Medicine and a Soul Statue. However, it seems that after
+   defeating this Big Club, two or three Big Clubs would be appearing once in
+   a while in different areas of the mansion if you go back and forth too much.
+   Also, it would be great if you could describe the firefly walkthrough in
+   color sequence. Newbies like me would appreciate it.
+
+-------------------------------------------------------------------------------
+   This is the English version of Onimusha 3.
+   I will use this to clarify some confuses on the naming/items, etc
+   and also to make corrections.
+   Let me see what can I do once I get to the Trap House again :)
+   All right, I have added a map and step by step arrangement :)
+
+-------------------------------------------------------------------------------
+
+14.spunky132000@yahoo.com
+   Newman Brent
+I got a add in on the guide you have on onimusha3 the best way to work on
+your
+chain moves is withthe pigs( or what i call pigs )the little spike things
+that
+   roll. well this is how ya do it, its almost the same as the way ya do it in
+   onimusha2. You charge ya wepon to max level perferable 3 and way to the
+pig rolls,right before he get to ya press square,and keep pressiong it,if
+done
+   correctly the character, either one of the two, will clear the whole screen.
+   I can do this most of the time if the pigs are on the screen.
+   THerefore this is a great way to work on ya chain moves. i think
+
+-------------------------------------------------------------------------------
+   Give me your comment on this, guys :)
+
+-------------------------------------------------------------------------------
+
+15.vanilla88@myself.com
+   Bad Panda
+   I have an easier way to do issen, but I won’t take responsible of the effect
+   that caused by doing this trick ^-^. All you have to do is tap the L1 button
+   rapidly, if the enemy attacked you, this trick will increase the player’s
+   chances to do the Hajiki Issen (block and counter), I seldom used this trick
+   to defeat the big a** monster (you know why ^-^). Ow, have I mentioned the
+   effect of this trick? I guess you already know….
+
+-------------------------------------------------------------------------------
+   Glitch -And about the glitch that you mentioned before, I found it too
+   in the US ver. of this game.
+   First time I saw the enemy scramble, I thought its one of the ninja ability.
+   Maybe you could pass this problem to Capcom. Thanks for your reading & nbsp;
+   Robert Tan
+
+-------------------------------------------------------------------------------
+   Give me your comment on the issues above, guys :)
+
+-------------------------------------------------------------------------------
+
+16.poisonuser@hotmail.com
+   Sheeperstar Mary-Killa
+   Hi.  I discovered something pretty useful in the game...  When using Michelle
+   (especially during the zoo), change weapon to Assault  Rifle and change to
+Yellow Vest for Ako.  Watch the incredible amount of red  souls u can get
+from
+   the enemy... esp birds and the plant thing blocking the  door to save the kid
+   and the lead character...  Tip discovered by : Sheep & Richie  Hope it proves
+   useful to others!
+
+-------------------------------------------------------------------------------
+   Give me another one like this :)
+
+-------------------------------------------------------------------------------
+
+17.Rorynlila@aol.com
+   Rorynlila@aol.com
+   Hey there. I have a quick question for you. In mission 6 at the Underwater
+Temple there is a big yellow vase thing with a ring of light surrounding it
+in
+   the yellow door with the elevator. I've beat the game already and I never
+   understood what was in the vase. Do you know how I can get whatever is in
+   the vase? Reply if you can. Thanks a lot.
+
+-------------------------------------------------------------------------------
+   I forgot what item. Let me check it out :)
+
+-------------------------------------------------------------------------------
+
+18.grayfox121@hotmail.com
+   grayfox
+Hi there ... i like your walkthrough but I have something I want to talk
+about
+it .  First : There is another bug in the game in Episode 11: The Eiffel
+Tower
+   before fight Genma Mori Ranmaru when you find that strange character I try
+   to hit her i fall down from top to black screen .
+   This happen when Ako wear black vest.
+
+-------------------------------------------------------------------------------
+   OH boy, another bug :)
+
+-------------------------------------------------------------------------------
+
+19.gamequoter@portalofevil.com
+   Gamequoter
+   Actually, they're both wrong.  I believe this is actually Hideyoshi Hashiba,
+   whom is mentioned in two of the documents you find in the port town.
+   He's was  Nobunaga's second in command, and is apparetnly returning from
+   quelling a  rebellion to the west.  It's also mentioned that Oichi,
+   Nobunaga's sister, was seen  with him.
+
+-------------------------------------------------------------------------------
+   Anybody need a prove ???
+
+-------------------------------------------------------------------------------
+
+
+II. Side Mission: Help civilians to escape their faith.
+    This is a side mission where you need to help some of the civilians
+    -surrounded by evil soldiers- escaping their bad karma.
+    In return, they will give you a present starting from a simple Herb to
+    a more promising one such as Small MP recovery.
+
+This Side Mission starts from Episode -- to Episode --.
+1. Episode 8:
+
+*Side Mission 1:
+Once you completed the puzzle on the Garden and head to the next platform
+with a locked gate with a handle and one Gear missing.
+
+-------------------------------------------------------------------------------
+In front of the locked gate, there is a man need your help. Do not let him die.
+After saving his life, talk to him and he will give you a [Herb].
+-------------------------------------------------------------------------------
+
+*Side Mission 2:
+Once you have saved all the slave civilians,
+Heihachi will give you a key. After the cut scene, go help two people outside.
+
+-------------------------------------------------------------------------------
+Outside, at the staircase hallway, there are two people screaming for help.
+Do not let them die. Magic is the most effective in this situation.
+Use magic one time for each rescue.
+Talk to the first man and he will give you a [Herb].
+Talk to the second man and he will give you one [Small MP Refill].
+-------------------------------------------------------------------------------
+
+*Side Mission 3:
+Once completed Side Mission 2, go back to the save point where the locked gate
+is located.
+-------------------------------------------------------------------------------
+When you arrived at the save point area, there is another man who is
+calling for your help. Do not let him die.
+After saving his life, he will give you [Small MP Recovery]
+-------------------------------------------------------------------------------
+
+
+III. Counterattack Moment.
+
+1.Ninja:
+  -At the end of each attack, from a good distance, press [].
+  -During his (3 times) attack, from a good distance and press [] when
+   he has just finished each/ the final attack.
+
+2.Four Hands:
+  -After his 2 Hit attack, from your good distance press [].
+  -During his charge attack, when almost hit you with his blades, press [].
+  -
+
+3. Big Club:
+   -Move around him especially behind him. When he is attacking from the top,
+    press R1 to avoid and quickly press [] to counterattack.
+
+4. Chain Ball:
+   -Move to his side, block and counterattack or press R1 to avoid and
+    counterattack.
+
+5. Big Ape:
+   -Avoid to his side by pressing R1 then counterattack.
+
+(To be continued)
+Anybody wants to contribute?
+
+===============================================================================
+                                   CREDITS
+===============================================================================
+1. C_Jay_C for maintaining the great gamefaqs.com
+   and always standby for helping us.
+2. CAPCOM for giving us quality games.
+3. Character Samanosuke (c)Fu Long Production.
+4. To all of you on the message boards. I use some of the naming from them.
+5. Namahage for translating the note for the door code in the Sewer episode.
+6. Thanks to Kouli for mentioning a route back to Nan ban Ship
+   on the Underwater Temple episode.
+7. Frankie Boyd, frankie_boyd@hotmail.com for reporting a bug on Episode 8.
+   No, it is not a bug at the end of investigation :)~
+8. Cirio, cirio@rome.com for his info on the random codes when rescuing
+   Jacques on Episode 8.
+9. Fabian Tan, ahdebus@yahoo.com.sg, for her info to get one Rune Stone from
+   the Nan Ban Ship during the Underwater Temple episode.
+   I have already included that on the walkthrough but she get full credit :).
+10.Jasmine Hall, jazzznico1@yahoo.com for asking details about the ending and
+   expressing her feeling about the fairy :)~
+11.Neokillerx@yahoo.com for asking for the list of charge modified combo.
+   I still do not have time to complete the task, anybody would like to
+   lend a hand for me? I will give full credit!
+12.Steve Tan, desho55@yahoo.com and Neal Slim, slimne2000@yahoo.ca
+   for asking how to absorb the negative aura at the Notre Dame.
+   I have added the "how to do it".
+13.Tan Wie Tiong, kreuger@pacific.net.sg for asking how to get through the
+   Blue Door in the Underwater Temple when controlling Samanosuke.
+   I have added the "how to do it".
+14.Jei Potter -ryune@cubiclecommando.com-, for her confirmation on the
+   fake bug on episode 8. There are some of you guys who drop emails saying
+   the same disagreement to Frankie Boyd (the conclusion is that is not a bug).
+15.David Tran, kilvoctudbt@yahoo.com for his info on the new name for
+   Kinoshita Tokichiro -Toyotomi HIdeyoshi-.
+16.DD Fantasy, xinfantasy@hotmail.com and Mickey magante,
+   mickey_ichiro@yahoo.com for their info on where to get the SPS15+G when
+   playing the US version. It is on in the Research Center right after
+   freeing Samanosuke and Henri :).
+17.Mickey magante, mickey_ichiro@yahoo.com for his info on why the EcoSpirits
+   are some times dissappearing from your pocket right after you pick it up.
+   ?>_<? and that is purposedly designed by Capcom?????
+18.Mickey magante, mickey_ichiro@yahoo.com  for asking about a fireflies
+   walkthrough in color sequence while in the Trap House.
+19.Newman Brent, spunky132000@yahoo.com for his info on the best way to
+   perfom chain moves. Please read the submission section.
+20.Bad Panda, vanilla88@myself.com for his info on how to perform an easier
+   Issen/Counterattack :)
+21.Bad Panda, vanilla88@myself.com for his info that he is also experiencing
+   a glitch in US version. You know, the Ninja thingy glitch :)~
+   What is the final decision guys? Is this a glitch or what???
+22.Sheeperstar Mary-Killa, poisonuser@hotmail.com
+   -When using Michelle in the Zoo, equip Assault Rifle and Yellow Vest.
+   Watch the incredible amount of red souls you can get :)-
+23.Rorynlila@aol.com,Rorynlila@aol.com for his question about a big yellow vase
+   thing with a ring of light surrounding it in the yellow door with the
+   elevator.
+24.grayfox, grayfox121@hotmail.com
+   -Another BUG on Episode 11 :)~ Please read his submission-
+25.mbeahhch1@aol.com, mbeahhch1@aol.com
+   -Confirmation on a different password while saving Jacques on a Hard Mode-
+   Please read his Submission.
+26.Please insert coins.
+
+===============================================================================
+                    (: Thanks for (Playing and) Reading :)
+===============================================================================
+
+
+
+
+
+
+
+
+

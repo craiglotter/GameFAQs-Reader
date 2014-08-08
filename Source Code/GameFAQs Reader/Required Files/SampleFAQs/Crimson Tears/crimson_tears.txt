@@ -1,0 +1,377 @@
+o----------------------------------------------------------o
+|                                                          |
+|       C  R  I  M  S  O  N    T  E  A  R  S               |
+|                                                          |
+o----------------------------------------------------------o
+
+    Crimson Tears Mini-Guide by Daniel Glenfield (tom76b)
+
+    Version 1.0  (Last updated 09/05/05) (US time format)
+
+           Copyright (c) 2005 Daniel Glenfield
+                 <spurs99@hotmail.com>
+
+
+/*************************************
+1.0 About the Guide
+*************************************/
+
+1.1. Brief Intro
+
+I was very surprised to find that a guide had not been written for
+Crimson Tears when visiting GameFaqs the other month. It's a fun
+game for hacking and slashing mindless button-bashing fun, and
+gets quite tough in places. I thought I'd put
+together a few hints and tips in this mini-guide - a collection
+of useful tricks I picked up during my 40+ hours of play time
+with it.
+
+
+1.2 Updates
+
+Version 1.0  09/05/05
+- Initial revision.
+
+
+
+/*****************************************
+2.0 Button Config and Character Manoeuvres
+******************************************/
+
+X button        - Horizontal attack
+Square button   - Vertical attack
+Circle button   - Gun / Bomb
+Triangle button - Special move
+L1 button       - Evade
+R1 button       - Guard
+
+
+
+/*****************************************
+3.0 General Tips
+******************************************/
+
+If anyone's seen my published guides before they'll be sure to recognise
+the 'General Tips' section. Here you go, as standard.
+
+* Choose your favourite hero and concentrate on powering up that and only
+that character.
+* Make good use of the evasion button (L1). At the end of the game you'll
+find this an invaluable manoeuvre, so get practicing early on.
+* Should you get defeated at any point you get to send in one of the other
+two heroes. For this reason it is a good idea to keep your pals equipped
+with fairly good weapons in case they need to perform a rescue (as you
+cannot get to your item storage area). Oh, and you can save before you
+teleport too.
+* When rescuing, listen to the guidance by Lana and follow her directions.
+* Finally on rescues, against a boss you can rematch whereby said boss has
+only 50% health but you cannot use any items (making the functionality
+next to worthless).
+* Furthermore, it is not at all necessary to level up the other characters
+as they'll get stronger by themselves. Simply choose your favourite and
+stick to that one - the game will take too long otherwise.
+* Have a selection of weapons that you level up throughout the game - for
+example two or three glove-types, multiple knives, a couple of swords etc.
+This is especially useful as some enemies are more susceptible to
+differently-attributed attacks.
+* Guns can be equipped alongside hand weapons. Guns can be used to
+clear mines, take out enemies at a distance (such as dogs) and kill
+those impervious to blades (Prototype drones). Guns do not break, nor
+do they level up.
+* If your inventory is full (24 items) you may not be able to swap
+weapons. Remove an item to remedy this.
+* Blue dogs
+Appearing in the later stages these pests will steal a random item from your
+inventory when they successfully attack, and then try to escape through the
+nearest exit. Once they are through the door they - and your item -
+disappear forever.
+Because of the likelihood of your powered-up weapons being stolen it's best
+to make these dogs a priority target and use guns to keep them at bay.
+* Prototypes (White faceless drones)
+These guys are the reason why you always carry a gun with you! Impervious
+to bladed weapons and capable of seriously damaging knives etc. with one
+of their combos, you'll need to blast away with a handgun to destroy them.
+When encountered with other enemies draw the faster ones away and attack
+them before the drone gets close. Move to the other side of the room
+and repeat.
+
+/*****************************************
+4.0 Levelling Up (Character and Weapons)
+******************************************/
+
+* Make sure you have a Returner as you begin levelling up. Not being
+able to return to the garage when you need to is a real pain!
+In this situation all you can do is defeat every enemy you find until
+you get one.
+* EXP gained from enemies gets lower as you become stronger
+e.g. when you enter a new level you may get 300EXP per enemy destroyed.
+As you get stronger (and hence enemies get easier) the EXP gained is
+reduced. When the EXP points gained start to get too low to be of
+any benefit, look to be moving on to another level.
+* Don’t do too much in one go. Returners are cheap enough and you don’t
+want to spend 30 minutes power-levelling only for your best weapon to
+break or get stolen right?
+* Remember that the stronger a weapon gets the more expensive it is
+to both repair and combine with the same type (to get a +1 advantage).
+* Rare weapons (such as the Hell's Knuckle) are even more expensive to
+repair and combine!
+* If you have a commonly-found weapon and have the opportunity to combine
+it with items in your inventory (to transform it into a rarer item) you
+should consider holding off for a moment. By combining MyCommonSword with
+identical ones you can create MyCommonSword+n, which can then be combined
+with inventory items to make MyRareSword+n. This is preferable to finding
+common items, combining to make rarer items, and then combining those
+together.
+* Check the status of weapons in hand periodically (yellow means damaged
+so swap before it goes orange or red). The warning text is sometimes
+only on screen for a moment so you may not notice.
+
+
+/*****************************************
+5.0 Items
+******************************************/
+A number of items come thoroughly recommended - here are a few of my
+favourites.
+
+* Teleporters – Warps you to the next floor. They Can be found in
+Sealed Zone 10 and R&D Lab. Worth returning when you find one as they
+are rare.
+* Attack, Defence, and HP Boosters - Will increase your stats and are
+vital to progressing through the later stages. These seem most common
+in the Metal Processor stage, where they reside inside the empty oil
+drums. Be sure to re-visit this stage often!
+* Resurrection - very handy for the final level, these can be found
+on the fourth floor of the R&D stage.
+* Key / Exit Radars - It's best to use the Key Radar first as you may
+well find the teleporter to the next floor on your way there.
+Essential items for getting to the boss quickly.
+
+
+
+/*****************************************
+6.0 Levels
+******************************************/
+I shan't bother to give you a run through of all the areas in the game
+as they're pretty similar, but I will point out a few tips for the
+tougher sections of certain stages.
+
+6.1 Tips
+* Before attempting a level "for real" (i.e. to beat the boss) I first
+suggest a run through the level to gain some EXP and learn what you’re
+up against (types of monsters, strengths/weaknesses etc.).
+* With a now-stronger character, stock up on health items and multiple
+weapons, equipping your weaker ones until you get to the later floors
+and the boss. Using the Key and Exit Radars run past the monsters,
+fighting only when necessary as you’ll only damage your weapons and
+use up health items.
+
+
+6.2 Level 7 R&D
+This level is particularly nasty as you have a total of 10
+(count 'em!) floors, with a boss sandwiched inbetween as well as the
+usual one at the end. Sounds daunting? Well it would be, if we were
+planning on fighting past all those monster-filled areas. Instead,
+try the following method of finishing the stage. Play through floors
+1-3 using the usual technique of utilising Key Radars and avoiding
+fights. Save on level four using the Recorder item and teleport to
+level five. To defeat Time Reaper equip a Glove and use the X button
+combo, levelled up so as to use flying kicks (which the boss cannot
+block). Save again on level six, and teleport through the remaining
+floors to the boss.
+To beat the Unidentified Bio-Weapon see section 6.3 below.
+
+
+6.3 Level 8 Boss fights
+Here you fight the bosses again. You get EXP for fighting here and
+can return at any point, but unfortunately you cannot teleport
+or save :(
+As such, you'll need health items. Get X-Energy on the fourth floor
+and above in the R&D lab – they restore all your health!
+Take a trip back to Metal Processor to find HP, Att, and Def
+boosters and power up your character.
+
+Item checklist:
+(You can hold five of each – and you’ll need them!)
+Energy Drink
+Energy Boost
+High Energy
+X-Energy
+Resurrection (one from the old mayor after rennovation, others on
+the fourth floor and higher of R&D stage)
+X-Coolant
+High coolant
+
+Weapons – Your favourites, levelled up hopefully. You must
+include two Gloves and preferably two or three Thunderbolt /
+Force Blades (Lightning-powered beam sword carried by the white
+robots on level 7).
+
+As a point of reference my character Amber was something like
+Level: 55
+Power with weapon: 220
+Defence: 160
+Health: 688
+
+
+* Boss #1 Liquid Assassin
+Get in close and hack 'n' slash away with weaker weapons that
+you can afford to lose (perhaps powered-up Assassin Knives or Kaiser Swords).
+When Talos starts disappearing stand still in the middle of the arena.
+Turn and hit X to strike when he appears behind you. When he appears at
+the edge of the inner circle run over to him and attack - you'll get
+there before he fires off his liquid bullet attack.
+
+* Boss #2 Mighty Destroyer
+You can't kill the big juggernaut-wannabe but you can attack the small
+drone that wanders around the arena. When its health is low run towards
+it at a 45 degree angle so as to cut off its escape route (slash early
+to catch him as he goes past). Strike the earthquake-causing foe and
+dash away to create some space between you both.
+
+* Boss #3 Flame Citadel
+Get close (around the back or side) and attach with cool weapons if you
+have them. When the boss generates its white aura and rises up push L1
+as it falls to evade the
+crush attack and continue hacking away.
+
+* Boss #4 Roadside Predator
+Stay close all the time! Use paralysis and overheat cures and equip a
+weapon such as the Thunderbolt. Hammer the X button to strike him down
+with the fourth blow. After rising he'll run towards you and kick
+- simply evade with L1 and counter attack.
+
+* Boss #5 Avian Transformer
+Equip a Genbu Katana or other sword and run around in circles
+repeating the two-slash combo (the second hit knocks the boss down).
+Keep moving in a circle and attack when it has risen. When it splits
+into two, go for the flying part and when they merge together again
+repeat the previous tactic.
+
+* Boss #6 Time Reaper
+Hell Knuckle or other fighting glove and use the X combo to kick your
+way to victory! Start kicking when she is on the ground – if you don’t
+get a cheap hit in your combo will be in its latter stage when she
+stands up.
+
+* Boss #7 Unidentified Bio-Weapon
+To beat the Unidentified Bio-Weapon use a weapon with a fair
+range if possible (Thunderbolt is also a good option) and get your
+hit in before the boss strikes.
+With a one handed sword and upgraded combo you can continue slashing
+to use a block-breaking attack and tag a couple more hits in after.
+Back away as she rises and repeat.
+When the stream of electricity appears run to the bottom of the screen
+to avoid being forced there by it. Avoid the spiked balls the boss sends
+out by running left to right or vice-versa, then run back to your
+enemy when the barrier disappears and continue the attack.
+
+
+6.4 Level 8 the Last Wildcat Lana
+
+You can stand back and fire guns safely but this takes a long time
+and you can do more damage up close, so long as you learn when
+to dodge. When her health drops below 80% she’ll use charged plasma
+blasts to attack, coupled with paralysis-causing ground slaps.
+The attack pattern to follow should be along the following lines:
+* Cure paralysis caused by the ground tremor or use L1 to evade it.
+* Run from one side to the other to avoid the plasma blast.
+* Get in close and attack two or three times (immediately
+after the sweeping arm).
+* Dash back to the bottom of the screen to avoid the flame blast
+(she may use this up to three times) OR use L1 to evade it when
+next to her and attack, then dodge the next and strike again.
+* Attack quickly again before retreating.
+
+
+6.5 Level 8 Vixer
+All the way here and still no save point? Here’s how to best deal
+damage to Vixer. It is very tough so you should aim to have plenty
+of health top-ups still by the time you fight.
+First of all don’t pay much attention to the 9000.00% health meter
+– this will drop quick rapidly with each attack.
+* When Vixer is surrounded by the crimson aura he is vulnerable,
+so get a few hits in here. He’ll probably summon super-strong
+faceless drones at this point but you can keep Vixer between you
+and them and keep attacking.
+* When he takes to the sky Vixer will launch white energy balls
+which home in on your fighter. You can cause these to explode
+harmlessly by running alongside the arena wall. Start from the left
+or right side and keep running towards the bottom of the screen
+and then back up the other side to avoid both volleys of shots
+(you’ll notice them hitting the space behind you).
+Note: Un-equip your weapon(s) now to avoid them taking damage.
+* Vixer now lands and charges up another attack, which is to
+cause firebolts to drop on your position one after another.
+Don’t stand too close to him while charging as it’ll cause damage,
+but you need to be ready to dash forward and attack quickly.
+Keeping those prototype monsters in mind, position your character
+so his/her back is to Vixer just after he unleashes his attack.
+WHEN THE SCREEN FLASHES PRESS L1 to evade the firebolt and move
+closer to Vixer. Turn and run to him and (equipping a weapon) strike
+hard before the next bolt strikes (you have a chance to evade, but
+the Prototypes will no doubt get a hit in).
+* Vixer will then rise up and fire those white energy balls once
+again, so repeat the same technique as before.
+
+When the boss’ health drops to around 1000% the arena turns
+reddish to indicate a temperature rise – so remember your health
+will begin dropping steadily from this point on. The same tactics
+apply throughout the fight but the window of opportunity to get a
+hit in after the first firebolt is greatly reduced – oh, and there
+are many more firebolts so you WILL get hit. Hope you packed
+plenty of X-Energy!
+
+
+/*****************************************
+7.0 Sidequest notes and renovating the city
+******************************************/
+
+* Completing a level will cause a side quest to become available
+- go talk to the shopkeepers to learn of a special item hidden
+away in the stage you just cleared. My advice is to get a few
+spare weapons, max out your health items, and head straight for
+the last floor (not the boss floor). Destroy all the monsters
+here and you'll find the rare item which can be exchanged for
+something useful from the shopkeeper.
+* If you speak to the mayor in the area just past the shopkeepers
+you can make a donation to renovate the city (i.e. increase the
+traders' selection of goods).
+He'll quite happily pocket all money above what he needs,
+so here's how much you should offer to donate each time.
+5000, 5000, 10,000 -> All shopkeepers get a stall.
+23,000, then 50,000 -> Even bigger stalls are given out.
+You'll be given a Resurrection item for your trouble as well.
+
+/*****************************************
+8.0 Contacting The Author
+******************************************/
+
+If you want to send me a question, comment, etc. feel free to
+contact me by email.
+
+E-mail question/comments to spurs99@hotmail.com
+
+/*****************************************
+9.0 Credits
+******************************************/
+
+Ok I've hunted on the net, searched through my internet explorer
+history, flicked through the instruction manual, and yet I
+cannot remember the name or the website of the company who did
+the translation and testing for Crimson Tears. But a big thanks
+goes out to those unsung heroes.
+
+And of course, the developers and testers at Spike and Capcom
+for getting the cash together to publish the title.
+
+I'm going to go ahead and thank all the people who have ever
+supported me in all the things I've done in the past.
+Thanks for helping me achieve my goals.
+
+/*****************************************
+10.0 Legal Info
+******************************************/
+
+Do what you like with this guide - but if you could give my name a
+mention somewhere that would be appreciated :)
+

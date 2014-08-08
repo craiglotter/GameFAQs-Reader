@@ -1,0 +1,948 @@
+ONIMUSHA 3 (JAPANESE VERSION) DOCUMENT TRANSLATION FAQ
+Version 1.0 (31 March 2004)
+By Matt "Namahage" Hirao
+Email: minnani4649(at)hotmail.com [replace (at) with the @ mark]
+
+For best results, use a fixed-width font (like Courier) to view this.
+The numbers and periods below should line up exactly.
+
+123456789A123456789B123456789C123456789D123456789E123456789F123456789G123456789
+...............................................................................
+*******************************************************************************
+                                * WARNING *
+
+This in-game document translation FAQ contains multiple spoilers for the game
+Onimusha 3 (JPN Version).  Even the Table of Contents contains potential
+spoilers.  If you do not wish to know of possible developments that take place
+in the game, STOP READING NOW.  Or get someone to read it for you.
+You have been warned.
+*******************************************************************************
+
+*********************
+*TABLE OF CONTENTS: *
+*********************
+
+The documents in this guide are in the order in which they appear in the
+player's inventory, and are not in the order listed below.  To jump to a
+particular document use the "Find" command and search for the document by
+section number (ex. 3.2.1).
+
+1.  INTRODUCTION / DISCLAIMERS / COPYRIGHT INFORMATION
+2.  VERSION HISTORY
+3.  DOCUMENT LIST BY LOCATION:
+
+    3.1.  PARIS (L'Arc de Triomphe)
+          3.1.1    BANQUET "BOOK"
+
+    3.2.  MOUNT HIEI
+          3.2.1    THE BOOK OF THE ONIMUSHA
+          3.2.2    THE BOOK OF AKO
+          3.2.3    THE BOOK OF THE "ONIBOTARU"
+          3.2.4    THE BOOK OF DOUKAN (DAOKUAN)
+          3.2.5    THE STRATEGIC ORDERS "BOOK"
+
+    3.3.  PARIS SEWERS
+          3.3.1    MANAGER'S MEMO
+          3.3.2    WORKER'S MEMO
+
+    3.4.  SAKAI, SENSHU and GENMA SHIP
+          3.4.1    RUMORS OF JUBEI
+          3.4.2    INSTRUCTIONS FROM TORAYA
+          3.4.3    RUMORS OF HIDEYOSHI
+          3.4.4    TIME/SPACE RESEARCH BOOK (PART I)
+          3.4.5    NOTICE TO GENMA
+          3.4.6    SHIP'S JOURNAL
+
+    3.5.  NOTRE DAME CATHEDRAL (Samanosuke)
+          3.5.1    RUMORS OF THE GENMA WORLD
+          3.5.2    THE BOOK OF ABSORBING DARKNESS
+          3.5.3    TIME/SPACE RESEARCH BOOK (PART III)
+
+    3.6.  UNDERWATER TEMPLE
+          3.6.1    THE BOOK OF TIME/SPACE TRANSPORT
+          3.6.2    TIME/SPACE RESEARCH BOOK (PART II)
+          3.6.3    THE BOOK OF ONIGEMBU
+          3.6.4    THE BOOK OF THE TEMPLE
+
+    3.7.  NOTRE DAME CATHEDRAL (Michele)
+          3.7.1    PARIS REPORT
+
+    3.8.  BOULOGNE ZOO
+          3.8.1    ZOO FLYER
+          3.8.2    THE BOOK OF DEMON CREATION (FIRST HALF)
+          3.8.3    THE BOOK OF DEMON CREATION (SECOND HALF)
+
+    3.9.  MONT SAINT MICHEL
+          3.9.1    RANMARU'S MEMOIRS
+          3.9.2    TIME/SPACE RESEARCH BOOK (PART IV)
+          3.9.3    MEMOIRS OF A FRENCHMAN
+          3.9.4    BEGADONNA'S DIARY
+          3.9.5    TIME/SPACE RESEARCH BOOK (PART V)
+          3.9.6    FORTRESS BOOK (FIRST HALF)
+
+    3.10. LAKE BIWA / ONIYASHIKI
+          3.10.1   THE BOOK OF THE ONIYASHIKI
+          3.10.2   THE BOOK OF THE ONI ARMIES
+
+    3.11. AZUCHI CASTLE
+          3.11.1   FORTRESS BOOK (SECOND HALF)
+          3.11.2   RETAINER'S MEMOIRS
+
+    3.12. EIFFEL TOWER
+          3.12.1   TIME/SPACE RESEARCH BOOK (PART VI)
+
+    3.13  HONNOJI TEMPLE
+          3.13.1   RANMARU'S MEMO
+
+    3.14  MISCELLANEOUS
+          3.14.1   THE BOOK OF THE PHANTOM REALM
+          3.14.2   BLACKSMITH'S MEMOIRS (Heihachi Buraiden)
+
+*******************************************************************************
+
+1.  INTRODUCTION / DISCLAIMERS / COPYRIGHT INFORMATION
+Welcome to the Onimusha 3 document translation FAQ!  Written as a companion FAQ
+to my Onimusha 3 script translation FAQ, this FAQ presents the content of all
+those books and other documents you find throughout the game (with the
+exception of the "Oni Training Books" for the training stages).
+
+Each document's name is followed by text in [brackets] detailing approximately
+where in the game the document can be found.  The text following it in
+(parentheses) is a translation of the explanation of the document as given
+when the document is selected in the inventory screen.  Any relevant notes or
+explanations are put in (parentheses) within the text.
+
+In case the purpose of this FAQ is unclear, this is NOT a walkthrough or item
+FAQ.  Furthermore, there are numerous spoilers here, so if you missed the big
+* WARNING * at the top of this document and you still don't want to have
+any developments revealed, then you'd best stop reading now.
+
+<LEGAL>
+Copyright 2004 Matt "Namahage" Hirao.  This document may not be reproduced
+in any form other than for personal, private use without the prior written
+consent of the author (that'd be me). I like to think I'm a pretty nice guy, so
+most likely I will give my OK as long as you give me some credit and not alter
+this FAQ in any way.  Oh, and don't charge anything for it--if I can't get some
+cash out of this work, then neither should you.
+Suggestions and comments can be addressed to minnani4649(at)hotmail.com .
+</LEGAL>
+
+2. VERSION INFORMATION
+
+Version 1.0 (31 March 2004) First version of the Document Translation FAQ, with
+all known documents translated.
+*******************************************************************************
+<3.2.1>
+THE BOOK OF THE ONIMUSHA
+[Given to Jacques before saving Henri on Mt. Hiei.]
+(A document about methods of control.)
+
+ONIMUSHA TRANSFORMATION
+ >R3 BUTTON (PRESS DOWN ON THE RIGHT STICK)<
+If you have collected five purple souls, you will transform into an Onimusha.
+Also, if your health runs out while you have five purple souls collected, you
+will automatically transform into an Onimusha.
+
+GRABBING GENMA
+ >PRESS THE R1 BUTTON STRONGLY TO CHARGE + SQUARE<
+You will grab Genma with your weapon.  After grabbing them, by using the
+directional keys and the square button, you will be able to use a wide range
+of attacks.
+
+GRABBING THINGS
+ >PRESS R1 + CIRCLE<
+You will grab and throw items with your weapon.
+*******************************************************************************
+<3.2.2>
+THE BOOK OF AKO
+[Received on Hiei when you meet Ako for the first time.]
+(A document about Ako.)
+OPENING TENGU TREASURE BOXES
+ >Circle button when Ako gives you a signal<
+She will open hidden Tengu treasure boxes for you.  When Ako brings back the
+contents of the box, you can take the item by pressing Circle.
+
+HAORI (Vests)
+ >Equipped on the item selection screen<
+You can achieve various effects by outfitting Ako with a haori.  Haori cannot
+be equipped at the time they are obtained.  By infusing them with "kodama"
+(green "stones") you can make them usable.
+
+SHOWING THE OBJECT OF ATTACK
+ >R1 Button<
+By adopting a stance with the R1 button, Ako will fly near the Genma or object
+on which you are locked-on.
+*******************************************************************************
+<3.2.3>
+THE BOOK OF THE "ONIBOTARU" (Oni "fireflies" or "grab points")
+[On the cliffs of Mt. Hiei, in a box.]
+(A document about Onibotaru.)
+
+FINDING "ONIBOTARU"
+Onibotaru are hidden everywhere in the game, with some exceptions.  By breaking
+things or opening boxes, they will fly to predetermined locations.
+
+JUMPING WITH "ONIBOTARU"
+ >R1 + CIRCLE BUTTON<
+When the Onibotaru glows green, you can move by grabbing it with your weapon.
+*******************************************************************************
+<3.6.1>
+THE BOOK OF TIME/SPACE TRANSPORT
+[Found near the first transport (swap) point in the Underwater Temple.]
+(A document on how to use the time/space transporter.)
+
+By using the time/space transporter, you can make Ako travel freely between
+Jacques in the past and Samanosuke in the future.
+
+GIVING ITEMS
+You will give items in the current player's inventory to Ako, and pass them to
+the other player.  There are some items which cannot be sent.
+
+TRANSPORT
+Ako will travel to the other player's time.
+
+RETURN
+Exit the time/space transport screen.
+*******************************************************************************
+<3.4.4>
+TIME/SPACE RESEARCH BOOK (PART I)
+[Found in the room with the lightning seal in Sakai.]
+(A research book in which time warping is described.  The first book.)
+
+Investigations regarding the Oni ruins have been going on for a long time, and
+finally the first stage is complete.
+After deciphering a vast set of records left in the ruins, it seems that the
+secret of the Oni has something to do with time.  The device itself has been
+discovered, but the method of controlling it is unclear to us Genma.  I,
+Guildenstern, will pour everything I have into this and solve the mystery.
+However, a little more time shall be necessary before a report can be given to
+the Genma King.
+
+But even if I do, the Genma assigned to the foreign ship--how incompetent they
+are!  They're always attacking the townspeople indiscriminately.  I don't mind
+if the humans are terrified, but there'll be problems if we run out of
+workers.  They should really give us better, smarter people...
+
+                                                      GUILDENSTERN
+*******************************************************************************
+<3.6.2>
+TIME/SPACE RESEARCH BOOK (PART II)
+[In the Underwater Temple in the past, in the second room past the yellow door.]
+(A research book in which time warping is described.  The second book.)
+
+My research on "Time Warping" is still full of problems.
+
+Somehow we were able to start the Oni device that we found within the Oni
+ruins, but
+its functionality is always unstable.  Even if by good fortune a
+"time warp" is generated, it disappears in an instant.
+
+After countless failures, I realized something.
+
+Recently, I have found extremely strange things here and there.  They are not
+things made by the humans, and also not things that we Genma have made.  Could
+these strange items be things from the "future" brought back using the "time
+warp" that I created in my experiments?
+
+If this is the case, then beyond the "time warp" undoubtedly lies a new world.
+
+I shall pour the essence of Genma science into the Oni device.  The next
+experiment will undoubtedly be a success.
+
+We Genma shall control time itself.
+
+                                                      GUILDENSTERN
+*******************************************************************************
+<3.5.3>
+TIME/SPACE RESEARCH BOOK (PART III)
+[In Notre Dame, in the room beyond the underground save point.]
+(A research book in which time warping is described.  The third book.)
+
+MEMORANDUM
+
+How can I say this...
+When I was examining the device, suddenly I was launched somewhere.  It seems
+that I had somehow crossed through time.  What I did was a bit careless.
+
+On the surface, ignorant worms are roaming around.  Really annoying fellows,
+no matter what time period they are in.  I shall quickly need to make a new
+stronghold and find a way to return to the Oni ruins.
+
+I found a good place at once.  It is a building that the humans call the
+"Notre Dame Cathedral."  In the underground crypts nearby, there are tons
+of human bones.  I shall command the Genma who crossed time with me and
+build an underground castle.  It shall be my own castle, where I can freely
+immerse myself in my research.
+
+But even so, there are many things that I do not understand about the "time
+warp."  I wish I could find something out...
+                                                      GUILDENSTERN
+*******************************************************************************
+<3.9.2>
+TIME/SPACE RESEARCH BOOK (PART IV)
+[At Mont Saint Michel (future), in the room with the warp to L'Arc de Triomphe.]
+(A research book in which time warping is described.  The fourth book.)
+
+I traveled through time due to an unthinkable accident, but it was a fortunate
+thing that the Oni ruins at the bottom of the sea still remain even in this
+time period. It hasn't changed that much since the time when I did my research,
+and apart from the room with the device being underwater, most of my tools and
+writings are intact.
+
+I have decided to take them out and create a new "Time Warp" research facility
+at "Mont Saint Michel."
+
+The biggest problems with the "time warp" are stability and accuracy.  It's
+meaningless if I can't send the thing that I want to the time that I want.  The
+Oni clan was unable to do this, too.
+
+It shall not be easy, but nothing is impossible for my brain.
+
+                                                      GUILDENSTERN
+*******************************************************************************
+<3.9.5>
+TIME/SPACE RESEARCH BOOK (PART V)
+[In Mont Saint Michel (future), before the poison room.]
+(A research book in which time warping is described.  The fifth book.)
+Somehow, in order to generate a time warp, it is essential to have an enormous
+amount of stabilized energy.
+
+Thus, in order to collect limitless energy from the sky, I have installed the
+device on the roof.  Our Genma science can create something from nothing.
+
+Further, if there is an extreme change in the energy supply, it has a large
+influence on my research results.  I shall order them to keep a constant watch
+to ensure that at least 80% of the output is always retained.
+
+Still, caution is necessary regarding Akechi Samanosuke's movements.  This
+energy collection device is the lifeline of my research.  I must order them
+again to be sharp when patrolling the surroundings.
+
+                                                     GUILDENSTERN
+*******************************************************************************
+<3.12.1>
+TIME/SPACE RESEARCH BOOK (PART VI)
+[At the Eiffel Tower, before the elevator with the armored enemy.]
+(A research book in which time warping is described.  The sixth book.)
+
+As a result of continuing the research of the dead Guildenstern and reexamining
+its contents, I have found out that in order to use the "time warp" device,
+two "pulses" must be taken into account.
+
+The first is the "pulse of time and space."
+The flow of time has a pulse, and if the machine is started while it is
+unsynchronized with that pulse, the "time warp" becomes unstable.  It is
+believed that dissonance with this "pulse of time and space" is the
+reason why Akechi Samanosuke was brought to this world when Guildenstern used
+the machine before.
+
+The second is the "pulse of the earth."
+The place where the device will be operated must be established on the pulse
+where the earth's essence is concentrated.
+
+If it is incorrectly placed, it will cause the "time warp's" stability to
+be ruined.
+
+Taking the two pulses of "time and space" and "earth" into account, this
+"Eiffel Tower," an iron tower in the middle of the city, is a suitable place
+to set up the "time warp" device.
+
+And then, when the two pulses are synchronized, if I add the energy that the
+people in this age call "nuclear energy," I will be able to create a perfect
+"time warp."  I must say that it is truly fortunate that in this time, in
+this place, that such a perfect energy source exists.
+
+Soon, I shall be able to bring large numbers of Genma to this world, starting
+with Lord Nobunaga.
+                                                      MORI RANMARU
+*******************************************************************************
+<3.1.1>
+BANQUET "BOOK"
+[Top floor of L'Arc de Triomphe.]
+(Orders for the Genma to attack Paris.)
+
+ATTENTION, LOYAL MEMBERS OF THE GENMA CLAN.
+
+WE HAVE DECIDED TO MEET THE GENMA KING HERE IN THIS LAND.
+
+REGARDING THIS, YOU ARE TO DISPOSE OF THOSE TROUBLESOME HUMANS AND ARRANGE
+THEIR CORPSES FOR THE GENMA KING'S WELCOME PARTY.
+
+YOU MAY CUT THEM WITH SHARP BLADES.
+YOU MAY BITE THEM WITH POLISHED TEETH.
+
+HOW YOU DO IT WILL BE LEFT UP TO YOU.
+
+HOWEVER, YOU ARE TO WAIT UNTIL THE HOUR OF THE TIGER (3-5 AM) ON THE EIGHTH DAY
+OF THE FIFTH MONTH, EARTH TIME.  AT THAT TIME, THE PARTY WILL BEGIN.
+*******************************************************************************
+<3.2.4>
+THE BOOK OF DOUKAN (DAOKUAN)
+[Found on the cliffs of Mt. Hiei.]
+(An account of Mt. Hiei, which was set on fire.)
+
+The second year of Genki (1571), ninth month.
+
+At dawn, from every direction of Mt. Hachioji, Oda soldiers appeared.
+Suddenly, fire broke loose, and it was like the flames of hell.
+
+Numerous men and women, priests and laymen, were decapitated.
+Their bodies were thrown off cliffs, and their heads tossed into the flames
+as if they were firewood.
+
+Although I was able to escape danger by fleeing deep into the mountains, when I
+looked around, it was truly the image of hell.
+
+Even now, the air is still full of the stench of charred human flesh, and the
+people who were alive a while ago have become black lumps and haunt me.
+Even if I crawl into the cellar and plug my ears, the groans of the dead will
+not go away.
+Caring only about myself and trembling in the shadow of a boulder--this is
+truly a crime.
+
+Although I can collect the skulls, bury them in the earth and chant prayers for
+them, I cannot believe that I have been absolved of my crime.
+Though it may take many years, I will carve a giant stone Buddha, and that
+shall be my memorial service to my comrades.
+
+                                                      Doukan (Daokuan)
+*******************************************************************************
+<3.2.5>
+THE STRATEGIC ORDERS "BOOK"
+[Found at the top of the gate on Mt. Hiei.]
+(Orders commanding the Genma to assemble on Mt. Hiei.)
+
+The time has finally come for our master, Lord Oda Nobunaga, to ascend to the
+throne.
+
+First, the capital city of Kyoto will be taken by authority of the
+exalted seal of "Tenka Fubu" (the slogan of Oda Nobunaga, meaning "all under
+heaven covered by military force").
+
+All those standing with our lord should assemble at Mt. Ei (Mt. Hiei) and await
+orders from the capital.
+                                                      Mori Ranmaru
+*******************************************************************************
+<3.3.1>
+MANAGER'S MEMO
+[Found in the first room of the sewers.]
+(A letter by a sewer worker addressed to his superior, regarding broken
+equipment.)
+
+Manager Cloquet-
+
+It's been a while now that the winch for the cleaning ball has been broken, but
+just when are we going to get money from the budget for it?  If we don't fix
+it, the
+garbage is going to pile up more and more.
+
+If the sewers overflow it'll be our responsibility.  You understand that much,
+don't you?
+
+Hurry up and negotiate with the higher-ups, and get some budget money for
+repairs.  If they tell you that it's OK to cut the chain and drop the cleaning
+ball, that's a different story.
+
+One more thing.  Don't forget that your neck is on the line regarding this
+matter.  This isn't a threat.
+
+                                               Denis Clement, Acting Manager
+*******************************************************************************
+<3.3.2>
+WORKER'S MEMO
+[Found after climbing the ladder where you find the device missing a handle.]
+(A note left by a sewer worker.)
+
+LEFT   . . . FIRST ROOM  NUMBER OF CHAIRS
+MIDDLE . . . FIRST ROOM  NUMBER OF CASSETTE RADIOS
+RIGHT  . . . FIRST ROOM  NUMBER OF MONITORS
+*******************************************************************************
+<3.4.1>
+RUMORS OF JUBEI
+[Found inside Toraya, the shop in Sakai in Senshu.]
+(A document in which rumors about Yagyu Jubei are written.)
+
+The first year of Tensho (1573).  After doing violence to Nobunaga, Yagyu Jubei
+disappeared.  Although Hashiba Hideyoshi sent ninja spies after his head, they
+returned today, his whereabouts still unknown.
+
+According to rumors, he was seen riding a horse in the mountains near the
+village of Odani, and on a ship headed to the Southern foreign lands, but the
+reliability of these are uncertain.
+There are some who have speciously claimed that he was together with Lady
+Oichi, but this is complete nonsense.  However, due to illness, Lady Oichi has
+been seen by virtually no one these past few years, and this has caused rumors
+about her to persist.
+*******************************************************************************
+<3.4.3>
+RUMORS OF HIDEYOSHI
+[Found in the room with the lightning seal in Sakai.]
+(A document in which rumors of Hashiba Hideyoshi are written.)
+
+Lord Nobunaga's right-hand man, Kinoshita Tokichiro, is now Hashiba
+Hideyoshi.  Even after his family name was changed to Hashiba he serves
+Lord Nobunaga well and is trusted by him.
+
+When Lord Nobunaga was away, he managed the soldiers well, and in doing so
+played a big role in increasing their power, increasing Nobunaga's confidence
+in him.
+
+After Lord Nobunaga returned, Hideyoshi was ordered to suppress the western
+territories, so he led an expedition of several tens of thousands of men, and
+even now he is continuing to fight there.
+*******************************************************************************
+<3.4.2>
+INSTRUCTIONS FROM TORAYA
+[Found in the area beyond the drawbridge.]
+(Instructions from the owner of Toraya to his employees.)
+
+Everyone -
+I have a message from the House of Oda.
+You are to take certain designated items from the shipment headed for Azuchi
+Castle in Omi to Mt. Ei (Hiei).
+
+Remember that you are not to be nosy.
+It is essential that you keep your mouth tightly shut like a clam, and not
+look at or ask about things unnecessarily.
+Keep this in mind if you value your life.
+                                                      TORAYA KICHIEMON
+*******************************************************************************
+<3.4.6>
+SHIP'S JOURNAL
+[Found in the "green room" on the boat.]
+(A ship's log written by the captain of the Genma ship.)
+
+I like this boat.
+
+The pleasure boats on the lake beneath the earth are dark, smelly, and dirty.
+But this boat is different.
+
+The destination is a port belonging to the humans.  So even the boat's outer
+appearance is the same as those of the humans' boats.
+
+The creaking of this boat is the same as the scraping of human bones.
+Screech, screech, screech...
+
+Then, when I arrive at the port, there'll be a lot of food.  As many humans
+as I can eat.
+
+It's a great job, being a boat captain.
+*******************************************************************************
+<3.4.5>
+NOTICE TO GENMA
+[Found on the boat.]
+(A notice to the Genma informing them of the appearance of a new person with
+Oni Power.)
+
+The other day, another person wielding Oni Power has been confirmed on Hiei.
+The wielder of Oni Power is a Southern Barbarian man who wears strange clothes.
+He wields a whip-like weapon and uses strange techniques.
+Consider yourselves warned.
+*******************************************************************************
+<3.5.1>
+RUMORS OF THE GENMA WORLD
+[In Notre Dame, in the first room with spinning blades.]
+(A book on the fatal battle between Samanosuke and Garganto.)
+Akechi Samanosuke Hidemitsu, wielder of Oni Power.
+He appeared at Inabayama Castle, and with that sword he slashed Fortinbras, the
+Genma King at that time.
+
+After that, he doggedly pursued the new Genma King, Oda Nobunaga, and us, his
+Genma retainers.  Thousands of Genma perished.
+I have heard that Garganto alone fought many heated battles, but even
+he, the strongest warrior of the Genma world, fell to the deadly blade of
+Akechi Samanosuke.
+
+And now he has landed here, where he once again swings his demon-like blade
+against us.  Is there no one that can stop Akechi Samanosuke Hidemitsu...
+*******************************************************************************
+<3.5.2>
+THE BOOK OF ABSORBING DARKNESS
+[In the room with the sky-sealed door, before the pit.]
+(A document about how to absorb the darkness covering the goddesses.)
+
+The four goddesses art sullied by a wicked spirit, the holy light that they
+hold shut away by black darkness.
+
+Wield the power of the talisman, trust in the guidance of the small flames that
+illuminate the goddesses, and seal away the black darkness in thy gauntlet.
+
+If thou art successful, the holy light shalt shine once more, and a great power
+shalt be thine.
+*******************************************************************************
+<3.6.3>
+THE BOOK OF ONIGEMBU
+[In the "library" of the Underwater Temple (past), upper level.]
+(A stone tablet about a "flying machine" which the Oni have researched.)
+We of the Oni clan are developing a new power, a "Heaven-Crossing Mechanism."
+
+It has great power, and if used properly, it can transport even the holy
+mountain of Fuji to the farthest reaches of the skies.
+
+We have built a battleship using this power, and have named it "Onigembu."
+The main body of "Onigembu" is on Onigashima Island.
+
+Even if the Genma should raid the island in search for this, there is no
+need to worry.
+
+The secret of the "Heaven-Crossing Mechanism" is in this Underwater Temple.
+As long as the temple is safely preserved, there is no need to fear the Genma.
+*******************************************************************************
+<3.6.4>
+THE BOOK OF THE TEMPLE
+[Found in the room with the red plate in the Underwater Temple (future).]
+(A stone tablet about the Oni clan's shrine built at the bottom of the sea.)
+
+The Genma offensive has become extremely violent, so we of the Genma clan have
+built an underwater temple.
+At the bottom of the sea, where even light cannot reach it, it has not yet
+been invaded.
+With this, the security of our clan shall probably be undisturbed for all time.
+
+However, a man by the name of Urashima Something-or-other suddenly appeared.
+It has been said that this man saved one of our clan's kin.
+
+We held a welcoming banquet, and after three days we secretly led him to the
+"warp."
+Urashima Something-or-other, where have you gone now...
+
+Our shrine shall not be known to anyone, no matter who they are.
+
+(NOTE: This is a reference to a popular Japanese folk story called "Urashima
+Taro."  A fisherman named Urashima Taro saved a turtle's life, and in gratitude
+the turtle took Taro to his home, the Dragon Palace, under the sea.  Taro
+stayed there for three days, or so he thought--he had actually been there for
+hundreds of years, so upon his return to land, everything he had known was
+gone.)
+*******************************************************************************
+<3.7.1>
+PARIS REPORT
+[In Notre Dame, by Michele in the "library."]
+(A report about a new experimentation facility.)
+Here is my report.
+
+After searching for a long time, I have found a new experimentation facility.
+
+This new location is a facility which the humans call "Boulogne Zoo," and as
+there are many kinds of animals which can be used as subjects gathered here, I
+believe that it shall be to your taste.
+
+Also, if you could use the usual spell on the humans, we can begin conversion
+at any time.
+
+I await your orders.
+*******************************************************************************
+<3.8.2>
+THE BOOK OF DEMON CREATION (First Half)
+[At the Boulogne Zoo, on the top floor of the round building with four cages.]
+(A research document about Guildenstern's live experiments.  First half.)
+A zoo...
+Could this be an experimentation facility of the humans?  Is this not a place
+provided for the collection of and even experimentation on animals all over
+the world?
+
+Those damned impudent worms...
+Haughtily gathering animals that are even lesser than they...
+
+That's it!  Rejoice, encaged beings!  I shall make you my sons!  That way,
+you shall not be devastated by cheeky humans!
+
+This is a splendid idea.  I shall put it into action right away...
+
+                                                     GUILDENSTERN
+*******************************************************************************
+<3.8.3>
+THE BOOK OF DEMON CREATION (Second Half)
+[In the research room of the Boulogne Zoo, right before the save point outside
+the room with Guildenstern.]
+(A research document about Guildenstern's live experiments.  Second half.)
+
+First of all, I infused Genma blood into a subject known as the "lion," the
+King of Beasts.
+
+However, it will be useless to me, as it just sleeps all day and all night.
+Somehow it seems that this "lion" is that kind of animal.
+
+What's more, its heart was weak, and it collapsed and died in three days.
+Perhaps it was unable to adapt to Genma blood.
+I had been trying to make a brutal Genma surpassing even Gertrude, but...
+
+Next, I captured many kinds of monkeys, and I transplanted the gigantic hearts
+of "elephants," enormous creatures with long noses.  As I expected, various
+anthropoid apes were born, and so I shall introduce Genma blood into them.
+
+Here, something interesting happened.
+Somehow, the gigantic "elephant" hearts that were introduced have adapted to
+Genma blood.  These humanlike apes are now able to possess even greater
+strength.
+It isn't my greatest masterpiece, but for now it is something with which I
+can be satisfied.  I shall call this new son "Zumo."
+
+                                                     GUILDENSTERN
+*******************************************************************************
+<3.8.1>
+ZOO FLYER
+[At the Boulogne Zoo, near a save point.]
+(A flyer informing people of the upcoming Monkey Fair.)
+
+June 2 - June 16
+
+THE MONKEY FAIR IS COMING!!
+
+Past and present, East and West, monkeys from every country in the world will
+be at the Boulogne Zoo!
+
+And of course...
+The popular Ricky the Lion and Sanchez the Elephant, and many other fun friends
+will be there too!
+
+We hope to see you there!
+
+"Boulogne Zoo"
+                                        (Closed this month on the 23rd.)
+*******************************************************************************
+<3.9.1>
+RANMARU'S MEMOIRS
+[At Mont Saint Michel (future), near the first save point.]
+(Memoirs that Ranmaru has written.  His grudge against Samanosuke is spelled out
+here.)
+
+I have received news that Guildenstern has died at the hands of Akechi
+Samanosuke.
+There is no sadness.  All I have is anger at Akechi Samanosuke for interfering
+in all of my lord's plans.
+
+At the Oni ruins, I suffered an embarrassing defeat because my conversion was
+not complete, but now there is no longer any need to worry about that.
+I now have complete control over Genma blood.
+Now, I possess the strongest of powers.
+
+When next I meet him, I shall take his head and present it to my lord as a
+gift, and I will cut his body into inch-long slices and feed it to the Genma.
+I look forward to this time.
+
+
+                                                     MORI RANMARU
+*******************************************************************************
+<3.9.3>
+MEMOIRS OF A FRENCHMAN
+[At Mont Saint Michel (future), in the room with the gear.]
+(Memoirs written by a surviving prisoner.)
+
+Someone, anyone!  Help!
+
+I have no idea how much time has passed.
+Days?  Or weeks?  I have not seen the light of the sun for days now.
+
+The skeleton wearing the black cloak...that monster is the cause of this evil.
+
+Because of that strange light that thing showered on us, everyone has become
+suddenly quiet, as if hypnotized...
+
+For some reason, though, I was unaffected.
+Thanks to that I am reduced to running around trying to escape the monsters.
+Perhaps it would've been better to be under that hypnosis.
+
+Soon they're going to know that I was hiding here, and I'll be found.
+No...surely they'll capture me and use me as food...?
+I don't want that!  I'll escape...I'll make a clean getaway.
+
+Aggh!  But before that, I'll probably die of hunger...
+*******************************************************************************
+<3.9.4>
+BEGADONNA'S DIARY
+[At Mont Saint Michel (past), in the room past the gate with the
+gear.](Begadonna's
+diary.  Her love for Nobunaga is spelled out here.)
+
+Ah!  I am yearning for you, Nobunaga-sama...
+
+It has been months since you entrusted this land to me.
+I have been patient until the completion of that thing, but for you not to be
+at my side, Nobunaga-sama, I never dreamed it would be so painful!
+
+This feeling that tightens my chest.  The flames that burn in my heart.  This
+is not anything like passion, it is love...unmistakably true love.
+
+It is hot!  Hurry, quickly...before my heart is burned by the flames of
+purgatory.  Please take me into those strong arms of yours.
+
+Aaah!  Where are you now, Nobunaga-sama...
+
+...It can't be!  With other whores...that's impossible!!
+
+Aaaah!  I wish to go to you quickly, Nobunaga-sama.
+I cannot bear this for an instant longer.
+I shall work these humans to death, so that I can hasten the completion of
+that thing.
+
+Nobunaga-sama!  Please wait for me to return to you...
+
+                                                      Begadonna
+*******************************************************************************
+<3.10.2>
+THE BOOK OF THE ONI ARMIES
+[In the Oni Trick House, near a point where you can absorb souls.]
+(A book about the "Oni Army Pearl," which controls Oni soldiers.)
+
+The Oni Armies are a group of soldiers that are controlled using the power of
+the Oni.
+
+The "Oni Army Pearl," which controls the Oni Armies, is hidden somewhere in
+this land, awaiting the arrival of the chosen one.
+
+In peacetime, they are hidden within the pearl, but they will appear when the
+presence of Oni Power is detected.
+
+Once they are released, they shall crush all enemies in their path.
+They will be like a tidal wave.
+*******************************************************************************
+<3.10.1>
+THE BOOK OF THE ONIYASHIKI (Oni House)
+[Inside the Oni Trick house, near a box containing an Onibotaru.]
+(A book about the house built by the Oni clan on Lake Biwa.)
+
+We of the Oni clan, in order to deceive the Genma, have built a house on this
+land.
+When looked at from the outside, it appears to be the work of man, but inside,
+this is not the case.
+Inside the house devices are set, and beyond them a power is hidden.
+
+Wielder of Oni Power.
+The time is like water spilling between your fingers.
+Follow the guidance of the Onibotaru, and do not hesitate for even a moment.
+*******************************************************************************
+<3.9.6>
+FORTRESS BOOK (FIRST HALF)
+[At Mont Saint Michel, after Jacques escapes from the poison room.]
+(A scientific record by Genma scientists.  It describes a flying device.)
+
+When we first started construction on an aerial fortress, we believed that our
+Genma scientific techniques would be able to manage where power was concerned,
+but we were wrong.
+We were unable to maintain the necessary speed.
+
+Through repeated trial and error, we arrived at a conclusion.
+If we do not have the technology, we should take it from somewhere.  In order
+for Genma science to progress, occasionally imitation is necessary.
+
+Ten years ago, we witnessed Oni power.  If we could use that, we would be able
+to give our aerial fortress speed.  We searched Onigashima Island.
+
+Unfortunately, however, we were unable to find any data regarding a flying
+device.  However, from a document left there, we discovered something else.
+There are Oni ruins at the bottom of the sea.
+
+We dove to the bottom of the sea, and took all of the technology regarding
+flight that was there.  Using an underwater train, we also carried out
+materials that we believed would be usable.
+As a result, the flying machine performs according to expectations.
+With this, we Genma have gained the power to control even the skies.  The day
+is near when we shall reign as rulers of this world, both in name and in
+reality.
+*******************************************************************************
+<3.11.1>
+FORTESS BOOK (SECOND HALF)
+[At Azuchi Castle, near the save point.]
+(A book about a large Genma that supports Azuchi Castle.)
+
+"Hyuunbeid"
+
+A large Genma that supports Azuchi Castle.  The form a "Baasaa," which has
+strong and flexible wings, takes upon reaching the age of ten thousand years.
+The number of living ones is extremely small.
+
+However, its flying ability is abnormal, and it has sometimes been able to
+lift even mountains.
+
+It is calm, not suited for battle, and is used as a method of transporting
+Genma that don't fly, and also to transport supplies and such.
+
+In peacetime, it rests its wings in a large cavern beneath the earth and
+sleeps, but when it awakens and begins to feed, it will eat thousands of
+humans in a few days.
+
+When its life is about to end, it releases millions of eggs.
+But among them, only one or two become "Baasaas" which grow up to be
+"Hyuunbeids."
+*******************************************************************************
+<3.11.2>
+RETAINER'S MEMOIRS
+[At Azuchi castle, on the roof.]
+(Memoirs about the reincarnated Nobunaga.)
+
+Lord Oda Nobunaga, King of the Genma.
+
+Though once felled by the accursed blade of the Oni clan, with Genma blood in
+his body he breathes anew.
+
+His divine power can split the earth and slash the skies.
+Even when he dispatches tens of thousands of soldiers and horses with a single
+slash, his limits cannot be known.
+
+There is no need to fear the Oni clan.  Their skulls shall surely roll beneath
+his gaze.
+*******************************************************************************
+<3.13.1>
+RANMARU'S MEMO
+[At Honnoji, after Ranmaru is killed.]
+(A memo from Ranmaru.  The exchange between Nobunaga and Guildenstern is
+described here.)
+
+The other day, there was a message from Guildenstern.
+It's unbelievable, but that monster says he's in the "future."
+My lord looks as if he probably has some interest, but what exactly is the
+"future"?
+
+The pulse of time runs through that day and that place?
+That Guildenstern...what he says is completely incomprehensible.
+
+Incredibly, he told him to go to Honnoji in Kyoto, even specifying a date and
+time...
+How impertinent of him, as a retainer, to summon his master.
+
+At any rate, I shall obey my lord, and am prepared to defend him against
+anything.
+
+                                                      MORI RANMARU
+*******************************************************************************
+<3.14.1>
+THE BOOK OF THE PHANTOM REALM
+[Collected at the Phantom Realm.]
+(A book about the Phantom Realms.)
+
+This is to inform those who would descend to this place.
+
+Those with no skills should not attempt this.
+The Phantom Realms is a testing ground.
+For those with shoddy skills, only death awaits.
+
+Those with no desires should not attempt this.
+Should you proceed all the way inside, the superb item within is useless to
+those with no desires.
+
+If this is all right, then proceed.
+*******************************************************************************
+<3.14.2>
+BLACKSMITH'S MEMOIRS
+[Given to Heihachi at the blacksmith's.]
+(A document left behind by the blacksmith.)
+
+The other day, when the things called Genma attacked, the iron ore that I
+ordered was stolen.  Without that iron, we cannot hope to repair the
+drawbridge.
+
+When the owner of Toraya, who ordered the repair job, heard that, he entrusted
+a certain thing to me.
+This item is called "Thousand-mile Oni Powder," and I heard that it was taken
+from the monsters' cargo.  When "Thousand-mile Oni Powder" is burned in a fire,
+a strange pathway of light appears.
+
+Even though the pathway of light leads to the monsters' fortress, I cannot take
+back the iron ore with my strength.  Of course, the pathway of light will be
+closed after a certain time passes.
+
+I do not know anyone courageous enough to go to the monsters' fortress, so
+even now I cannot finish the repair of the drawbridge.
+*******************************************************************************
+Copyright 2004 Matt "Namahage" Hirao.

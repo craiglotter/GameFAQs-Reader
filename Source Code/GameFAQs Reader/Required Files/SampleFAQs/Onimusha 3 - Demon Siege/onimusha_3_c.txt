@@ -1,0 +1,3078 @@
+/------\  \     | ------- |\      /| |     | |-----  |    | /------\   ------|
+|      |  |\    |    |    | \    / | |     | |       |    | |      |         |
+|      |  | \   |    |    |  \  /  | |     | |-----| |    | |      |   ------|
+|      |  |  \  |    |    |   \/   | |     |       | |----| |------|         |
+|      |  |   \ |    |    |        | |     |       | |    | |      |         |
+\------/  |    \| ------- |        |  \---/   -----| |    | |      |   ------|
+
+     |\   |---- |\    /| /-----\ \    |   |---- ------  |---- |----- |----
+     | \  |     | \  / | |     | |\   |   |        |    |     |      |
+     |  \ |     |  \/  | |     | | \  |   |----|   |    |     | ---| |
+     |  / |---- |      | |     | |  \ |        |   |    |---- |    | |----
+     | /  |     |      | |     | |   \|        |   |    |     |    | |
+     |/   |---- |      | \-----/ |    |    ----| ------ |---- |----- |----
+##############################################################################
+              FAQ/Walkthrough created by Aaron"Samurai Gamer"Luther
+                                Version 1.60
+         Email corrections or suggestions to slipknotrulz5@hotmail.com 
+##############################################################################
+Version .10
+Date:6/20/04
+status:Just beginning what could be a really long walkthrough
+
+version .20
+Date:6/21/04
+status: finished about one-third of story and finished a few character bios
+
+version .30
+Date:6/22/04
+status:Finished controls and characters, half of the genma, a thrid of dark 
+realm.
+
+version .40 
+Date: 6/23/04
+status: Finished story, finished weapons,armor, and items, finished
+half of dark realm, finished Genma
+
+Version .50
+Date: 6/24/04
+Status:finished two thirds of the dark realm,Finished basics
+
+Version .60
+Date:6/25/04
+Status:Started walkthrough
+
+Version .70
+Date:6/26/04
+Status:continued working on the walkthrough
+
+Version .80
+Date:6/28/04
+Status:Still working on the walkthrough. Its going to be a while before i get
+this entire thing done
+
+Version .90
+Date:6/29/04
+Status: still on the walkthrough
+Projected finish date:July 6 or 7
+
+Version 1.00
+Date:7/1/04
+Status:Added two new sections to extras, continued walkthrough
+
+Version 1.10
+Date:7/2/04
+Status:contiuned walkthrough
+Projected finish date:July 7
+
+Version 1.20
+Date:7/4/04
+Status: Happy 4th of july, continued walkthrough
+
+Version 1.30
+Date:7/5/04
+Status:Finally finished main walkthrough
+
+Version 1.40
+Date:7/6/04
+Status:Almost done with Dark realm, about 3/4 done with extras section
+Projected finish: 7th of july (if not then i wont be able to get it finished 
+until the 11th or 12th beacuse i am going to Indiana for 4 days starting on 
+the 8th)
+
+Version 1.50
+Date:7/7/04
+status:Im finally finished will the guide, spell check will be done later.
+TOTAL NUMBER OF DAYS:17
+
+Version 1.60
+Date:2/11/05
+Status:I finally got off my ass and fixed corrections and did some spell check.
+##############################################################################
+Table of Contents
+
+I.Introduction
+  a.Email content
+  b.About this guide
+II.Legal Permisson
+III.Story
+IV.Characters
+  a.Samanosuke Akechi
+  b.Jacques Blanc
+  c.Michelle Obear
+  d.Ako
+  e.Henri Blanc
+  f.Heihaci Honda
+  g.Ranmaru Mori
+  h.Guidlenstren
+  i.Hashiba Hideyoshi
+  j.Nobunaga Oda
+v.Controls and Attacks
+  a.Samanosuke
+  b.Jacques Blanc
+  c.Michelle Obear
+  d.Basic attacks
+  e.Basic controls
+VI.Genma
+VII.Weapons,Armor & Items
+  a.Weapons & Armor
+  b.items
+    1.Health & Magic
+    2.Ako's vests
+VIII.The Basics
+IX.Walkthrough
+  a.Opening
+  b.Honnoji temple
+  c.Arc de Triomphe
+  d.Mt.Hiei
+  e.Sewer
+  f.Sakai
+  g.Notre Dame
+  h.Undersea Temple
+  i.Notre Dame (Michelle)
+  j.Zoo (Michelle)
+  k.Zoo (Samanosuke)
+  l.Mont-Saint-Michel
+  m.Lake Biwa
+  n.Azuchi Castle Area
+  o.Azuchi Castle
+  p.Eiffel Tower
+  q.Honnoji Temple
+X.Extras
+  a.Rankings and titles
+  b.Costumes
+  c.Mini-Games
+   1.Oni Target Practice
+   2.Adventures of Heihaci
+     a.Sakai
+     b.Undersea temple
+     c.Return to Sakai
+   3.Oni Training
+     a.In-game sessions
+     b.Mini game
+   4.Genma Puzzle Space
+     a.Onimusha 1 puzzles
+     b.Onimusha 2 puzzles
+     c.Onimusha 3 puzzles
+  d.special ending
+XI.The Dark Realm
+  a.Undersea Temple (Jacques)
+  b.Undersea Temple (Samanosuke)
+  c.Mont-Saint-Michel (Jacques)
+  d.Mont-Saint-Michel (Samanosuke)
+  e.Honnoji Temple (Jacques)
+  f.Honnoji Temple (Samanosuke)
+XII.Websites using this guide
+XIII. Credits 
+##############################################################################
+I.Introduction
+
+Hello, Welcome to my walkthrough of Onimusha 3:Demon Seige for the PS2.This is
+the final game is Capcom's epic Onimusha series. The first Onimusha game was a
+major sucess, becoming one of the first PS2 games to sell over one million
+copies in the United States.The graphics were one of the hot selling points
+for the game.In 2002, Capcom released Onimusha 2: Samurai's Destiny. The 
+graphics and gameplay was deeply improved from the original game. The game
+was a huge sucess in Japan selling one million copies in a short amount of 
+time.However, the game wasnt as big of a sucess in the United States.Fans
+of the series wanted 3D backround instead of the pre-rendered backrounds used
+in the first two games. Capcom decied to use 3D backrounds in their onimusha
+fighting game, Onimusha:Blade Warriors. The 3D backrounds were a nice change
+but the game overall was a big disapointment.On April 27, 2004 Onimusha 3 was
+unleashed on the gaming public. The graphics alone was a huge selling point 
+for the game, and were one the best, if not THE BEST graphics for the PS2. 
+In my opinion this game was a perfect ending for a damn near perfect series.
+This is my first attempt at a walkthrough, so please bear with me.
+
+A.Email Content
+
+As I listed on top, if you have any suggestions or corrections feel free to 
+email them to me at slipknotrulz5@hotmail.com.Please dont send viruses, spam, 
+emails the criticizes my walkthrough or anything of that nature. If you do send
+an email, label it Onimusha 3 FAQ
+
+B.About this Guide
+
+This guide is a complete walkthrough of Onimusha 3. It includes characters, 
+enimies, mini-games, a detailed walkthrough of the main game, and much more.
+##############################################################################
+II.Legal Permission
+
+This guide is copyrighted under my name so no one can use this guide on a 
+website other than GameFAQs.com unless i have been given notice and i permit
+it. If you so choose, you can print the guide off and share it with other 
+people.
+##############################################################################
+III.Story
+
+In 1560, Japan was in a brutal war between states. Nobunaga oda, a powerful 
+warlord from Owari set out to control japan. On one fateful day on the plains
+of Okehazama, Nobunaga's immense army fought and defeated the combined forces
+of Daimyo Sueneaga,A Suruga warlord Yoshimoto Imagawa,and a Mino warlord Dosan
+Saito.However during the battle a stray arrow hit Nobunaga in the throat. With
+Nobunaga's death, his army fell into chaos. A young warrior, named Samanosuke
+Akechi who was involved in the batttle was given a letter written by Princess
+Yuki of the Saito clan. She said Inabayama Castle was under attack. Samanosuke
+rushed to protect Yuki, but it was too late. She had been kidnaped by evil 
+demons known as genma.
+As Samanosuke searched for Yuki, he came along a clan of ogres know as the
+Oni. The Oni needed Samanosuke to defeat the genma and seal the souls in a 
+special gauntlet they had given him. Samanosuke went to Inabayama castle and
+ran into a rather intelligent genma known as Guildenstern. Guildenstern told
+him that Nobunaga wasnt dead, he was brought back to life by the genma to
+serve them as a slave. Samanosuke knew he had to defeat Nobunaga Before he 
+could conquer Japan.
+Samanosuke slaughtered thousands of genma, and sealed the souls into the Oni
+gauntlet. Inside the castle, he comes across the demon realm but isnt 
+capable of getting in. He manages to find a way in and kills the demon/insect
+queen Hecuba. Before reaching the end of the realm Samanosuke finds a 
+mysterious weapon. The weapon was the Bishamon Sword, it used to belong to the
+japanese god Bishamon who subverted the demons in the past. Samanosuke then 
+comes across princess Yuki. As he was about to save her, all of a sudden 
+from an underground tunnel emerges the genma king, Fortinbras. Fortinbras then
+summons Nobunaga to finalize a dark ceremony to seal a victory for the demons
+over the Saito clan. Samanosuke makes sure this doesnt happen and slays 
+Fortinbras. As Samanosuke and Yuki tried to escape, Fortinbras awoke and 
+grabbed Samanosuke. He crushed Samanosuke,but the blood the came out of 
+Samanosukes mouth landed on the gauntlet and in explosion of light Samanosuke
+transformed into the Onimusha. He finished off Fortinbras and stared down 
+Nobunaga as the realm collapsed. Samanosuke disappeared, and hasnt been seen
+since. 
+Nobunaga, however, wasnt killed and came back as the demon king. His army
+overtook Inabayama castle and renamed it Gifu castle. He rebuilt his demon
+army and destroyed village after village. Nobunaga slaughtered all who opposed
+him and anyone that could be the next Onimusha. Nobunaga also learned of an
+ancient tie between the Oni and the Yagyu clan of Mino. He became worried that
+the next Onimusha might come from that clan so he went out and destroyed it.
+The young leader of the clan Jubei Yagyu raced back to the village but it was 
+too late. As he was looking for who did this, a voice called out for him. He 
+went to see who it was, and appeared an Oni woman named Takajo.He thought she  
+was responsible, but then she said Nobunaga Oda was the one who did this. Then
+she said that she was Jubei's mother and Jubei himself was part Oni. Takajo
+told him about the five Oni orbs and then she gave him the ability to absorb
+the genma souls. Jubei knew that his destiny was to defeat Nobunaga and avenge
+the Yagyu clan.
+Jubei went to the small mining town of Imasho. There he met three warriors
+Ekei Anakoji, Magoichi Saiga, and Kotaro Fuma. He also met a beautiful woman
+who headed to the mines with out saying a word. Jubei followed her to the mine
+and found out that the mines were infested with genma. He fought his way 
+through the mines and came across some sort of warp device. He entered this
+and was transported to Gifu castle. He killed the genma in his way, and saw
+Tokichiro kinoshita trying to restrain the woman Jubei saw earlier in Imasho.
+Jubei helps her out of the situation and the two rode back to Imasho. There he
+finds out the womans name is Oyu. She has the same goal to kill Nobunaga. As
+Jubei looked around in Imasho he met a evil demon woman named Jujudormah. She
+said she was going to Yagyu village to kill Takajo. Jubei gave chase but it 
+was too late. Jujudormah did the damage and Takajo lies her close to death
+and she says that she still wanted more time with her son. Takajo then 
+dies and evaporates. Jubei now knew that Takajo was his true mother and he
+would stop at nothing to kill all the genma and Nobunaga.
+Jubei continued his journey and traveld to an Oni palace. Their after several
+incidents including Oyu's confession that she is Nobunaga's sister. Jubei
+still trusts her though and they search through the palace. They both come
+across an Oni battle ship. The problem is that Tokichiro has already taken 
+over the ship. Jubei and Oyu manage to find a way on to the ship and force
+Tokichiro off it. Unable to pilot the ship, they decide to take it to Gifu 
+castle and crash it into the castle. Jubei makes his way into the demonized
+part of the castle and finds Nobunaga. Nobunaga claimed it was too late, he 
+already transfered all of his power into the golden evil statue. Nobunaga then
+transforms into his genma king form. Jubei manages to kill nobunaga, but 
+Nobunaga's spirit flies into the statue and brings it to life. Jubei is sucked
+inside the demon realm for the final showdown. He summons the power of the 
+five orbs and the power of the Oni. This allows him to be transformed into the
+Onimusha. He uses this power to defeat the statue. Before jubei leaves
+Nobunaga's spirit says he will be back.
+Nobunaga makes good on his promise and is resurected to the become genma king
+once again. With a genma army threatening, Mitsuhide Akechi, a former ally
+to Nobunaga leads a rebellion against Nobunaga at Honnoji temple. Mitsuhide's
+army wouldnt stand a chance against the demons,but they have a powerful ally
+themselves. After ninteen years Samanosuke Akechi makes his return to help his
+uncle Mitsuhide defeat the genma once and for all. This is were the events in
+the game start unfolding.
+##############################################################################
+IV.Characters
+
+A.Samanosuke Akechi
+His full name is actually Hidemitsu Samanosuke Akechi. Samanosuke was the 
+first to be summoned by the Oni to defeat the genma. He did just that and 
+slayed the genma king Fortinbras. But he disappered that day. Nineteen years
+later Samanosuke returns to finish off Nobunaga once and for all. His journey
+takes a major detour when a time portal sends him to Paris, France in 2004.
+
+B.Jacques Blanc
+A French policeman who has had life full of tragedy. Not only did his wife die
+but he is a part of the toughest crime unit in Paris. As he is off to work he
+gets a message that there is major problem. He goes to find demons in modern
+day paris. As he fights to protect his fellow policemen and soliders, a time 
+portal envelops him and takes him to japan in 1580. Now he must find a way 
+back to modern france before its to late.
+
+C.Michelle Obear
+One of Jacques fellow police officers and fiancee.Though very beautiful she is
+very well trained with firearms. But Jacques son Henri doesnt take to kindly
+to her. She tries to keep up with defending paris and trying to look after
+Henri while Jacques is missing.
+
+D.Ako
+A tengu assigned to look over Samanosuke and Jacques while they are in 
+different times. Though she seems youthful she is actually several thousand 
+years old. Ako has many different abilities including time travel. She uses
+this to give Samanosuke and Jacques information pertaining to what is going on
+in the other time periods. She also has other abilities depending on what 
+vest she is wearing.
+
+E.Henri Blanc
+Jacques very gifted son. Because of his strong bond with his father, he can 
+sense when his dad is in trouble even though he is 500 years in the past.
+Henri has trouble accepting Michelle as Jacques fiancee.
+
+F.Heihachi Honda
+Heihachi is based of a real life japanese hero. In this game he is allied with
+Nobunaga. He is a master of the spear. Though he is order to hunt down the two
+Oni warriors, he'd rather fight in a traditional samurai battle. He has 
+trouble taking orders from the genma.
+
+G.Ranmaru Mori
+The young head retainer of the oda clan. He trains to be a powerful samurai
+but it still naive to the fact that his dream is years away. He is very 
+ambitous and will risk his life for Nobunaga.
+
+H.Guildenstern
+The genma scientist who now serves under Nobunaga. He is always trying to 
+create new creatures to defeat the oni warriors. During his works he finds
+the ability to traverse time. He develops a time folder to allow the genma
+to travel back and forth through time.
+
+I.Hashiba Hideyoshi
+Previously known as Tokichiro Kinoshita. He has risen to power of general of
+the oda army. He eventually chages his name to Hideyoshi Toyotomi and unifies
+Japan under the strict shogunate. Because of his greed, its highly doubtful
+that he is fully allied with Nobunaga, he only cares about his rank in the Oda
+army.
+
+J.Nobunaga Oda
+The formerly dead leader of the Oda clan. He came back after being defeated by
+Jubei Yagyu and is more powerful than ever. He is determined to conquer japan.
+After he conquers an area, the survivors are enslaved and either pledge 
+loyalty to him or die by his sword. Nobunaga is ready to defeat Samanosuke
+and conquer whatever is left of Japan.
+##############################################################################
+V.Controls (the attacks listed are the attacks that are for that character
+only)
+
+A.Samanosuke Akechi
+Attack List
+------------
+Archery-R1 + X
+Ten Slash-thrust attack connects then square (requires proper timing)
+
+B.Jacques Blanc
+Attack List
+--------------
+Oni Bind-Sqaure after weapon is charged
+Oni Bind Shoot-Sqaure after sucessful oni bind
+Oni Bind Throw-Up or Down + Sqaure after Oni Bind
+Oni Bind Kick-X after Oni Bind
+Oni Bind Bind-Triangle after Oni Bind
+Firefly Jump-R1 + X when near a firefly
+Throw Object-R1 + x when near a throwing object
+
+C.Michelle Obear
+Attack List
+--------------
+Throw Grenade-Triangle (reqiures Grenade)
+
+D.Basic Attack
+Normal Attack-Sqaure
+Thrust-Up + Square
+Slash Lift-Up + Square (Close range only)
+Running Slash or Tackle-Sqaure (When Running)
+Finisher-Sqaure (when next to a downed enemy)
+Kick-down + sqaure
+Charge weapon-R1 or Sqaure
+Critcal-Sqaure just before enemy attacks
+Chain Critical-Sqaure after critical
+Deflect Critical-Square after deflecting attack
+Guard-L1
+Magic Attack-Triangle while oni weapon is equipped
+
+E.Basic Control
+D-Pad-Movement
+Left Joystick-Movement
+Right Joystick-Change lock on
+R3-Onimusha mode
+Start-Menu screen/Skip cut-scene
+Select-Pause
+Sqaure-Attck
+Triangle-Use magic/Cancel
+Circle-Absorb Souls
+X-Check/Decide
+L1-Guard
+L2-Map View
+R1-Draw/Charge Weapon
+R2-180 degree turn
+##############################################################################
+VI.Genma
+
+Swordsman
+-----------
+Returning for the third game these guys are the easiest to defeat with just a
+few normal slashes. Also a good way to get critcal points.
+
+Archer
+-----------
+Another easy kill. only one hit will take them out but they are usually on a 
+high cliff and can be a pain to reach.
+
+Axeman
+-----------
+A new form of zombie. These genma are tougher then the swordsman. They also
+have more variety of attacks and cause more damage. They take about twice as
+many hits as the swordsman to kill.
+
+3-Eyes
+-----------
+These quiet and stealthy demons can be a handful in groups but they are pretty
+easy to take out when they come one at a time.
+
+Dark Crow
+-----------
+An enhanced version of the 3-eyes. The have a tri-blade claw for weapons. They
+have higher stamina and strength but still are an easy kill
+
+Dark Spider
+-----------
+The enhanced version of the Dark Crow. These genma can create a double image
+of themselves. Easily blockable, they can be killed with a flurry of normal
+attacks.
+
+Fugaku
+----------
+These giant genma are really powerful, but not to smart. They swing their club
+around and take out surronding genma. If Fugaku appear in groups avoid them
+until they essiantally destroy each other. If they are alone use either magic 
+or a charged attack to kill them.
+
+Batochaika
+-----------
+These small water dwelling genma are very easy to kill, as long as you avoid
+them in groups. Their only attack is to fire water projectiles, which are
+easily blocked.
+
+Batobone
+-----------
+These water dwellers are the enhanced version of the batochaika. Their main 
+attack is to swipe repeatedly with their claws. Its pretty easy to kill these
+genma with normal attacks or if they fall use a finisher
+
+Dark Puppet
+-----------
+These ghostly creatures first appear as a pile of armor, but when someone
+comes near them they take shape. They can be a problem because they can block
+and counter very well. Be patient with attacks, or when they release a magic
+missle hit it at the right momemt to send it back at him causing lots of 
+damage.
+
+Fobora
+-----------
+Simialr to the Dark puppet, these creatures first appear as only a pile of
+armor. Their attacks are realitivly the same as the dark puppet. Use the same
+attacks on them and use their magic missle attack against them.
+
+Nerofobora
+-----------
+These genma are the same as the fobora, the only difference is that these 
+genma only appear in the fight with Guildenstern. Because Guildenstern summons
+these guys alot, they are difference maker. They can be killed in the same way
+that you kill the Fobora.
+
+Zmoh
+-----------
+These large genma are usually found in the zoo. Their attacks include pouncing
+on you, charging at you, and swiping with their claws. They have high strength
+and stamina so it will either take a magic attack or a charged attack to take
+them out.
+
+Grizmoh
+-----------
+A different version of the zmoh. These creatures have the same aspects of the 
+Zmoh so they should be handled in the same way.
+
+Gajimaro
+-----------
+These genma pose as dolls. They hide in side treasure boxes and when the lid
+is opened they jump out of the box and run around. Since they are so small
+they are hard to hit and Ako cant lock on to them. If you dont kill them in
+time they will disappear with the contents of the box.
+
+Babian
+-----------
+These are the female version of the Gajimaro. They do have an attack, they
+jump in the air an spin. The blades under their skirts do the damage. Again 
+they act the same way as Gajimaro.
+
+Zorm
+-----------
+These are a version of the swordsman, but with four arms. They have the same 
+strength and stamina of the swordsman so they should be a pretty easy kill.
+
+Gilzorm
+-----------
+The enhanced version of the Zorm. They have more strength and stamina then
+the zorm but are still weak enough to not be a serious threat.
+
+Zagat
+-----------
+These genma are similar to the three-eyes but they have two blades on each of
+their main arms and they have four arms. They are quiet fast and have a spin
+attack that hits multiple times. A charged attack is the best method of
+killing them.
+
+Zabiet
+-----------
+An enhanced version of the Zagat. They still have four arms but in place of
+twin blades are dual hook blades. They have fast reflexies and can block 
+normal attacks very well. A charged attack is the best way of killing them.
+
+Dordo
+-----------
+These genma are a force to be reckon with. They have plenty of stamina and 
+power. Their weapon of choice is a massive spinning drill blade. If you are 
+knocked to the ground they will repeatedly attack as you lie their helpless.
+The best way to deal with these genma is magic attacks.
+
+Dordio
+-----------
+These are probably the toughest non-boss genma in the game. They have more 
+strength then the dordo, and they attack more ferociously. They have the same
+weapon as the dordo but they use a magic attack by firing an air blade similar
+to the Kuga weapon. Again the best method for these genma is magic.
+
+Zolworm
+-----------
+These jelly-like Genma are usually found in the sewers of paris. Their only 
+attack is to stretch out to hit you. This move is easily avoided. If you use 
+normal attacks their is a good chance they will break into gera, use charged 
+attacks to prevent this.
+
+Gera
+-----------
+These are tiny portions of Zolworm. They appear mostly after a Zolworm breaks
+down. They only attack by jumping on your character but it causes minimal
+damage. The best way to get rid of the Gera is to just step on them.
+
+Gacha
+-----------
+These are huge, slow moving, destructive genma. They use a massive ball and
+chain for a weapon. This weapon has a wide range so it is hard to avoid. 
+Because they are slow its possible to get behind them and hit them with 
+charged attacks. Use magic whenever they are in large groups.
+
+Dongacha
+-----------
+These are an enhanced version of the Gacha. They have spiked ball and chain,
+and they use the horn on their head to charge across the room. They have the
+same weapon range as the gacha but are more vicious. Use charged or magic
+attacks to get rid of them.
+
+Bhaza
+-----------
+These genma are really annoying. They dont have much attack power and can be
+killed in only a few hits. Since they are flying they are harder to reach,
+Jacques can reach them using his whip but Samanosuke has to use arrows to 
+take them out.
+
+Gyaran
+-----------
+These genma make a return for a thrid time. These are the big floating balls
+of skulls. The can only attack by swooping down and draining the character of
+either life or magic. They also can absorb souls of recently defeated enemies.
+It is best to either use vertical attacks or arrows to kill them.
+
+Bazu
+-----------
+Another returning genma. These creatures carry huge machetes and roll up in 
+a ball if there is too much space between them and you. They can be a pain
+when they are in groups which they usually are in. Normal attacks should be
+enough to get rid of them.
+
+Dorabazu
+-----------
+These are the enhanced version of the Bazu. They carry bigger blades and can
+roll for a longer period of time. They can hit more and change direction while
+in a ball. They appear in groups so the best method is to knock them down and
+use a finisher to take them out.
+
+Ouija
+-----------
+These genma are really dangerous because they usually appear when other much 
+larger genma are around. They have two different attacks, they can send out
+a blue ring which binds you and drains souls. Their second attack is to 
+release an orange ring which constricts you and does damage, it also allows 
+other genma to attack. If these are around other genma take these guys out
+first.
+
+Bera
+-----------
+These are plant genma. They only have one attack where they snap at you. They 
+can only be taken out with a Oni weapon, so the Oni whip and normal sword 
+have no effects. They can be easily taken out with normal attacks.
+
+Nuraubis
+-----------
+These are another type of plant genma, much larger then the bera. They can 
+push their roots up through the ground and attack that way. They can also spit
+out poison spores. They best way to destroy them is to use magic or arrows.
+##############################################################################
+VII.Weapons, Armor, and Items
+
+A.Weapons and Armor
+Samanosuke's Weapons
+----------------------
+Normal Sword-This is the most basic of weapons. Because it has no magic or
+charge abilities it is almost useless in later stages of the game.
+
+Raizan-The thunder sword from the first onimusha game appears briefly the
+first time you play the game. It still employees the same thunder attacks but
+it has no charge attack.
+
+Enryuu-Another reconizable sword from the first game. This fire sword has the 
+same affects as the first game but it is only used briefly. It also has no 
+charge attacks.
+
+Shippuu-The double-ended wind sword is back. Again just like the two weapons
+above it is only used briefly and has no charge attacks.
+
+Tenso-This weapon is actually two swords that use the power of light to strike
+down opponents. Its magic attack is to stike mutiple times with both swords,
+but the attack only affects one enemy at a time. This weapon is located by in
+the shrine by the Arc de Triomphe.
+
+Kuga-A long sword that uses the power of air for magic. Because of its length
+it can kill several enimies at a time. It is also the easiest weapon to
+preform the ten slash combo. Its magic attack is to launch a flying wind blade
+at enemies. At level three it launches to two blades. This weapon is located
+in the statue inside Notre Dame.
+
+Chigo-A battle axe that is powered by volcanic earth. Its weight causes it to
+have a slow swing but it makes a huge impact. Its magic attack is to have lava
+erupt around eneimies with a certian distance of Samanosuke. It has a powerful
+charged attack where Samanosuke spins around reapeated bashing enimies.This 
+weapon is located in the undersea temple.
+
+Bishamon Sword-The mystersious sword of the Japanese god Bishamon is back. 
+This weapon still employes the same devastating attacks. This weapon is found 
+in the dark realm by Honnoji temple. The problem is that you can only use
+this weapon inside the dark realm.
+
+Onimusha Sword-This sword was given to Samanosuke by the Oni. It employes the
+strength of the tenso, kuga,and chigo. Depending on what level those weapons
+are at determines what power level the sword will be at. You will recieve this
+weapon for the final battle against Nobunaga.
+
+Samanosuke's Armor
+------------------
+Red Armor-This suit of armor was given to Samanosuke by his uncle Mitsuhide
+at Honnoji temple.
+
+Jacques Waepons
+---------------
+Model 90-this is the gun you use in the first part of the game. Its relitivly
+fast at 20 shots in two second. To aim hold R1 and hit square to fire.
+
+Oni Whip-This is the weapon given to Jacques by the Oni when he comes to
+Japan. This weapon can only be charged to level one and has no magic. Its 
+useless later in the game.
+
+Enja-This sword/whip has the power of fire. It uses multiple fire strikes in
+its magic attack. If used in the oni bind it send a streak of fire down the 
+blade and into the enemy. It can be found at mount Hiei at the shrine.
+
+Raisen-This spear/whip has the power of thunder. It has magic similar to the 
+raizan sword. If a genma is in the bind move with this it will send a thunder
+shock to that opponent. This weapon is located in the blacksmith shop at 
+Sakai.
+
+Hyosai-This is a morningstar/whip with the power of ice. This weapon is the 
+heaviest but it hits the hardest. In its magic attack it slams into the ground
+freezing enemies around you. This weapon is found in the undersea temple.
+
+Ultimate Whip-This weapon is the whip enquivelent of the bishamon sword, 
+except that this weapon was created by the genma. This weapon is so strong 
+jacques can bind up and throw any enemy. If used with magic it has devastating
+effects. This can be found in the dark realm by Honnoji Temple.
+
+Jacques Armor
+-------------
+SA Coat-This coat might not seem like much but it is bullet-proof and when 
+upgraded it can reduce damage to Jacques.
+
+Michelle's Weapons
+------------------
+Assault Rifle-This is similar to Jacques Model 90. It is slightly more 
+powerful and fires more bullets. It becomes useless later on though.
+
+SPS 15+S-This is an assault shotgun. It is powerful only at close range
+but it can damage multiple enemies.
+
+SPS 15+R-This is a modified SPS with a high caliber rifle fire and laser
+mounted sight. This weapon has the best accuracy of all michelle's weapons but
+it can only attack one enemy at a time.
+
+SPS 15+G-This is the most powerful weapon in Michelle's arsenal. This gun 
+fires fragmented grenades. The weapon has a lot of kick and slow reload but
+it can take out multiple enemies.
+
+Grenade-These hand grenades are thrown when you press triangle. These can do 
+damage to enemies in groups or stun larger enemies long enough to shot at 
+them.
+
+B.Items
+1.Health and Magic
+------------------
+Herb-Restores a small amount of health
+Salve-Only appears in france, works the same as an herb
+Medicine-Restores a medium amount of health
+First-Aid kit-Only appears in france, works the same as a medicine
+Secret Med-Restores most of the health
+Ultra Med-Restores all health and magic
+Oni Med 1-Restores a small amount of magic
+Oni Med 2-Restores a medium amount of magic
+Oni Med 3-Resotres a large amount of magic
+Oni Jewel-Increases amount of magic that a character can hold
+Power Jewel-Increase amount of health a character can have
+Wood Charm-Revives a character after death
+Statue charm-Same as Wood charm
+
+2.Ako's Vests
+-------------
+Blue vest-Located in Mt. Hiei by the charred temple. Allows you to absorb 
+souls faster. Requires 2 Ecospirits.
+
+Red vest-located in the room in the sewer where all the zolworms appear. It is
+in the room at the end of the isle.The vest increases the number of red souls.
+Requires 2 Ecospirits.
+
+White vest-Located in the alley behind the merchants shop in Sakai.Regains
+your health when you stand still.Requires 4 Ecospirits.
+
+Green vest-Located in the isle at Notre Dame. Allows you to absorb souls of
+living genma by pressing circle. Requires 4 Ecospirits.
+
+Yellow vest-Located in the study behind the library in the undersea temple 
+during the present time.It forces more souls out of Genma with every attack.
+Requires 5 Ecospirits.
+
+Orange Vest-Located on the top tower of Mont-Saint-Michel in 1582. This 
+creates a life bar above enemies you are fighting. It also indicates when a 
+critcal should occur. Requires 6 Ecospirits.
+
+Purple Vest-Located in the dark realm of Mont-Saint-Michel in the present.This
+vest reduces magic consumption by 50%.Requires 6 Ecospirits.
+
+Black Vest-Only accesible when the critical training session is complete. This
+vest makes every attack a critcal, but it reduces the characters life by 50%.
+Requires 8 Ecospirits.
+##############################################################################
+VIII.The Basics
+
+Save Often
+Usually if their is a save mirror around their is a good reason for it. Also
+save when ever their is a boss near by.
+
+If you have souls,Enhance weapons
+If you are by a save mirror and you have red souls, no matter how many, use 
+them to enhance your weapons, armor, and gauntlet.
+
+Look Thoroughly
+If you are in an area, dispatch the enemies and look around to make sure you 
+havent forgotten any documents or item boxes.
+
+Horde recovery items
+Get plenty of recovery items early and only use them when needed. You will
+need plenty of these later in the game.
+
+Archers
+Take out these guys first before dealing with the other enemies. This will 
+make the battle much easier because you wont be staggering so much.
+
+Fighting in groups
+The best method of this is to single out enemies one at a time and try to 
+"lure" them away from the group. If you cant do this then the next best idea
+is to use magic.
+
+Charged attacks
+This attacks are a good substitute for magic. Use this by pressing down R1 
+and holding it until the weapon glows blue. Use these attacks against larger
+enemies.
+
+Onimusha Mode
+Use this mode when you have five purple souls then press R3. This will make 
+your character invincible for a short period of time and will make your 
+attacks twice as strong. Only use this mode during boss fights or when your 
+completely surronded by larger enemies.
+##############################################################################
+IX.Walkthrough
+
+A.Opening
+Right away when you put in this game you watch an absolutly beautiful cut
+scene. The scene starts with a narrator taking about a rebellion at Honnoji
+temple, and Nobunaga calls for reinforcements. The army goes out to help, as
+we see a "ninja" ready to infiltrate the Genma tank. The ninja goes inside 
+to launch an attack when his position is given away by some genma. He quickly 
+dispatches the genma with a fire sword a continues on. He makes his way into 
+what seems to be the nerve center of the tank, but two large genma appear 
+before him. He fights with the two genma, but during the battle one of the 
+genma's spears rips off the mask of the ninja to reveil its Samanosuke Akechi, 
+like you didnt know that before. Then a voice calls out to stop, and another 
+genma appears. The genma is known as gargant, apparently Samanosuke has fought
+him in the past. Gargant and Samanosuke begin fighting and during the battle 
+Samanosuke is thrown on the control platform where the giant nerve leads to 
+the brain of the tank. Samanosuke winds up and slices through the nerve 
+causing the tank to implode. When the dust settled the only things left 
+standing are Samanosuke and Gargant surronded by thousands of genma souls.
+Samanosuke absorbs these souls and transforms into the onimusha. Gargant
+charges Samanosuke but is cut down. Gargant laughs as he falls creating a huge
+explosion. At Honnoji temple Nobunaga senses what happened and says one word,
+Samanosuke...
+In present day France we see a french policeman, Jacques Blanc, leaning up
+against his bike. He makes a phone call to his son Henri telling him to wake 
+up to go school. His call is interrupted by a radio transmisson from his 
+fellow police officer, Philippe. Philippe tells jacques to get here quick,
+there is a huge problem. In downtown paris, a woman tries to enjoy her coffee
+but all of a sudden thousands of genma drop on to the streets and slaughter
+citizens left and right.
+
+B.Honnoji Temple
+At Honnoji temple we see Mitsuhide Akechi, Samanosuke's uncle, ready to storm
+Honnoji temple with his troops. He sees Samanosuke standing among the troops.
+Samanosuke comes forward and one of Mitsuhide's troops hand him some armor. 
+The gate flies open and get ready for battle. You are already equipped with
+the Raizan,Enryuu, and Shippuu at max level, so is your gauntlet. Quickly get
+rid of the archers on the other side of the courtyard, then cut down all the 
+other genma. Once the swordsman are gone, a few 3-eyes genma will attack. Once
+you get rid of these guy head up the stairs. There you will see two soliders
+fighting a large Gacha. Use a magic attack to get rid of this enemy. Before 
+you go up the steps, grab the map on the west side of the courtyard and grab
+the herb under the stair well. Their is also a save mirror by the stairs and
+a magic well nearby. Save if you want to and replenish your magic at the well.
+Head up the steps and take care of the Gacha at the top and head inside. Watch
+the cut scene as somebody kneeling next to Nobunaga says he will take care of
+Samanosuke. He addresses himself as Ranmaru Mori, head retainer of the oda 
+clan.
+
+BOSS BATTLE-Ranmaru Mori
+Difficulty:Laughably Easy
+I dont know if you could really consider this a boss battle because it is so 
+early in the game and it is so easy. All of Ranmaru's attacks are blockable 
+and he is extremly easy to score a critcal against. Ranmaru suffers a lot of 
+damage when a magic attack is employed. After only a few magic attacks or 
+critcal attacks Ranmaru with be defeated.
+
+Seperate Stratgey:An even easier stratgey is to transform into the onimusha
+since you have the five souls. Just keep using the onimusha magic attack and 
+Ranmaru will fall quickly.
+
+After the fight Ranmaru will fall. Samanosuke turns his attention to Nobunaga,
+but nobunaga launches a green energy bolt at Samanosuke and goes over to 
+finish him off but a dark circle opens up and engulfs Samanosuke and the body
+of Ranmaru. Then Samanosuke and the body dissapear.
+
+C.Arc De Triomphe
+Back in France, Military comes in to help as Philipe does his best to fight
+off genma. They shoot down a couple genma but, they become overwhelmming and
+kill the soliders and slash Philipe. They surrond Philipe, but Jacques comes
+flying over a couple cars with his bike and takes out a couple genma. He
+starts shooting. Now take control of Jacques and shoot down all the zorm that
+you encounter. Once you finish them off, Jacques sees a bright light come from
+the alley. Samanosuke appears in the alley, now take control of Samanosuke.
+Their is a save mirror at the end of the alley so save if you want to or try
+the new training sessions. By the mirror is a crate, smash through it and take
+the salve out off the box. Walk up to the gate to trigger a cut scene were 
+Samanosuke helps out Jacques. They dont understand each other so Samanosuke
+walks off and jacques goes off to help philipe. Then the same dark dark circle
+that engulfed Samanosuke appears and transports Jacques and Philipe. 
+Samaosuke realizes he's stuck, but he looks up to see a familiar face,
+Guildenstern.When you take control of Samanosuke kill the genma that attack
+and go to the end of the sidewalk and down the stairs into the subway. Work
+your way through the subway, killing the genma along they way. Once you make
+it to the end go up the stairs and you arrive at the Arc De Triomphe. Grab the
+normal arrows and the map. Kill of the annoying flying Bhaza, and head to the
+monument with the flames. When you come to the monument, the flames turn 
+yellow and the monument moves to unveil a stair case. Walk down these stairs
+and go up to the statue to get a new weapon, The dual tenso swords. Once you
+come out of the monument, Samamosuke gets shot at by a woman police officer
+and several soliders. The woman known as Michelle Obear tries to talk to 
+Samanosuke but he still cant understand her. Then several soliders go inside
+the Arc De Triomphe, as Michelle dispatches the other soliders to go with 
+them. Michelle realizes that Samanosuke cant understand her, and a scream can 
+be heard from inside the Arc.Michelle goes to see and finds all the soliders 
+dead. She is then attacked by a genma and is knocked unconscious. Samanosuke
+arrives in time to dispatch the genma and take Michelle outside. Once the
+scene is over, head back inside and pick up the Observation key on the ground.
+Go up the spiral staircase, killing genma along the way and unlock the door at
+the top. Once you get upstairs,there is several genma inside so get rid of 
+them before continuing. There is apuzzle box in the room. Here is the solution 
+to the puzzle:
+    
+           +---------------------------------+
+           |          |           |          |                                  
+           |    1     |    2      |    3     | 
+           |          |           |          |
+ +---------+---------------------------------+
+ |         |          |           |          |
+ |  Start  |    4     |    5      |    6     |
+ |         |          |           |          |
+ +---------+---------------------------------+---------+
+           |          |           |          |         |
+           |    7     |    8      |    9     |  Finish |
+           |          |           |          |         |
+           +---------------------------------+---------+
+1.Move 1
+2.Move 4
+3.Move 7
+Reward:Power Jewel
+
+Once your finished go to the end your the smashed brown cases are and absorb
+the souls from the soul statue. Go to the save mirror and save your game and
+enhance your tenso if you want to. Go up the steps and watch the cut scene as
+Samanosuke encounters an old foe, Guildenstern. Guildenstern explains that
+they are 500 years after the age of warring states. With insults flying back
+and forth, Guildenstern summons his new creation, Brainstern.
+
+Boss Battle-Brainstern
+Difficulty:Easy
+Brainstern usually starts the fight by using his gatling gun to blast away the
+structure you are behind. After he does this go up and strike his arm panels
+with magic to release souls. After you destroy one or both arm panels the 
+robot will spread its arms and spin like crazy. Avoid this attack and keep 
+striking the robot. In a last effort Brainstern will extend its arms to shove
+Samanosuke away and will launch missles. Watch the shadows for the of the 
+ground to avoid the missles. Any time you have an open oppurtunity use either
+a magic attack or a charged attack and brainstern will fall sooner or later.
+
+D.Mt. Hiei
+Back in Japan the time rift opens up spilling Jacques and Philipe out. Jacques
+goes to help Philipe but Philipe says that he rather die in the arms of his 
+family and then gives Jacques a farwell then Philipe dies. Now once you gain
+control of Jacques keep walking through the forest path. You can save by the
+save mirror if you want. Keep walking until Jacques hears a scream, he rushes
+to find his son Henri being attacked by a Gacha. Jacques tries to help but is
+out of bullets. Then his arm starts to glow and a gauntlet appears. He also
+gains the oni whip and the onimusha scroll. Once you have these items in hand
+go over and take out the Gacha. This Gacha is less powerful then others so 
+this is a perfect oppurtunity to practice your oni bind move. Once you get rid
+of the enemy jacques goes over to help Henri, but he evaporates and an Oni
+appears before him. The oni tells him that he gave him the gauntlet and the
+whip and the only way to return back to his time is to defeat all the Genma.
+The oni then assigns a Tengu named Ako to look over Jacques. Jacques is highly
+reluctant to accept the help of Ako and the quest in general. Make your way 
+throught the other areas and you come across a burned temple. Kill all of the
+genma, and you meet a familiar face...Samanosuke. To avoid any confusion, 
+Jacques appeared ten days before the event at Honnoji temple. Jacques 
+immediatly blames Samanosuke for sending him to the past. Jacques then tells
+Samanosuke the story of why he is here. Samanosuke and Jacques shake hands and
+continue on together. Before leaving the area go inside the first burned 
+building to get an herb, and smash through the brown box to get an Ecospirit.
+These are essential for using Ako's different vests. Inside the second 
+building there is a training scroll on the ground and there is a box that
+contains Akos first vest, the blue vest. Behind the second house is a tengu 
+box. Once ako says she found it press x to recieve an herb. Coninue along the 
+path until you come across a shrine. You cant do anything with this yet so go
+down the path that isnt being blocked. Kill the flying Bhaza that are around,
+and open the red treasure box to get the Firefly scroll and release a firefly.
+Walk up to the edge of the cliff and position yourself until the firefly turns
+green. Then press R1 and x to grab the firefly and travel across the gap. On 
+the other side break the brown box to release three more fireflys and use them
+to make it across to the broken bridge. By the large buddha face there is a
+box containing the Dokan scroll. Go down the ladder and smash the other brown
+box to release yet another firefly. Past that is another treasure box 
+containing the Bronze mirror. Use the fireflys to return to the shrine area.
+Place the bronze mirror in the hole and the shrine will glow. You then will 
+recive a new weapon, the Enja, a fire sword/whip. Now backtrack down the path.
+You might have seen some plants blocking a small alcove on the way up, cut 
+through the plants and pick up the gate key. Once you get the key a gacha 
+appears. Either kill the gacha or head back up the path. Once you get back up
+to the shirne cut down the plants blocking the other path. Head down the path
+cutting down the genma plants along the way. You will eventually come across
+Samanosuke fighting genma in front of a gate. Help out samanosuke and use the
+gate key to open the gate. Once you get inside, smash the crate to release a 
+firefly to get to the top platform. On the platform you can get a mission 
+scroll, an ecospirit, and a medicine. Once yur done head down the path into 
+the next area. Defeat the 3-eyes and the Gyaran before proceding. Walk up to
+the building and save before entering. There is also a puzzle box outside.
+Here is the solution:
+
+                  +---------------------------------+
+                  |          |           |          |
+                  |     1    |     2     |     3    |
+                  |          |           |          |
+        +---------+---------------------------------+
+        |         |          |           |          |
+        |  Start  |     4    |     5     |     6    |
+        |         |          |           |          |
+        +---------+---------------------------------+---------+
+                  |          |           |          |         |
+                  |     7    |     8     |     9    |  Finish | 
+                  |          |           |          |         |
+                  +-------------------------------------------+
+
+1.Move 1
+2.Move 4
+3.Move 5 
+4.Move 8 
+Reward:Power Jewel
+
+Head inside Lazuline hall and watch as a fimilar foe appears, Ranmaru Mori. He
+introduces himself to Samanosuke and tells him that Nobunaga already knows 
+about Mitshuide's rebellion. Ranmaru then dispatches a Genma that Onimusha 
+veterans will recognize, Marcellus. Samanosuke runs after Ranmaru while
+Jacques stays behind to take care of Marcellus.
+
+Boss Battle-Marcellus
+Difficulty: Easy
+This Marcellus is Different from the old Marcellus. Because it is in such a 
+closedin area he isnt anywhere near as fast as the old Marcellus. The first 
+thingthat needs to be done is to destroy the shield. This can be done with 
+magic orcharged attacks. After the shield is dstroyed, Marcellus will 
+transform his sword. His attack are to swing the sword, preform an overhead 
+chop and his most powerful attack is to engulf the entire room in purple 
+lighting. If you see his sword turn purple, use the firefly in the middle of 
+the room to jump out of the way and preform Jacques chop attack. After you 
+run out of magic, use charge attacks to get rid of him.
+
+After the battle Ako says that she is going to check on future Samanosuke,
+reveiling a new power to jacques. She curls up in a big glowing ball and 
+disappears.
+
+E.The Sewer
+Back in Paris, Michelle wakes up to see Samanosuke. She points her gun at him
+but Ako appears out of no were. She explains that Jacques is 500 years in the
+past. She then uses one of her powers to allow Michelle and Samanosuke to 
+understand each other. Michelle reveils that she is Jacques fiancee. After 
+Michelle is done talking she gets a radio transmisson saying there is monsters
+in the sewer. Michelle asks for Samanosukes help to save the soliders. Once 
+the scene is over you can follow Michelle to the sewer or go back inside the
+Arc de Triomphe to retrive a tengu box on the observation deck. Once your
+finished join up with Michelle and head down into the sewer. Dispatch the 
+genma you first encounter and then pick up the Sewer key by the fallen solider
+and use it to unlock the red door. Enter the sewer and defeat the slug like
+zolworm and gera. Once you get rid of them enter the first door and watch as
+Michelle sends parting words to her fallen commrade. Pick up the memo to cheif
+on the console the go to the shining red light on the console to the right.
+Have Michelle reconnect the power, and use the save if you want before you 
+leave. Head over to bridge and hit the button to lower it. Go across to get
+the Sewer map and head to the next room. Slice up the the Zolworm that await
+in the room. Smash the barrel in the room to get an Ecospirit. Go to the side 
+of the room that has an isle way. Go to the end and open the box, and a Babian
+jumps out. Kill the genma before it escapes with the salve. Past the box
+is a smaller room. Smash the barrel in that room to get an Ecospirit and 
+behind the Barrel lies Ako's red vest. Go back into the main part of the room
+and climb the ladder. Get the worker memo on the desk, when you read it, it
+simpily lists some items inside the control room. Before you head down the 
+ladder get the charged attack training scroll and shoot down the genma pod to
+get another Ecospirit. Go back down the ladder and shoot down the other genma
+pod to get 20 fire arrows. Go over to the door in the middle of the wall, 
+there is a number combination that has to used to open the door. Refer back to
+the worker memo. Head back to the control room and count the number of items 
+or if your too lazy the combination is 314. Once out side there is a puzzle 
+box, here is the solution:
+
+              +--------------------------------------------+----------+
+              |          |          |          |           |          |
+              |     1    |     2    |     3    |     4     |  finish  |
+              |          |          |          |           |          |
+    +---------+--------------------------------------------+----------+
+    |         |          |          |          |           |
+    |  start  |     5    |     6    |     7    |     8     |
+    |         |          |          |          |           |
+    +---------+--------------------------------------------+
+              |          |          |          |           |
+              |     9    |     10   |     11   |    12     |
+              |          |          |          |           |
+              +--------------------------------------------+
+
+1.Move 3
+2.Move 7
+3.Move 6
+4.Move 5
+5.Move 1
+Reward:Oni Jewel
+
+Climb down the ladder and make your way through the muck defeating the water
+dwelling Batobone and Batochiako. Get to the other side and climb the ladder
+and pick up the object on the ground, it is the iron handle. Go back into the
+previous room and climb the ladder. Go to the large console and put the iron 
+handle in the hole. Turn the handle to open  the large gate inside the room.
+Go into the room abd two Zolworms will drop down. Defeat them and use the
+console in the room to turn on the power to that side of the sewer. Go back
+out and lower the bridge. Cross the bridge and use the save mirror on the 
+other side. In the next section climb down the ladder back into the muck and
+go to the end. Get the first aid kit out of the tengu box in the garbage. 
+Get back on the platform and use the ladder to go up in the small room. There
+is a green bax on the floor but Samanosuke cant open it. Go over to the chain
+and swipe it. This will cause a giant wooden ball to fall into the muck. Then
+Michelle will get a transmission that her friends need help. Get down into the
+muck and start pushing the giant wooden ball down the sewer. Genma will appear
+in the tunnel so stay close to the ball dont try going after the genma. Try 
+using electric arrows to immbolize them and keep pushing. If you stop pushing
+the water level will rise and cause Samanosuke's health to drop rapidly.
+Once you make it to the end, if you made it in time the officer will give you
+a key. When you went pack up the platform there was a locked gate, go back and
+unlock the gate and obtain a power jewel. Also shoot down the genma sack on 
+the ceiling to get an ecospirit. If you didnt make it in time you dont get the
+key and miss out to get a power jewel. Once your done go up the ladder and 
+enjoy the fresh air.
+
+F.Sakai 
+Once you get out of the sewer, watch the scene as the phone that Samanosuke 
+found on the ground rings and Michelle assumes its Jacques. She seems 
+dissapointed and says that it is Jacques son, Henri. Michelle, Samanosuke, and
+Ako head over to Jacques house. Michelle tries to explain what happened and 
+then tries to comfort henri, but he wants nothing to do with Michelle. Ako
+decides to go check on Jacques. Jacques remains to the same building and gets
+up to find a way back home but hears a beeping coming from a box. He uncovers
+a wristwatch from his time. Samanosuke shows up a recognizes the symbol on the
+box and says it is form the town of Sakai. Jacques goes over to Sakai to see 
+if anyone knows anything about the genma. Once the scene is over walk around
+and talk to people or go over to the to two tigre statues and cut the head off
+the one on the left to get an Ecospirit. Right across from the protective 
+mirror is a vase. Smash the vase to release a firefly. Use this to get on the
+beach and find the puzzle box. Here is the solution to the puzzle:
+
+           +----------+---------------------------------+
+           |          |           |           |         |
+           |  Start   |     1     |     2     |    3    |
+           |          |           |           |         |
+           +----------+---------------------------------+
+                      |           |           |         |
+                      |     4     |     5     |    6    |
+                      |           |           |         |
+                      +---------------------------------+----------+
+                      |           |           |         |          |
+                      |     7     |    8      |    9    | Finish   |
+                      |           |           |         |          |
+                      +---------------------------------+----------+
+
+1.Move 6
+2.Move 5
+3.Move 8
+4.Move 9 
+5.Move 6
+Reward:Oni Jewel
+
+Back on the street go inside the shop but dont talk to the shop owner. Go out
+the back door to get Ako's white vest. Go back inside to get the Jubei Rmr 
+on the wooden platform and smash the clay pot and tigre's head to get two
+ecospirits. There is also a tengu box containing a oni med level one. Now talk
+to the store owner. Jacques will ask him about the watch but the owner denies 
+ever seeing it and forces Jacques out of the store. Go over to the kid looking
+in the pot and he says he will let you have what is in the pot if you trade
+him for something sweet. Go over to the watermelon salesmen and trde your 
+watch for a piece of watermelon. Go back to the kid and give him the food. Go
+to the pot and pull the firefly from it. Use it to get to through the window
+on the upper floor of the store. The store owner is talking to a worker and 
+the worker mentions something about monsters. The store owner calls them 
+clients. Once they leave grab the blacksmith key on the loft and drop down and
+head outside. All of a sudden a swarm of Genma invade the village. Cut down
+the genma and go behind the store. Follow the path down the alley and a few 
+archers and a Fugaku will block the store. Finish these guys off and grab the
+training scroll. Use the Blacksmith key and go inside. Go over to the shrine
+and recive another weapon, the Raisen, a lightning spear/whip. Go back to the
+main street and go out the large door at the end of the bridge. Because part 
+of the street is blocked off you have to go around by using the piers. Once 
+you get to the door, use the raisen to unlock it. Pick up the Hideyoshi Rmr 
+and the time lab 1 which guildenstren writes about his time experiments. Once
+you go out of the room, on the other side of the street a Gacha smashes 
+through some baoxes blocking a set of stairs. Their is a room past the stairs
+that has two ecospirits in clay jars and a soul statue. Exit the room and 
+Jacques and Samanosuke find a ship that could lead them to the genma hideout.
+Jacques spots something and recognizes that it is his motorcycle but they a 
+encounter Heihachiro Honda, or Heihachi for short. He says that he is allied
+with the Nobunaga and will prevent you from getting on the ship, and the ship 
+begins to move.
+
+Boss Battle-Heihachi
+Difficulty:Easy
+Though Heihachi has good defense, this battle is easy because Samanosuke helps
+out. There is almost no good strategy to defeat him except for Critical hits
+or try to get him between Samamosuke and yourself to use magic. If you try 
+magic he might side step this attack and it will waste magic. Be aware that 
+Heihaci also has magic, so just keep a strong defense and the battle should be
+easy.
+
+Heihachi will run off after the fight, but now Samanosuke cant reach the ship.
+Jacques runs over to the motorcycle bu there is no key. Ako decides to go to
+france to retrive it. Back in france Henri sense something is wrong and grabs
+the motorcycle key from the wall just as Ako appears. He gives the key to Ako
+even before she says anything. Ako transports back and gives the key to 
+Jacques. He revs up his motorcycle and blasts down the dock. He hits a jump
+but it looks like his jump is short but he extends the whip and grabs hold of
+the side rail. The bike lands in the water but Jacques land safely on the 
+deck. Regain control of Jacques and wait for the genma to climb the steps then
+kill them. Go down to the main dock and gid rid of the fugaku. Smash the 
+barrel on the main deck to release a firefly. Use the firefly to go up to the
+mast and swing over to the crows nest to find the puzzle box. Here is the
+solution:
+
+             +-------------------------------------------+
+             |          |          |          |          |
+             |     1    |     2    |    3     |    4     |
+             |          |          |          |          |
+  +----------+-------------------------------------------+----------+
+  |          |          |          |          |          |          |
+  |  Start   |     5    |     6    |    7     |    8     |  Finish  |
+  |          |          |          |          |          |          |
+  +----------+-------------------------------------------+----------+
+             |          |          |          |          |
+             |     9    |     10   |    11    |    12    |
+             |          |          |          |          |
+             +-------------------------------------------+
+
+1.Move 1
+2.Move 5
+3.Move 6
+4.Move 7
+5.Move 11
+Reward:Power Jewel
+
+Head back to the main deck and go through the door by the cannon. At the top 
+of the stairs is the genma notice and map. Go down the stairs and slash the
+picture of Guildenstern to find a treasure box. Once you open the box a 
+gjimaro jumps out. This doll will dissapear and reappear until it is killed. 
+Once you get rid of it get the wheelhouse key. Use it to open the door at the
+other end of the room. Inside there is a soul statue, absorb the souls and
+open the treasure box to get the log book. There is also another puzzle box.
+Here is the solution:
+
+           +-------------------------------------------+
+           |          |          |          |          |
+           |    1     |    2     |    3     |    4     |
+           |          |          |          |          |
++----------+-------------------------------------------+----------+
+|          |          |          |          |          |          |
+|  Start   |    5     |    6     |    7     |    8     | Finish   |
+|          |          |          |          |          |          |
++----------+-------------------------------------------+----------+
+           |          |          |          |          |
+           |    9     |   10     |    11    |    12    |
+           |          |          |          |          |
+           +-------------------------------------------+
+
+1.Move 1
+2.Move 2
+3.Move 3
+4.Move 7
+5.Move 6
+6.Move 2
+Reward:Wood Charm
+
+Once your done go out of the wheelhouse and watch and the ship gets a little 
+rocky. Your now headed to the Genma hideout.
+
+G.Notre Dame
+Back in France Ako tells Henri what had happened to Jacques and says that 
+Jacques says thank you. Michelle then gets a phone call thinking it might be
+Jacques but it is for Samanosuke. She hands the phone over and Samanosuke 
+hears the manical laugh of Guildenstern. He tells Samanosuke to come to the
+basement of Notre Dame. Once you get there, you need to have your tenso at 
+level 2 or higher to break to seal. If you dont have enough, go down into the 
+sewer and kill the Batobones and Batochakia. Outside Notre Dame is another
+training scroll and smash the trash can to get an ecospirit. Head inside the 
+cathedral. By the door is a treasure box containing a first-aid kit. In the 
+corner near the statue with the two sets of candles lit there are two urns.
+Smash these two to get an Ecospirit. Make your way up the isles killing the
+zorms and zagats along the way. At the end of one aisle is a treasure box but
+a babian jumps out. Kill the doll to get a salve. In the other corner there is
+a soul statue and tengu box containing 20 ice arrows. In the middle aisle at
+the very end is a treasure box containing Ako's green vest. Go up to the altar
+and pull the odd red piece on the side of the altar. This will cause the altar
+to raise and reviel an underground crypt. Walk down the steps and in the first
+room shoot down the genma sacks on the ceiling to get an Ecospirit and an 
+herb. Continue into the next room. There are giant spinning blades in this 
+room so wait in the small alcove and wait for the blade to pass and then run
+following the blades. Run until you see another alcove housing a statue. Push
+the skull in and cause the blades to stop spinning and raise a gate in the 
+room. Once you do this a group of Bazu appear. Get rid of these genma before 
+procedding. There is also a puzzle box, here is the solution:
+
+               +--------------------------------------------+
+               |          |          |          |           |
+               |    1     |    2     |    3     |    4      |
+               |          |          |          |           |
+    +----------+--------------------------------------------+
+    |          |          |          |          |           |
+    |  Start   |    5     |    6     |    7     |    8      | 
+    |          |          |          |          |           | 
+    +----------+--------------------------------------------+----------+
+               |          |          |          |           |          |
+               |    9     |    10    |    11    |    12     |  Finish  |
+               |          |          |          |           |          |
+               +--------------------------------------------+----------+
+
+1.Move 7
+2.Move 6
+3.Move 10
+4.Move 11
+5.Move 12
+6.Move 8
+Reward:Oni Jewel
+
+Go through the newly opened gate and defeat the Bazu the appear at the
+intersection. Smash the glass globe in the center to get the Anti-dark charm.
+Go to the left and shoot down the genma sacksto get and Ecospirit and an herb.
+Then go to the right and shoot down another genma sack to get another 
+ecospirit. In the treasure box there is a document called the dark parchment 
+which talks about four statues shorded in darkness. Return to the cathedral
+and use the anti dark charm to absorb the darkness surronding the statues. You
+must absorb the statues in the correct order. This is determined by the the 
+number and sets of candles lit. If you do this out of order you will be struck
+by lightning causing damage and you will also have to start over. If you
+do this in the right order, the orb in the griffin statues mouth will glow. Go
+up to the griffin statue to get the Kuga sword. Return to the crypt and back
+to the area were you found the anti-dark charm. You can now enter the door 
+sealed by the green orb. Inside this room, there are more spinning blades but
+you cant stop these blades from spinning. Use the same technique of waiting 
+for the blades to pass then follow them. The first alcove is blocked by bera 
+plants so slash these quickly. Move from alcove to alcove, one alcove has a
+door but it is locked. Continue until you find a treasure box containing a 
+rope ladder. Also inside an alcove holds a puzzle box. Here is the solution:
+
+             +--------------------------------------------+
+             |          |          |          |           |
+             |    1     |    2     |    3     |    4      |
+             |          |          |          |           |
+  +----------+--------------------------------------------+
+  |          |          |          |          |           |
+  |  Start   |    5     |    6     |    7     |    8      |
+  |          |          |          |          |           |
+  +----------+--------------------------------------------+----------+
+             |          |          |          |           |          |
+             |    9     |    10    |    11    |    12     |  Finish  |
+             |          |          |          |           |          |
+             +-------------------------------------------------------+
+             |          |          |          |           | 
+             |    13    |    14    |    15    |    16     |
+             |          |          |          |           |
+             +--------------------------------------------+
+
+1.Move 8
+2.Move 12
+3.Move 11
+4.Move 10
+5.Move 6
+Reward:Statue charm
+
+Take the rope ladder back to the intersection and go right. Use the rope 
+ladder to climb down the pit and retrieve the gold skull. Head back to the 
+blade room and go over to the locked door. Use the skull to unlock the door.
+Before entering the door, replensih your magic at the well and save. Watch as
+Guildenstern says this is what he wanted to show Samanosuke, the time folder.
+Guildenstern says that you will die here and summons two Dordo genma. The best
+way to get rid of them is to use magic. Once this is over get the time lab 3
+and the 20 electric arrows from the tengu box. Walk up the steps and use the 
+teleporter to chase after Guildenstern.
+
+H.Undersea Temple
+Samanosuke appears at what seems to be the genma hideout. Ako quickly notices 
+the ship next to him and says that it is the same ship that Jacques took. Ako
+decides to go check on Jacques but some reason she cant pass between times. 
+This is one of the more complex stages in the game because you control Ako's
+ability to go back and forth between times. Before going through the door on
+the opposite side of the room, go up on the ship and get the oni med 1 on the 
+upper deck. Exit the ship and Go through the door on the opposite side of the
+room. Inside the circular room there is a save mirror, a magic well, and a 
+new device known as a time folder. Pick up the timefold tablet from the   
+treasure box. This exlpains how to use the time folder. Go up the steps on to 
+the middle platfromand take the yellow disk from the lantern with the yellow 
+flame. This will cause the stairs to retract. Take the yellow disk over to the
+time folder. Access the folder and use the store option and highlight the 
+yellow disk. Then select warp to send Ako back in time. Jacques is shown just
+arriving off the ship. Ako appears to tell him that the future Samanosuke is 
+in the same place. Take the yellow disk and defeat the genma that welcome you.
+Go into the circular chamber and put the yellow disk into the yellow lantern.
+The stairs will rise back up. Go through the door, you will notice the chamber
+is flooded, so use to firefly to jump the gap. Take out the archers and you
+will notice a dragons head off to the side of the door. Come back to this 
+later and enter the chamber. Once you enter pick up the Ancient slab and the 
+time lab 2. Once that is done Ranmaru Mori will apppear and make reference to 
+a time machine. Jacques demands to know were it is but Ranmaru just says find
+it yourself but watch out for the gaurd dog. After the scene take out the 
+dark crow that appear and enter the elevator and press x. Inside the library 
+several archers and a Fugaku will be waiting. Run past these genma and to the
+book shelf with the red slabs on it. Use the ancient slab you found and know 
+you have to solve this math puzzle so the numbers equal 22. The solution is
+5x4+3+1-2=22. Once the passage has been open it makes it easier to take out
+the Fugaku without taking damage from the archers. Go inside the chamber and 
+go to the right and open the box to release a firefly. Use the firefly to take
+out the archers on the top platform. On the top platform there is an oni 
+tortise tablet and a tnegu box contianing a medicine. There is also another 
+regular treasure box containing the Left dragon horn. Once you get the items
+you have two options either go back to the elevator or go back into the secret
+passage and take a left. Go to the end of the passage and wait for a few 
+seconds. A mysterious litte man will drop down and offer to take you to the 
+dark realm. If you decide to go, see the dark realm section in the guide for
+information. By completeing the dark realms also determines your final grade
+at the end of the game. Go back down the elevator to the workshop and you will
+encounter a new genma, the dark puppet. This genma can be killed with either 
+magic or charged attacks or just deflect its magic missle back at him to cause
+lots of damage. Leave the workshop and go to the drgaon head. Use the horn to
+reset the head and it will drain the chamber. Jacques comes to the conclusion
+that it might also be happening in the present. Go back to the time folder
+and send Ako back in time. Now in the present you can go through the yellow 
+door and the chamber wont be flooded. Defeat the Zagat at the bottom of the 
+ramp and get the Secret med from the box. Go up the stairs and enter the door
+and because they have no power to the place the elevator doesnt work and the 
+force field surrounding the statue is gone. Grab the bluse disk to trigger the
+cut scene. Guildenstern appears and shows Samanosuke something intresting.
+Samamnosuke turns around to find a new and imprved Ranmaru Mori. After his 
+death, Guildenstern revived him as a genma.
+
+Boss Battle-Genma Ranmaru Mori
+Difficulty:Easy
+Ranmaru has a few new attacks but they are all blockable. He is quite fast so 
+it makes it harder for Samaanosuke to land a hit. One new dangerous attack is 
+Ranmaru jumps in the air and launches an energy ball, again this is blockable.
+If you manage to land a critical or magic attack Ranmaru will release souls.
+Dont absorb these just yet, Ranmaru will try to absorb these and this gives
+you a perfect oppurtunity to strike with a magic onslaught. This is probably
+one of the main keys to winning this fight. It should be pretty easy to defeat
+Ranmaru.
+
+After the battle, Ranmaru hasnt died but he has run off. Take the blue disk 
+back to the circular room and insert it into the blue lantern. Go though the
+blue door. Once you only take a few steps into the room, the glass will begin
+to crack. Once you come to the turn, take a few seconds to line yourself up 
+with the middle of the hall. Then press and hold up on the d-pad to run like 
+hell because the glass just shattered and water is pouring in. The second you
+make it to the the hit x to enter the room. There is another dragon head in 
+this room but it is missing the right horn. Go up the stairs and go to the 
+blacony. Get rid of the Bhaza before smashing the cartes. Once you smash the
+crates a Drodo appears, use magic to take him out. Go over to where the crates
+were and pickup the right dragon horn. Use the horn on the dragon head to 
+drain the chamber. Return to the circular room and take the blue disk and send
+it and Ako back to Jacques. When Jacques gets the disk use it to raise the 
+stairs by the bluse door take the same path that Samanosuke took earlier.
+Use the firefly to cross the broken stairs. There is a puzzle box around, so 
+here is the solution:
+
+             +--------------------------------------------+
+             |          |          |          |           |
+             |    1     |    2     |    3     |     4     |
+             |          |          |          |           |
+             +--------------------------------------------+
+             |          |          |          |           |
+             |    5     |    6     |    7     |     8     |
+             |          |          |          |           |
+  +----------+--------------------------------------------+----------+
+  |          |          |          |          |           |          |
+  |  Start   |    9     |    10    |    11    |    12     |  Finish  |
+  |          |          |          |          |           |          |
+  +----------+--------------------------------------------+----------+
+             |          |          |          |           |
+             |    13    |    14    |    15    |    16     |  
+             |          |          |          |           |
+             +--------------------------------------------+
+
+1. Move 9
+2. Move 10
+3. Move 11
+4. Move 7
+5. Move 6
+Reward:Oni Jewel
+
+Once you complete the puzzle, defeat the dark puppet to release three fireflys
+but dont use them just yet. Continue to cross gaps until you come across a 
+shrine. Use the shrine to obtain another new weapon, the Hyosai, a mace/whip.
+Go back down the way you came in and into the room with the purple seal on the
+door. Use the Hyosai to unlock the door. There is a firefly on the ground but 
+it is missing its wings. Head back to the time folder and send Ako back to 
+Samanosuke. In the present, lead Samanosuke back to the generator room. 
+Because there is now power, go to the end and pickup the firefly wings. Once 
+again go send Ako to Jacques with the firefly wings. The blue door has 
+mysteriously become shrouded in a dark cloud so return to the ship and use the
+fireflys to get to the generator room. Use the firefly wings on the firefly
+and jump over the pistons. Steal the power crystal to stop the pistons from
+moving. When you leave the room, we see Heihachi fighting off genma. Jacques 
+sees this and all Heihachi does is laugh. Return to the ship and go to the 
+time folder. Send the power crystal to Samanosuke. The same dark cloud covers
+the door but you can absrob the cloud. Return to the generator room and place 
+the power crystal in its holder. This will cause the pistons to move but much
+slower then before. If you time it right when the pistons slam together you 
+should be able to slip past. In the room use the elevator to go to a lower 
+chamber. Smash the crates and get an Ecospirit in the process. Go to the 
+shrine to get a new weapon the chigo, an axe powered by lava. Cut down the 
+enemies that appear. Return to the circular room and go through the yellow 
+door. Use the elevator to go up to the library. Once you try to get to the 
+passage, a dongacha appears. Destory it with magic or charged attacks. Use the
+chigo to open the door. Inside you will find a temple tablet, Ako's yellow 
+vest and the red disk. Once you leave, now is your oppurtunity to send 
+Samanosuke to the dark realm. Go to the same place were Jacques went for the 
+dark realm. Go back to the circular room and use the red disk to go through 
+the red door. Samamosuke cant get to the end but there is a puzzle box, here
+is the solution:
+
+           +---------------------------------------------+
+           |          |          |          |            |
+           |    1     |    2     |    3     |     4      |
+           |          |          |          |            |
+           +---------------------------------------------+----------+
+           |          |          |          |            |          |
+           |    5     |    6     |    7     |     8      |  Finish  |
+           |          |          |          |            |          |
++----------+---------------------------------------------+----------+
+|          |          |          |          |            |
+|  Start   |    9     |    10    |    11    |    12      |
+|          |          |          |          |            |
++--------------------------------------------------------+
+           |          |          |          |            |
+           |    13    |    14    |    15    |    16      |
+           |          |          |          |            |
+           +---------------------------------------------+
+
+1. Move 14
+2. Move 10
+3. Move 11
+4. Move 7
+5. Move 6
+6. Move 5
+Reward:Power Jewel
+
+Go back to the circular room and take the red disk to Jacques. Once Jacques 
+has the disk insert it into the lantern and go through the red door. Cross the
+gap that is at the end and open the door. Inside the a huge two headed dog 
+moves and wakes up. Jacques says this must be the guard dog.
+
+Boss Battle-Gertrude
+Difficulty:Easy/Medium
+The goal of this battle is to destroy the helmet covering the right head of 
+the beast. This dog has several different attacks including a frezzing breath,
+a charge attack and lightning strikes. If you get the oppurtunity try to bind
+the ring on the either helmet and hit triangle to send magic across to the 
+head. If your backed up against the wall and gertrude charges, try to side
+step this and gertrude will slam into the wall knocking herself out. This will
+be the perfect oppurtunity to strike with magic. If you are ever trapped use 
+the fireflys to get out of the jam. If you manage to destroy the helmet you 
+will win the battle, but be aware that the next fight with gertrude wont be so
+easy.....
+
+After that the glass will begin to crack, jacques and ako find a stair way to
+escape the water. Work your way up the stairs and kill the genma on the steps.
+Once you get to the top, Jacques finds genma train. He boards the train in 
+hopes of finding more information to get back home. Samanosuke is still in the
+undersea temple so once you get control of him take him to the same room were
+Jacques fought gertrude. You can now cross the gap by floating platforms. Once
+you get into the room a scene takes place were Genma Ranmaru attacks. He says
+he has found a new way to get rid of Samanosuke. Then a green bolt strikes 
+down Samanosuke and a green light traps him. Ranmaru then reveals he says that
+you will changed into a genma. Samanouske tries escaping but dissappears.
+
+I.Notre Dame (Michelle)
+Back in France, henri gets a feeling that something is wrong with Jacqes and 
+Samanosuke. He tries to leave but Michelle doesnt want him to. He pushes her
+out eof the way and runs. Michelle searches and comes across Notre Dame and 
+believes Henri went inside. Take control of Michelle and defeat the zorms that
+are outside the temple. Grab the soul bracelet from the box by the gate. This 
+will now allow Michelle to absorb souls. Head inside and defeat all of the 
+genma that appear. Follow the same path the Samanosuke took to reach to the 
+room with the transporter. Once you get into the room, two dordo's will attack
+you. Use evasive moves and grenades to defeat the two genma. Onced you beat 
+them go into the area were the dordos came out of and get the paris report 
+from the shelve. This mentions Boulogne Zoo as a holding place for human 
+experiments. This is were Michelle believes Henri was taken to. The next scene
+is Ako and Michelle in Michelles car driving to the zoo.
+
+J.Zoo (Michelle)
+Some were inside the zoo is Samanosuke and Henri stuck inside two electrified 
+cages. Henri starts to cry but Samanosuke tells him to be strong and says
+Michelle will come find them. Once you reach the zoo you will encounter a new 
+creature, a Zmoh. These genma are too fast too use grenades, so run up the 
+steps by the gift shop. The Zmoh will try to attack but it cant get up the 
+steps so this is a perfect chance to take them out. Once you take out the Zmoh
+go past the fountain and over to the stairs by the boat dock to pick up the 
+zoo flyer. Back by the fountain there is a trash can, so blast it away to get 
+an ecospirit. By the large staircase is a green box only Michelle can open, it
+contains ten grenades. Once you get to the top of the steps a Zmoh will break 
+out of its box so stay at the top and keep firing. Go over to the end of the
+path and smash the trash can to get and ecospirit. Enter the building, there 
+are two zmohs in glass cages. If you get close they will smash through and 
+attack. Because it is more confined your grenades should be more effective. 
+Also grab the get the first aid kit form the tengu box. Go out the building 
+and defeat the bazu that await. If you are low on health, equip akos white 
+vest and stand behind the panda cut out to heal you faster. There is also 
+another ecospirit in the trash can. Enter the panda house and witness the 
+grizzly scene. Smash the trash can to get another ecospirit and pickup the 
+Mecha Demon book nearby. Use the ladder to climb down into the pit. Go over to
+the device with four levers. Pull the middle left lever to get the boat key 
+and then pull the right lever to get a new gun, the SPS 15+R. This gun is 
+perfect for taking out flying Bhaza with one shot, it is also the most 
+accurate gun you have. If you pull the other two levers two Zmohs will be 
+released and because it is a confined area it can cause a lot of damage. Exit 
+the panda house and make your way back to the boat dock and use the key to 
+start the boat. This will start a cut scene were Michelle starts to think if 
+Henri is ok or not. Then the motor dies and the boat stops moving, then a few
+genma attack. Dispatch these genma and Michelle uses a little brute force to 
+get the engine going. Ince you get to the other side use the save mirror if 
+you want to. Go over to the door and slay the zagats gaurding it and get the 
+first aid kit from the tengu box. Go inside and use grenades and and heavy 
+fire to destroy the Nurabis blocking the door. Go down stairs and watch as 
+Michelle finds Henri and Samanosuke. She tries to find a way to release them 
+but then two Zmohs escape there cages. Run past them and enter the first cage.
+There is another new weapon, The SPS 15+G. This gun fires grenades so it 
+should only take a couple shots to drop the Zmohs. Then go ovver to the red 
+lever on the wall and pull it to release Samanosuke and Henri. Henri happy 
+about being free runs over to hug Michelle but before he could Guildenstern 
+appears and kidnaps Henri and Michelle. 
+
+K.Zoo (Samanosuke)
+Regain control of Samanosuke and pick up the Soul braclet on the floor. Before
+leaving get the first aid kit in the second cage. Return to the boat and go to
+the other side of the zoo. Once you are there a new monster will appear, the 
+dorabazu. Take out these genma before procedding. Go over to the building were
+the zmohs inside the glass cages were and go over to the door. The kuga has to
+be at level two or higher to open the door. Get the Lab building key from the 
+shelve and return to the boat. Go back to the lab building on the other side 
+of the zoo. Once you enter Dorido will be kneeling in front of the door so use
+magic to slay the genma. Use the lab key to unlock the door and head inside. 
+Bazu and Dorbazu will bust out of the glass tubes that they are in. Finish 
+these genma off and enter the specimen room. Pick up the Ten slash scroll and 
+the Mecha Demon 2 book. There is a puzzle box in the corner so here is the 
+solution:
+
+              +--------------------------------------------+
+              |          |          |          |           |
+              |    1     |    2     |    3     |    4      |
+              |          |          |          |           |
+   +----------+--------------------------------------------+----------+
+   |          |          |          |          |           |          |
+   | Start    |    5     |     6    |    7     |    8      |  Finish  |
+   |          |          |          |          |           |          |
+   +----------+--------------------------------------------+----------+
+              |          |          |          |           |          |
+              |    9     |   10     |    11    |    12     | Finish   |
+              |          |          |          |           |          |
+              +--------------------------------------------+----------+
+              |          |          |          |           |
+              |   13     |   14     |    15    |    16     |
+              |          |          |          |           |
+              +--------------------------------------------+ 
+
+1.Move 12
+2.Move 8
+3.Move 7 
+4.Move 6
+5.Move 10
+Reward:Oni Jewel
+
+Make your way to the protective mirror and save because you have a boss battle
+coming up. Enter the door and watch as guildenstern has Michelle and Henri 
+strap to tables and threatens to make them into Genma. Samanosuke arrives just
+in time. Guildenstern sick of Samanosuke decides to take him out by himself.
+
+Boss Battle-Guildenstern
+Difficulty:Easy/Medium
+In this fight Guildenstern will shrink by about have the size and fly around 
+the room. At the beginning he will teleport around the room and when his chest
+glows red he will summon two Nerofobora to help. These guys are almost the 
+same as the Fobora. But they can be a problem. If you elimante them 
+Guildenstern will attack by throwing his staff or swinging it at you. He will 
+randomly regenerate the two NeroFobora. At a point in the battle Guildenstern
+will cause a time portal to engulf the room. This will cause Guildenstern to 
+regain health but he only does this once during the battle. The best way to 
+attack Guildenstern is to use arrows when he is up higher and use magic when 
+he come close to the ground. Try to hit a critcal on guildenstern at the 
+moment that he summons the Nerofobora. This will eliminate the Nerofobora for
+a longer period of time.
+
+Once the battle is over, Guildenstern staggers then falls. He then says
+something about a completed time warp device and he calls it his greatest 
+creation. Samanosuke tries to get out of him the information on were it is but
+Guildenstern dies before he can get the information. Then Michelle and Henri 
+are released. Samanosuke goes around looking for clues and comes across a 
+picture of a cathdedral. Michelle recognizes this as Mont-Saint-Michel. This
+is were Samanosuke believes the time warpdevice is.
+
+L.Mont-Saint-Michel
+Samanosuke,Ako,Henri,and Michelle all get into Michelles car and head over to 
+Mont-Saint-Michel. Henri looks somewhat depressed so ako decides to go check
+on Jacques. Still on the Genma train, Ako asks Jacques for something that 
+belonged to his wife. He hands Ako a ring and Ako goes back to the present and
+gives it to Henri. Ako uses her magic to put Henri in a dream state and He 
+sees his mother. She tells him not to be sad and not to blame himself for her
+death. Henri wakes and is crying, Michelle looks at him and also begins to 
+cry. Just then they come across Mont-Saint-Michel with dark cloud over it.
+Samamosuke and Ako decide to go alone. Gain control of Samaonsuke on the main
+street grab the Ranmaru book and you will soon notice the Time folder. This 
+is another back and forth level between Jacques and Samanosuke. Since there is
+nothing you can do for now. Send Ako back to Jacques. Back in the past, the 
+Genma train comes to a stop, Jacques gets out and finds out that he is also 
+at Mont-Saint-Michelle except in 1582. Heihachi then appears and tries to talk
+to Jacques but he looks up and sees a demon woman and attacks Jacques.
+
+Boss Battle-Heihaci
+Difficulty:easy
+This fight is a little more difficult then before just because Samanosuke is 
+not around to help. Use good defense and magic to beat Heihaci, but like the 
+battle before there is very little strategy in fighting heihaci, just hack and
+slash.
+
+After the fight the some what attractive demon woman (if you could call a 
+demon attractive) jumps down from the building. She tells Heihachi to finish 
+off Jacques but he doesnt want to. He walks off and The demon known as Vega 
+Donna yells at him to get back here. Once the scene is over, go to the front
+end of the train and smash  the box to gain an Ecospirit. The door at the top
+of the steps is locked so use the firelfy to get up to the balcony. Enter the 
+door and find the Mont-Saint-Michel map in the box. Go into the garden and 
+charge up your fire whip. There are four torches on the wall so light three of
+them and then wait until the gate that is moving up and down hits the ground 
+then strike the torch. This should give you plenty of room to get under the 
+gate. Once under the gate, grab the Main gate key. Now wait until the gate 
+hits the ground to swing your sword. If you hit it at the right time it will 
+cause the gate to raise all the way up. Go under the gate and out the opposite
+door. There is a slave being threatened by several genma. Defeat the genma and
+the slave will give you an herb. There is another time folder here so send the
+main gate key to Samanosuke. Now that Samanosuke has the main gate key, you 
+can unlock the green gate at the end of the street. Up the stairs is another
+map to the cathedral. Run up the curved path and go until you run into a 
+nurabis and several zabiets. Finish them off and then pick up the sun crest.
+Return to the main street and use the suncrest to open the other gate. Smash 
+the trash can to get an ecospirit. There is a puzzle box nearby so here is the
+solution:
+
+              +--------------------------------------------+----------+
+              |          |          |          |           |          |
+              |    1     |    2     |    3     |    4      |  Finish  |
+              |          |          |          |           |          |
+              +--------------------------------------------+----------+
+              |          |          |          |           |
+              |    5     |    6     |    7     |    8      |
+              |          |          |          |           |
+              +--------------------------------------------+
+              |          |          |          |           |
+              |    9     |    10    |    11    |    12     |
+              |          |          |          |           |
+   +----------+--------------------------------------------+
+   |          |          |          |          |           |
+   |  Start   |    13    |    14    |    15    |    16     |
+   |          |          |          |          |           |
+   +-------------------------------------------------------+
+
+1.Move 7
+2.Move 3
+3.Move 2
+4.Move 6
+5.Move 10
+Reward:Power Jewel
+
+At the top, looking over ther street is a treasure box contianing the red eye
+stone. There is also a tengu box containing 20 ice arrows. Go back to the 
+street below and send the red eye stone to Jacques. When Jacques recieves the
+red eye stone, go through the double doors near the time folder. Right when 
+you go through the door there is a stone covering with a sun,moon and a star.
+There is also a goats head statue that is missing an eye. Use the red eye 
+stone and push the head in to remove the cover. You have to complete a set of
+three puzzles by walking over tiles in the order of Sun-Moon-Star. Here are 
+the solutions to the three puzzles:
+
++-----+-----+-----+   +-----+-----+-----+   +-----+-----+-----+  
+|     |     |     |   |     |     |     |   |     |     |     |
+|  6  |  7  |  8  |   |  12 |  5  |  4  |   |  8  |  7  |  6  |
++-----------------+   +-----------------+   +-----------------+
+|     |     |     |   |     |     |     |   |     |     |     |
+|  5  |  12 |  9  |   |  11 |  6  |  3  |   |  9  | 10  |  5  |
++-----------------+   +-----------------+   +-----------------+
+|     |     |     |   |     |     |     |   |     |     |     |
+|  4  |  11 |  10 |   |  10 |  7  |  2  |   |  12 | 11  |  4  |
++-----------------+   +-----------------+   +-----------------+
+|     |     |     |   |     |     |     |   |     |     |     |
+|  3  |  2  |  1  |   |  9  |  8  |  1  |   |  1  |  2  |  3  |
++-----------------+   +-----------------+   +-----------------+
+
+If you screw up on a puzzle the cover slams shut and cause damage to you. You 
+also have to restart from the beginning. Once you complete the puzzles the 
+spiral ramp becomes a stair case that allows you to access the doors. If you
+enter the first door the gate keep for the dark realm will be there. If you 
+choose to go to the dark realm and you get the green orb, you have to send it
+to Samanosuke because jacques cant use the green orb to open the chest on the
+first level. Return back to the spiral staircase and smash the two crates at 
+the end. This will release two fireflys, return to the top of the steps and 
+use the fireflys to jump to a bridge. Go through the opened door and drop
+down. Defeat the Nurabis plant and pick up the power jewel. The red door is 
+locked so you will need to find the key. Unlock the gate to get to the stairs.
+Exit the spiral stair case and defeat the enemies that await. Smash the crate
+to get another firefly. Take this one and go to the top of the towers, there
+you can get Ako's orange vest. Return to the time folder and send Ako back to
+Samanosuke. Make your way over to the curved stair case and enter the golden 
+double doors. Slay the Ouija and Zmoh inside the room. The giant machine in 
+the room is the machine Guildenstern was talking about. Pick up the Time lab 4
+and enter the dark circle. This will transport Samanosuke to a parallel 
+universe were the colors are different and the camera will twist and cause 
+some odd visuals, but it is still the Arc de Triomphe. Make your way to the
+entrance and slay the Nurabis in front of it. Work your way to the roof, were
+a powerful combination of Ouija, Gacha, and Dongacha await. Use the Chigos 
+magic attack to eliminate the powerful enemies. Then grab the red key out of
+the box. Another time rift appears so step into it and press x to return back
+to the normal world. Quickly run up the stair case and save your game. If you
+want you can go back to the dark realm, it is still in the same place. If you
+go remeber that you have the green orb to unlock the chest. If you manage to 
+get the purple orb, then return to the time folder and send it and the red 
+key to Jacques. Regain control of Jacques, and if you have the purple orb go
+to the first level of the dark realm. Take out the enemies and get the item 
+from the box. Then return to the stair case. Use the fireflys to make it back
+to the red door. Unlock it and watch the cut scene as Vega Donna orders a few
+slaves to keep working, he then leaves then Jacques comes in and tells them 
+all to leave fast. After they all leave, two Fugaku appear. Eliminate these 
+two and pick up the medicine in the treasure box. Leave the room and Heihaci 
+will appear and throws a key to you. He then says there are more slaves in the
+store room. When you leave several genma are assualting the slaves you freed. 
+Defeat the genma, so that both slaves dont die and get an Herb and a Oni med 1
+then go through the door at the bottom and anohter slave is being assaulted.
+Take out the genma and recieve an Herb. Go back up the spiral stair case and 
+defeat the genma after you go through the doors. The slave up there will give 
+you a Oni med 1. Then use the firefly to return to the garden area. A couple 
+dark puppets will appear so either defeat them or run past them and out the 
+other door. Use the firefly to drop back down to the courtyard. A dongacha 
+will drop out of the skys to prevent you from opening the door. Finish the 
+genma off with magic and use triangular key Heihachi gave you to open the 
+door. Inside several slaves will run when the building starts to shake. They 
+say the cathedrals alive. Pickup the genma plant that was left behind and get
+the secret med from the tengu box. Exit the store room and plant the genma 
+plant in the second square of dirt. Then return to the balcony and send ako to
+Samanosuke. Once you gain control of Samamosuke, the genma plant is already 
+full grown and reaches above the ledge. Use this to get down to the courtyard.
+Destroy the two Zmohs that are there and smash the trash can to get another
+Ecospirit. Enter the store room and defeat the Zmoh that is in there. Smash 
+the boxes and get the iron gear from the treasure box. There is also two 
+Ecospirits in th back of the room, just smash the objects in the corner. go
+back to the courtyard and climb back up to the balcony. Send the iron gear to 
+Jacques. Once you get the iron gear, use it on the set of gears on the side of
+the gate. Once it is in place pull the lever to raise the gate. Defeat the 
+floating Ouija and the Nurabis plant. Pickup the secret med from the box and
+Vega's Diary. Go through the door that is to the left of the platform and keep
+walking until Jacques gets stuck. This will trigger a scene were Jacques is 
+trapped and gas is leaking in. Jacques passes out, and then in the present 
+Henri sense something is wrong and wants to help. Michelle but she knows that 
+Henri needs to help his father. Now you take control of Michelle and your 
+first task is to find Samanosuke. Grab the soul braclet that is outside the 
+door and enter. If you have the SPS 15+G you should be able to blow through 
+the streets with few problems. Now if you try to enter a door but Henri is
+too far behind, Michelle wont advance, just keep that in mind. Make your
+way up to the balcony and find Samanosuke. They inform Samanosuke that Jacques
+is in trouble. Ako then appears and says that Jacques is trapped. Michelle and
+Henri go into the building. Regain control of Samanosuke and get the soul 
+braclet. Save if you want and enter the building. Defeat all the Genma that 
+get in your way and go to the basement. There Henri is trying to crack the
+code on a lock device. He quickly does this and then tells his dad in the past
+to do it just like he did. This next puzzle you have to hit the buttons in 
+certain sequence five times. The buttons will flash on the upper part of the 
+screen, but here is the solution to the puzzle:
+1st lock: up, down, triangle
+2nd lock: up, down, triangle, x, circle
+3rd lock: up, down, triangle, x, circle, down, up
+4th lock: up, down, triangle, x, circle, down, up, square, left, x
+5th lock: up, down, triangle, x, circle, down, up, square, left, x, x, right
+
+After you do that the gas will stop and the door will become unlocked. Once 
+Samanosuke, Henrin and Michelle return to the previous room, Ranmaru Mori 
+appears on a screen. He says that it is almost time to activate the time warp
+device, and the Effiel tower is in the backround. Ranmaru then says you will
+die here so you wont be able to see it, then the machinery begins to explode.
+Once you get to the main street, several strong genma appear including a 
+Dorido. Try not to use magic because the next fight you need all the magic you
+can have. Be absolutly sure that you save before you exit the street. Once you
+exit, what appears to be a large rock explodes to reveil gertrude. Gertrude 
+charges an knocks down Michelle. Get ready for one of the hardest boss battles
+you will have.
+
+Boss Battle-Gertrude
+Difficulty:Hard
+This fight will take longer to win because you have to get rid of all of 
+Gertrudes armor and the remaining helmet before you can finish off the dog.
+Gertrude has similar attacks to the other fight but she uses them more 
+freqently. Like in the previous fight if you are up against a wall and she 
+charges quickly side step and the dog will slam into the wall and knock itself
+out. Equip the chigo and use the charged spin attack to cut off the armor.
+Gertrude herself is not what makes this battle hard, it is the small space you
+are fighting in and the fact that you have to take out all of its armor. Once
+you get rid of the other helmet, one magic or onimusha attack should be enough
+to put this big dog to sleep.
+
+After the battle watch as Samanosuke and Henri help Michelle. Before Ako 
+leaves Henri says to tell Jacques that he can marry Michelle. Samanosuke says
+they have to hurry and get out of there. The get in Michelles car and speed
+off. They quickly drive down the bridge and Mont-Saint-Michel explodes behind
+them. The flames catch up with them and engulf the car but it speeds out and 
+everyone is happy about that. Back with Jacques he is still in Mont-Saint-
+Michel. So navigate him to the end and pick up the fortress one along the way.
+Jacques then comes across a castle hidden away, but Vega Donna appears and
+says that your too late. Jacques then uses his whip to garb hold off the
+castle railing. Jacques tries to keep from falling as the castle begins to fly
+off. Vega Donna then orders a cannon out. The cannon fires, to propel the 
+flying castle and it blows up Mont-Saint-Michel.
+
+M.Lake Biwa
+As the flying castle passes over a frozen area, the area were Jacques is opens
+up and Jacques falls out and plunges to the ground, then the genma castle 
+lands. As Jacques lies in a pile snow knocked out, Ako leads Samanosuke to his
+were abouts. When Jacques wakes up he is startled to see Heihachi with 
+Samanosuke. Heihachi says that he is now with you. Samanosuke then says that
+there is an Oni army orb here somewhere. Heihachi offers to help but Jacques 
+wants him to go to the demonized Azuchi castle, to find out more informatiom.
+Once you gain control of Jacques save your game and smash the brown box to 
+release a firefly. Then go onto the iceberg and use the firefly to pull the 
+iceberg from the shore. Now the iceberg will float down the lake and you have
+to use fireflys to pull it away from glaciers. If you strike three glaciers 
+the icebreg will shatter and you will automatically die. Usually genma will 
+attck with Fireflys attached to them so slay them quiclky to release the 
+firefly. If you pass a brown box, smash it quickly to release more fireflys.
+Once you make it to the other end, a grizmoh will drop down and cause the
+bridge to lower. Slay the grizmoh to raise the bridge back up. You will then
+notice there are two glaciers, but you can only take one. If you take the one
+on the right you will run into several archers and a grizmoh. This will 
+release a firefly so use it to cross to a small ice patch and pick up the
+secret med. Retrun to the the other large patch of ice and use the awaiting
+glacier to get to the mainland. If you take the glacier on the left, when you
+get to the ice a grizmoh will weigh down the bridge so slay it and then slay
+the other grizmoh to gain a medicine. Then take the awaiting galcier to the 
+mainland. Either way you choose, it leads to the same place. Once you start 
+moving a hail storm of arrows will be launched from the mainland. This could 
+cause you to stagger and miss the fireflys. Defeat the enemies and smash the 
+boxes to get fireflys. Once you get to the mainland save your game and enter 
+the house. A gate will shut seperating Jacques and Samanosuke. Jacques will 
+have to explore the house on his own. In the first room pickup the Oni Mansion
+scroll. This explains that the house was created to confuse genma and protect
+the oni army orb. Because of the confusing path here is a step by step 
+solution and diagram of the house:
+
++-----+
+|  4  |
++-----+-----+
+|  3  |  7  |
++-----+-----+-----+
+|  2  |  6  |  9  |
++-----+-----+-----+
+|  1  |  5  |  8  |
++-----+-----+-----+
+
+1.Pull the red firefly to open the gate
+2.Run into room 2 and then run into room 6. Smash the trunk to get an 
+  Ecospirit.
+3.Return to room 2 and then run to room 4. Defeat the Fugaku and then defeat
+  the Gajimaro that jumps out of the box.
+4.Pull the blue firefly and the run back to room 1 bypassing the Fugaku and
+  run into room 5. Release the firefly in the box.
+5.Go into room 8 and slash the panel on the wall. Enter the smaller room and 
+  pickup the secret med and get the souls from the soul statue. Then pull the
+  firefly.
+6.Run to 1 then to room 2 and into room 6. Use the firefly to cross the gap 
+  and enter room 9. Pull the yellow firefly. Quickly go back to room 4 and
+  pull the blue firefly.
+7.Run back to room 3 and into room 7 and enter the yellow gate before it 
+  closes. Once there save your game and slash the wall panel and drop through
+  the hole in the floor.
+
+Once you drop through the floor two Dongacha will attack. Use magic to finish
+off the genma and use the firefly to jump over the barrier. There is a tengu
+box on the left side of the wall containing a medicine. Then go over to the
+dragon statue to get the mythical Oni Army orb.  
+
+M.Azuchi Castle Area
+This in my opinion is the funnest part in the entire game. The scene starts 
+off with Samanosuke and Jacques looking toward Azuchi castle and an army of 
+thousands of genma swordsman charging at them. Samanosuke takes the army orb 
+and puts it in his gauntlet and then a burst of light comes from it. Then 
+thousands of streams of light come from the orb and emerges the oni army. The
+oni army clashes with the genma army. While Samanosuke has to control the army
+its up to Jacques to storm Azuchi Castle. One the battle field, a constant 
+hailstorm of arrows will be fired, so keep moving to avoid them. If ever 
+surronded the best weapon is the Hyosai. Just power up the magic and strike. 
+All the enemies surronding you will freeze. Also suck up any of the souls of 
+the genma that the oni kill. Slaughter however many genma you please and 
+contine through the door at the end. More oni warriors will be there, so with 
+there help take out the swordsman and then take out the archers and procede to
+the next area. Here there are no oni to help you so take out the archers and 
+swordsman by your self. There is box on the second high point containing a 
+medicine. Once you retrive this head inside Azuchi castle.
+
+N.Azuchi Castle
+After the cutscene were Heihachi kills some genma and tells you to take the 
+elevator, pick up the Fortress 2 book and also enhance whatever you can with 
+the souls from the battlefield. Use the elevator to reach the upper floor. 
+Slay the dark spiders and pick up the map from the box and head out the open 
+window. Pick up the vassal book and solve the puzzle box. Here is the solution
+
+              +---------------------------------------------+----------+
+              |          |          |          |            |          |
+              |    1     |    2     |    3     |    4       |  Finish  |
+              |          |          |          |            |          |
+  +-----------+--------------------------------------------------------+
+  |           |          |          |          |            |     
+  |   Start   |    5     |    6     |    7     |    8       |
+  |           |          |          |          |            |
+  +---------------------------------------------------------+
+              |          |          |          |            |
+              |    9     |    10    |    11    |    12      |
+              |          |          |          |            | 
+              +---------------------------------------------+----------+
+              |          |          |          |            |          |
+              |    13    |    14    |    15    |    16      |  Finish  |
+              |          |          |          |            |          |
+              +---------------------------------------------+----------+
+
+1.Move 2
+2.Move 3
+3.Move 7
+4.Move 11
+5.Move 15
+Reward:Oni Jewel
+
+Use the firefly above to get to the second level. You should see a large genma
+on the ledge above and it will jump down with a slash. The genma of course is
+Marcellus. You cant run from this fight so use the same tactics as before 
+except you dont have the firefly at your disposal. Once you take out marcellus
+use the other window and head inside. Go down stairs to the barricade and get
+the Oni med 1 and then use the protective mirror near the bridge because a 
+boss fight is coming up. Go up the steps and watch the cut scene. We run into 
+Vega Donna licking her talons as Jacques enters. She calls herself the genma
+queen and mistress to Nobunaga.
+
+Boss Battle-Vega Donna
+Difficulty:Easy/Medium
+Vega Donna has a vareity of attacks which for the most part are all blockable.
+When she chains combos there are periods when she breaks through your defense
+but it causes little damage. She does have a move were she leaps up to the 
+rafters and fires here knives at you and then uses her binding shot spell. If
+Vega Donna ever uses here binding shot while on the ground, block it and it 
+will hit her and she will be defenseless. During the match she will create a 
+copy of herself. If you manage to defeat the copy it release souls. The key 
+to this match is defense and use her binding shot to your advantage.
+
+After the battle Vega Donna collapses on a suit of armor and dies. Absorb the 
+souls and a ladder will drop down. Climb the ladder and watch as Jacques comes
+across Heihachi lying in a puddle of blood. Samanosuke shows up and Heihachi 
+says that he fell for Ranmarus trap and that Nobunaga wasnt in Azuchi castle.
+He told them to go to Honnoji Temple and defeat the genma, Heihachi then dies.
+Jacques says he wants Ako to go to Henri because its time for the final 
+battle.
+
+O.Eiffel Tower
+Ako gets to Henri as Michelles car pulls up by the Eiffel Tower. Ako says that
+Jacques might be able to come home soon if all goes well. Samanosuke says if 
+things dont go well that Nobunaga could come here. Samanosuke decides he must
+stop the time warp device before Nobunaga can get here. Inside the Effiel 
+Tower you regain control of Samanosuke. Pick up the first aid kit in the box 
+and solve the puzzle box in the corner across from the elevator doors. Here is
+the solution:
+
+            +--------------------------------------------+
+            |          |          |          |           |
+            |    1     |    2     |    3     |    4      |
+            |          |          |          |           |
+            +--------------------------------------------+----------+
+            |          |          |          |           |          |
+            |    5     |    6     |    7     |    8      |  Finish  |
+            |          |          |          |           |          |
+ +----------+--------------------------------------------+----------+
+ |          |          |          |          |           |
+ |  Start   |    9     |    10    |    11    |    12     |
+ |          |          |          |          |           |
+ +----------+--------------------------------------------+----------+
+            |          |          |          |           |          |
+            |    13    |    14    |    15    |    16     |  Finish  |
+            |          |          |          |           |          |
+            +--------------------------------------------+----------+
+
+1.Move 3
+2.Move 4
+3.Move 8
+4.Move 7
+5.Move 11
+6.Move 10
+Reward:Oni Jewel
+
+Save your game before boarding the elevator. Once on the elevator hit the 
+button to start it. During what seems like a peaceful ride, the elevator stops
+and several Zabiets crash through the sky light. Slay these genma and hit the
+other button to release an emergency ladder. Climb the ladder and slay the
+Zmoh that on the roof and use the ladder to climb to the stairs. On the stairs
+in the flat sections there are time rifts, if you get caught in one it will 
+transport you to a lower part of the stairs. As you try to go up the stairs,
+Dorabazu will try to push you back into the time rifts. Use the magic attack 
+of the Chigo to finish off the Dorabazu. Keep pushing and fighting your way up
+the stairs you will come across a flat section were lightning is constantly 
+striking. To make this even harder, Brainstern shows up for another fight. He
+has most of the same attacks he did before, so use the strategy you had in the
+previous fight with the robot. Once the robot is done, find the machine that 
+is causing all these lighting strikes. It should be a wierd looking machine 
+with sliding panels on it. When it opens up its panels, strike the inside and 
+after a few strikes the machine will crack and the lightning will stop. Pick 
+up the map from the box and enter the door way to the second set of stairs. 
+There are two different cables, take the right one to get to the stairs. Use 
+the same attacks to defeat the other Dorabazu as you did earlier. Once you get
+past the tough combination of Oujia and Dongacha go up to the observation 
+deck. There are plently of items located between the two floors. Open the 
+elavator door and slay the Dorido that waits inside take elevator up to the 
+second floor. Save your game and get the souls from the soul statue and then 
+use the stairs to get to the final confrontation with Ranmaru Mori. Up on the 
+top level Ranmaru claims it is to late and Nobunaga will come to this world.
+
+Boss Battle-Genma Ranmaru Mori
+Difficulty:Easy
+The only new move ranmaru has is to charge up his swords until they turn red 
+and he releases an energy blast. It can be blocked so dont worry. Use the same
+strategy as for the previous fight and it should be an easy match.
+
+After the battle Ranmaru staggers over to the machine and Samanosuke tries to 
+stop him but it is too late Ranmaru pulls the lever to activate the machine.
+Samanosuke tries slashing it but it has no effect. Ako appears and Samanosuke
+tells her to prevent Nobunaga from coming to this world at all costs.
+
+P.Honnoji Temple
+Back in 1582, a group of warriors led by Mitsuhide Akechi stands outside the 
+gate of Honnoji Temple. Samanosuke and Jacques come forward and Mitsuhide says
+the he is counting on them. The gates open up and let the final showdown 
+begin. Slay the axemen and the Dark Crows that are in the courtyard. Head up 
+the stairs and approach the staircase of the temple. Ranmaru Mori shows up and
+says he cant let anyone pass. Jacques wants to avenge the death of Heihachi so
+he goes up the stairs and beats up Ranmaru and then uppercuts him off the edge
+of the balcony. Ranmaru hits the ground and dies. Pick up the Ranmaru Scroll 
+which lies by his body. Then go over by the west wall and open the treasure 
+box to release a firefly and ride it up to the roof. Pick up the secret med
+and head back down. Now is your oppurtunity to get Jacques ulitmate whip. 
+Access the dark realm and fight your way through the floors and collect the 8
+blue orbs along the way. After the dark realm save your game and replenish
+your magic. Head up the stairs and get ready to fight. Nobunaga says that he 
+must defeat you to realize his power. He then launches an energy blast which 
+knocks both them back. Samanosuke gets up but is knocked down. He then focuses
+on Jacques and says it is his turn.
+
+Boss Battle-Nobunaga
+Difficulty:Very easy/Medium (Depends if you have the ultimate whip)
+If you dont have the ultimate whip this battle is a challenge. Nobunaga has 
+the ability to strike critical hits so try to use either magic and a deflect 
+critcal to cause lots of damage. Use the firefly in the room to avoid his
+sword and if you have the ability to turn into onimusha use it. If you have 
+the ultimate whip then keep pressing triangle and the battle will be over 
+before you know it.
+
+After the battle Nobunaga falls. Jacques goes over to check on Samanosuke.
+All of a sudden jacques begins to glow white. This must mean he can go back to
+his time. He shakes hands with Samanosuke and steps into the portal. As the 
+portal envelops him, Nobunaga arises and strikes Samanosuke with an energy 
+bolt. Jacques can do nothing but watch. Nobunaga comes over and puts a foot on
+Samanosukes chest to hold him down and then he raises his and thrusts down 
+into Samanosuke. Jacques continues to call for Samanosuke. The portal closes 
+transporting Jacques to the france and Nobunaga laughs because he beleives he
+has won. Back in france, Jacques appears near the Effiel Tower and Henri,
+Michelle and Samanosuke are nearby. He goes over and hugs Henri and Michelle.
+Jacques then turns to Samanosuke. Samanosuke says he knows what happened and
+he can now return to his time. Jacques offers to come but Samanosuke says he 
+cant because he has to stay in his time. Samanosuke then tells Henri to be 
+nice to his new mother. Samanosuke and Ako go over to the portal, and Jacques
+leaves Samanosuke with the parting words of Kick his ass. Samanosuke steps
+into the portal and is transfered back to Japan. Jacques, Henri, and Michelle
+can all now speak in french once again. As the happy family walks off, a set 
+of blades appear from behind a tree and Ranmaru Mori appears. He staggers over
+to them and slashed Henri across the back. Jacques completely enraged pulls 
+out the whip and beats the hell out of Ranmaru. Jacques quickly gets back to 
+Henri, but he fades to fast and dies. Michelle begins to cry as Jacques says 
+Henri over and over again. Just then the gauntlet still around Jacques wrist 
+glows brightly and in an explosion of light it dissapeers. Henri then slowly 
+opens his eyes and is ok. Jacques then thanks the oni and the happy family hug
+once more as the Eiffle tower glows in light. Back in Japan, Samanosuke 
+returns to Honnoji temple. This is Samanosukes turn to enter the dark realm in
+an oppurtunity to get the Bishamon sword. The problem is that you can only use
+it in the dark realm. Save and enhance your weapons. The level of all of your 
+weapons will determine the level of the sword you recieve at the end. Enter 
+the temple and prepare for battle. Samanosuke sees the body of the Samanosuke 
+from the past and he goes over to it. He then uses the gauntlet and absorbs 
+souls of the body. He then transforms into the unstoppable Onimusha. 
+
+Boss Battle-Nobunaga
+Diffiuculty:Way too easy
+Since you are the Onimusha, you are invincible which kinda takes the fun out
+of the battle. Keep pressing triangle until the cut scene starts.
+
+Nobunaga falls but he levitates above the ground and claims it isnt over. He
+then transports both you and him to the Demon Realm for the final encounter.
+Nobunaga also Reveils his true form as the Demon King.
+
+Boss Battle-Genma Nobunaga
+Difficulty:Medium/Hard
+The battle starts with nobunaga creating a force field around him with four 
+cones. Try to slash at these cones and they will release colored souls. Absorb
+these to become powerful enough to destroy the cones. After the force field is
+gone Nobunaga will start to use elemental attacks similar to the ones in 
+Onimusha 2. If you ever launches the fire attack try to get right next to him
+because the fire cant take a shrap turn. The lightning attacks are easiest to
+avoid because you see were they will land. After you dish out enough damage
+Nobunaga will fall to one knee and drop his sword. Quickly hold down circle to
+absorb and obtain the Genma Samonji, the sword of hatred. Nobunaga then gets 
+mad. He now launched fireballs and charges across the field. Side step these
+attacks and keep attacking. Sooner or later Nobunaga will fall. 
+
+At the end Nobunaga starts reciting lines from a poem and then he starts to 
+dissolve into a dark cloud. He says the parting words of Very well...Very well
+Samanosuke then uses the gauntlet and absorbs the dark cloud of Nobunaga.
+The temple begins to collapse and Samanosuke and Ako get out quickly. After
+the battle a scene takes place were Samanosuke and ako are near a river. Ako 
+and Samanosuke decide to head off to begin a new journey. After the credits 
+roll, we see a small troop of soliders led by someone on horseback. As the
+camera pans around we notice its Tokochiro Kinoshita or as he is now known as
+Hashiba Hideyoshi. He says that with his masters death, he can now rule Japan.
+Congratulations you have just beaten the final installment in the Onimusha 
+series. The next screen should tell you what ranking you got and if you are
+given a special title.
+##############################################################################
+X.Extras
+
+A.Rankings and Titles
+The ranking you recieve at the end of the game is a compositon of how well you
+did. If you also finished certian criteria you will recieve a title. Here is
+a breakdown of what you need to get a certain grade and title.
+
+Play Time          Points           Soul Points            Points
+-----------------|---------         ---------------------|----------     
+0-5:59 hours     | 10               170,000+ souls       |   10
+6:00-7:59 hours  |  6               145,000-169,999 souls|    6
+8:00-10:59 hours |  4               125,000-144,999 souls|    4
+11:00-13:39 hours|  3               100,000-124,999 souls|    3
+14:00-16:59 hours|  2               70,000-100,000 souls |    2
+17:00+ hours     |  1               0-69,000 souls       |    1
+
+Enemies Defeated    Points          Critcal hits         Points
+-----------------|---------         -----------------|-----------
+     2300+       |   10                    600+      |     10
+   2000-2299     |    6                   500-599    |      6
+   1700-1999     |    4                   350-499    |      4
+   1300-1699     |    3                   200-349    |      3
+   1000-1299     |    2                   50-199     |      2
+     0-999       |    1                    0-49      |      1
+
+Dark Realm items   Points                     Overall points      |  Rank
+-----------------|---------                   -----------------------------    
+     100         |   10                       Normal-41-50        |   S     
+    70-99        |    6                       Easy-50             |
+    50-69        |    4                       -----------------------------
+    40-49        |    3                       Normal-34-40        |   A
+    20-39        |    2                       Easy-34-49          |
+    0-19         |    1                       -----------------------------
+                                              Normal-26-33        |   B
+*Purple vest=10 points                        Easy-Same           |
+*Fire, Thunder, Wind Seals=10 points each     -----------------------------
+*Bishamon Sword & Ultimate whip=30 points each Normal-18-25       |   C
+                                               Easy-Same          |
+                                              -----------------------------
+                                              Normal-5-17         |   D
+                                              Easy-Same           |
+                                           
+Title-Save only once during the game:BRAVERY
+      Have a critical hit rate of 40%:CRTICAL
+      Finish in 5 hours or less:SPEED
+      Find all 23 tengu boxes:EXPLORER
+      Kill more than 3000 enemies:OFFENSE
+      Suffer less than 5120 damage points:DEFENSE
+
+B.Costumes
+1.Samanosuke-Western attire:This cowboyish look is obtianed by either having
+  Samanosuke's stats be higher than Jacques or beat the game in Jacques 
+  alternate costume
+2.Samanosuke-Panda Suit:Returning from Onimusha 1 you can get this costume 
+  by beating the Oni Training mini game
+3.Jacques-Eastern Attire:The more asian looking clothes are obtained by 
+  either Jacques stats are higher than Samanosukes or beating the game with
+  Samanosukes alternate outfit
+4.Michelle-Bath towel:This revealing costume can be obtained by getting an 
+  S ranking in normal or higher difficulty.
+
+C.Mini-Games
+------------
+1.Oni Target Practice:The goal of the is game is to use either bullets or 
+arrows to shot down genma eggs in a shooting gallery. Each time you shot down 
+an egg you are have to absorb the red souls left behind to get to the minimum 
+amount of souls needed to advance. You are given either 50 arrows or 50 
+bullets per round and at the end of the level if you get a better than average
+grade you are given an arrow bouns which carries over into the next level but 
+the maximum amount of ammunition is 99. If you only hit each target 
+individually you only get a small amount of soul so when targets overlap each
+other, fire at them to get a combo score and release more red souls.This game 
+is unlocked after completeing the game on normal difficulty. Here are the 
+strategies for each stage:
+
+    Stage 1 - 500 souls: This level is just a warm up level. Try to string 
+    together combos and hit the blue targets to get more souls. Keep shooting
+    at targets even if you surpass the needed total because you can get a 
+    better grade and arrow bonuses.
+
+    Stage 2 - 1000 souls: This level is similar to the first. There are now 
+    red targets which when hit explode destroying others around them. Try to 
+    use these targets in combos.
+
+    Stage 3 - 2300 souls: This is a harder level then the previous two. A 
+    shield will move back and forth and deflect all the shots that hit it. 
+    Stick to one side of the arena and shoot any targets that come by. Again 
+    try to hit the red and blue targets in combos to get more souls.
+
+    Stage 4 - 2400 souls: Hit any ofthe purple targets that pass by to turn
+    into the onimusha. This will give the character infinite ammo and absorb 
+    souls at lightning speed. Also missed shots dont drop the combo score. In
+    onimuhsa mode there is very little need for aiming so fire recklessly and
+    continue to hit purple targets to remain in oinmusha.
+
+    Stage 5 - 2500 souls: The specialty targets in this level are a lot faster
+    then in previous levels. Wait until they fly in and hit the green targets 
+    then fire. There are less targets in this level so it is critical to chain
+    combos together.
+
+    Stage 6 - 3000 souls: There are now iron tragets that requires two shots 
+    to take out, but they release the most souls. Using the bomb targets is 
+    now really important because they can take out a few iron targets, 
+    conserving ammo. There are no purple targets in this stage
+ 
+    Stage 7 - 3100 souls: There are now two shields on the field so when 
+    targets pass between them. Hit all of the red and purple targets that you
+    can or you wont pass this stage. 
+
+    Stage 8 - 4800 souls:There are plenty of purple targets on the field so 
+    you should be able to stay in onimusha mode for the majority if not the 
+    entire match. Chain together large combos and use bombs to blast iron 
+    targets and you should be able to pull this on off
+
+    After completeing the target practice game you will unlock ultimate mode
+    for the main game. In that mode you start with the bishamon sword and many
+    many recovery items.
+------------------------------------------------------------------------------
+2.Adventures of Heihachi
+This is mini game which tells the story of Hehachi after the encounter at 
+Sakai.The controls of Heihachi along with his moves are very similar to 
+Samanosuke except the Hehachi cant preform magic attacks. 
+
+A.Sakai
+The game opens with Hehachi trying to explain to Samanosuke why he attacked 
+but before he can say anything somebody runs up and tells them the town is 
+under attack. You have to go find the blacksmith, so head to the blacksmith 
+shop, slaying genma along the way. Defeat the archers outside the blacksmith
+shop and head inside. The black smith explains what he needs to fix the 
+broken draw bridge. He gives you the Blacksmith memo and oni dust. Stand by
+the fireplace and use the dust to create a portal. This portal will lead you
+to the undersea temple.
+
+B.Undersea Temple
+The portal you entered will close in five minutes so work fast. Yuo must find
+the crimson stone and return to the portal. There is a map in the treasure 
+box near the exit. Make your way into the circular chamber you previously saw
+in the main game and go into the glass corridor. Inside this hallway, 
+Gertrude is waiting. This is totally optional to fight her but if you defeat 
+her she will leave behind a secret med, but the battle eat up alot of time 
+and probably alot of health. In the next room, several genma attack. Defeat 
+them and pick up the crimson stone. A cut scene takes place that is familiar,
+the scene were Jacques sees Hehachi slaying genma. Once you get the stone,
+make your way to to the room with the protal. Once you get to this room, Genma
+Ranmaru Mori will attack. Again this is optional and he drops a secret med if 
+you defeat him but it could eat up alot of time. Enter the portal and return
+to Sakai.
+
+C.Return to Sakai
+Back at Sakai, give the blacksmith the crimson stone, but says that he needs 
+water before the job can be complete. He straps a bucket to your back and you
+must go to the wharf to get some water. On the way, slay the genma that you 
+encounter. Once at the wharf, fill up the bucket and return to the blacksmith.
+On the way genma will attack and with every hit you lose water. Try to run
+past them. At the blacksmith, more genma await. Slay any genma and then focus
+on the Nurabis plant that blocks the door. Inside the blacksmith shop you
+must have at least 90% of you water or he tells you to go back and get more.
+After you give him the water, he makes the crimson gear. Return to the busted
+drawbridge and put it in. The town seems to be safe but more genma appear. 
+Once you slay them with Samanosukes help, Samanosuke brings up the question 
+of if he betrays his master. Heihachi doesnt know how to answer and leaves.
+
+This is the end of the Heihachi mini game.
+------------------------------------------------------------------------------
+3.Oni Training
+This section includes the in game training that you could have done and it 
+includes the mini game that is unlocked when you complete the in game training
+sessions. The in gmae sessions can be done with either Jacques or Samanosuke 
+with the exception of Archery and Oni Bind Throw.
+
+1.In Game Sessions
+
+Gaurd-Use L1 to guard and collect the souls that are released in each set of 
+enemies. You need 15 souls to advance through each set. An herb or salve is 
+the reward for completing this
+Beginner-Zorm/Swordsman
+Intermediate-Bazu/Archer
+Advanced-Gacha
+
+Draw Weapon-Hold R1 to lock on the an enemy and then circle behind him. Only
+slash to the back work to release souls. You need 10 souls per set.An herb or
+salve is the reward.
+Beginner-Zorm/Swordsman
+Intermediate-Gacha
+Advanced-3-Eyes/Zagat
+
+Archery-Hold R1+X to aim and fire at enemies. The session is pretty self 
+explanitory. You need 15 souls per set. A medicine is the reward.
+Beginner-Bhaza
+Intermediate-Bhaza/Zorm
+Advanced-Bhaza/Zagat
+
+Oni Bind Throw-This can only be done with Jacques. Hold R1 to charge to weapon
+and press square to grab an enemy. Then press up or down to throw the enemy.
+You need 10 souls per set. The reward is a medicine.
+Beginner-Swordsman
+Intermediate-Bazu/Swordsman
+Advanced-3-Eyes
+
+Oni Bind Bind Move-This is another level that only Jacques can do. Charge up
+your weapon and bind the enemy. Then press triangle to use magic. You begin 
+with no magic so kill a few enemies to get some blue souls. You need 10 souls
+per set. The reward is a medicine.
+Beginner-Swordsman
+Intermediate-Fugaku/3-Eyes
+Adavnced-Fugaku/Gacha
+
+Charged Attack-Hold down R1 or sqaure to charge your weapon and then strike 
+the enemy. Use the tenso because it will release two souls instead of one. You
+need 20 souls per set. The reward is a medicine.
+Beginner-Zorm/Swordsman
+Intermediate-3-Eyes/Zagats
+Adavnced-Gacha
+
+Deflect Critical-When an enemy strikes, block it and when the sword is still
+ringing strike the enemy. A good method is to press L1 rapidly and press L1 
+the second that the enemies attack is blocked. You need to defeat all the 
+enemies that show up. The reward is a power jewel.
+Beginner-Swordsman/Zorm/Bazu/Batobone
+Intermediate-3-eyes/Zagat/Zolworm/Fugkau
+Advanced-Dark Spider/Zabiet/Dordo/Zmoh
+
+Critical-This level required good timing. If an enemy is about to attack, side
+step and quickly slash. Other than that the only other strategy is to practice
+becuase the advanced stages are hard. You need to defeat all the enemies that
+show up. The reward is Ako's Black vest.
+Beginner-Swordsman/Zorm/Bazu/Zolworm
+Intermediate-3-Eyes/Zagat/Fugaku/Gacha
+Advanced-Dordo/Zmoh/Dark Puppet/Fobora
+
+Chain Critcal-This level requires to chain two or more critcal attacks. The 
+first thing is to strike an attack and then hit square again before the flash
+leaves the screen. The enemy has to be within a certain distance to make it 
+work. Chain critcals can be triggered by Deflect criticals. You need 10 souls
+per set. The reward is an Oni Jewel.
+Beginner-Zorm/Swordsman
+Intermediate-Bazu/Zmoh
+Advanced-Gacha/Gilzorm
+
+Ten Slash-The best weapon for this is the Kuga. this level reqires you to use 
+a thrust attack and then hit square at the moment of the sword hitting the
+enemy. To use a thrust, hold R1 and then press up on the d-pad and press 
+square. Enemies release souls with every strike so you have to get 100 souls 
+per set. The reward is a wood charm.
+Beginner-Gilzorm
+Intermediate-Zmoh
+Advanced-Zabiet
+
+2.Oni Training Mini Game
+
+This game has a vareity of more advanced moves and less used moves but it is 
+easier then the training sessions in the game. No items are rewarded for 
+beating a level but if you beat the entrie thing you get one of Samanosukes
+alternate costumes.
+
+Running Attack-This level is self explainitory, just get as far away from an 
+enemy as possible then charge him and press square. You need 10 souls per set.
+Beginner-Archer
+Intermediate-Dorabazu
+Advanced-Zabiet/Dark Spider
+
+Upward Attack-Get close to an enemy and press R1 + Up + Square to knock them
+up into the air. Its easier to use up on the d-pad then the control stick. In 
+the second set, shot the bhaza until they are low enough and then hit them. In
+the third set stand in one place and use the attack as the dolls fly by. You 
+need 15 souls per set.
+Beginner-Axeman/Gilzorm
+Intermediate-Bhaza
+Advanced-Babian/Gajimaro
+
+Oni jump attack-Use the firefly in the center, so hit R1 + X when enemies are
+across from you and the attack will automatically happen. You need 10 souls 
+per set.
+Beginner-Gacha
+Intermediate-Fobora/Dark Puppet
+Advanced-Grizmoh/Zmoh
+
+Finisher-Knock an enemy to ground and stand by them. Before they get up press
+sqaure to use the finishing stab. You need to defeat all of the enemies in 
+each set.
+Beginner-Axeman/Gilzorm
+Intermediate-Dorabazu/Zabiet/Dark Spider
+Advanced-Fugaku/Ouija
+
+Kick-Wall Slam-To get souls you have to kick an enemey into the walls. The 
+best way of winning the fight is to run up when the enemy appears and hit down
+and square. You need 10 souls per set.
+Beginner-Swordsman
+Intermediate-Axeman/Gilzorm
+Advanced-Dark Spider/Zabiet
+
+Final Chraged Attack-This level is another self explainitory level, just 
+charge your weapon up to the full charge and attack. You need 30 souls per set
+Beginner-Axeman/Gilzorm
+Intermediate-Gacha
+Advanced-Zabiet/Dark Spider
+
+Oni-Bind Slam-This level requires you to bind up an enemy and throw it into 
+another enemy. For Fugakus and Dongacha you have to charge the weapon up to 
+its highest level. You need 15 souls per set.
+Beginner-Dorabazu
+Intermediate-Fugaku/Axeman
+Advanced-Dongacha/Babian/Gajimaro
+
+Shoot Back-This level you face enemies that have the ability to fire the magic
+missle. This requires timing, you have to strike the missle at the right time 
+to send it back at the enemy. You need 10 souls per set.
+Beginner-Nerofobora
+Intermediate-Dark Puppet
+Advanced-Genma Ranmaru Mori
+------------------------------------------------------------------------------
+4.Genma Puzzle Space
+This mini game is unlocked if you solve all of the puzzle boxes in the game.
+You can choose what kind of puzzles you want to do from either onimusha 1, 2
+or 3. You are then sent to a dark realm with boxes and it is up to you to 
+solve these puzzles. Your progress is tracked through each level.
+
+A.Onimusha 1 puzzles
+first level
+-----------
+Left Box-1:Spin left tiles
+         2:Spin middle tiles
+         3:Spin middle tiles
+         4:Spin right tiles
+
+Middle Box-1:Spin left tiles
+           2:Spin left tiles
+           3:Spin right tiles
+           4:Spin right tiles
+
+Right Box-1:Spin middle tiles
+          2:Spin right tiles
+          3:Spin left tiles
+          4:Spin middle tiles
+
+Second level
+------------
+Left Box-1:Spin left tiles
+         2:Spin left tiles
+         3:Spin middle tiles
+         4:Spin right tiles
+         5:Spin right tiles
+
+Middle Box-1:Spin middle tiles
+           2:Spin right tiles
+           3:Spin middle tiles
+           4:Spin middle tiles
+           5:Spin left tiles
+
+Right Box-1:Spin left tiles
+          2:Spin middle tiles
+          3:Spin middle tiles 
+          4:Spin middle tiles
+          5:Spin right tiles
+
+Third level
+-----------
+Left Box-1:Spin left tiles
+         2:Spin middle tiles
+         3:Spin middle tiles
+         4:Spin right tiles 
+         5:Spin right tiles
+         6:Spin right tiles
+
+Middle Box-1:Spin middle tiles
+           2:Spin right tiles
+           3:Spin right tile
+           4:Spin left tiles
+           5:Spin middle tiles
+           6:Spin left tiles
+
+Right tiles-1:Spin left tiles
+            2:Spin middle tiles
+            3:Spin left tiles
+            4:Spin middle tiles 
+            5:Spin left tiles
+
+Forth level
+-----------
+Single Box-1:Spin middle tiles
+           2:Spin middle tiles
+           3:Spin right tiles
+           4:Spin middle tiles
+           5:Spin left tiles 
+           6:Spin left tiles
+
+B.Onimusha 2 puzzles
+First level
+-----------
+Left Box-1:Bottom left arrow
+         2:Right top arrow
+         3:Top left arrow
+         4:Left top arrow
+
+Middle Box-1:Top right arrow
+           2:Right bottom arrow
+           3:Bottom left arrow
+           4:Left top arrow
+
+Right Box-1:Right bottom arrow
+          2:Bottom left arrow
+          3:Right top arrow
+          4:Top right arrow
+
+Second level
+------------
+Left Box-1:Left bottom arrow
+         2:Bottom right arrow
+         3:Right middle arrow
+         4:Bottom middle arrow
+
+Middle Box-1:Top middle arrow
+           2:Right bottom arrow
+           3:Bottom left arrow
+           4:Left middle arrow
+
+Right Box-1:Left top arrow
+          2:Bottom middle arrow
+          3:Right top arrow
+          4:Top middle arrow
+
+Third level
+-----------
+Left Box-1:Left middle arrow
+         2:Top middle arrow
+         3:Right middle arrow
+         4:Bottom middle arrow
+         5:Left middle arrow
+
+Middle Box-1:Right middle arrow
+           2:Bottom middle arrow
+           3:Right bottom arrow
+           4:Bottom right arrow
+           5:Left middle arrow
+
+Right Box-1:Left top arrow
+          2:Top right arrow
+          3:Right middle arrow
+          4:Bottom right arrow
+          5:Right top arrow
+
+Fourth level
+------------
+Single Box-1:Bottom middle arrow
+           2:Left top arrow
+           3:Bottom right arrow
+           4:Right top arrow
+           5:Top middle arrow
+           6:Right middle arrow
+
+C.Onimusha 3 puzzles
+First level
+-----------
+Left Box-1:Second tile,middle row
+         2:Third tile,middle row
+         3:Third tile,top row
+         4:Second tile,top row
+         5:Second tile,middle row
+         6:First tile,middle row
+         7:First tile,top row
+
+Middle Box-1:Second tile,bottom row
+           2:First tile,bottom row
+           3:First tile,middle row
+           4:Second tile,midle row
+           5:Third tile,middle row
+           
+Right Box-1:Second tile,middle row
+          2:Second tile,top row
+          3:First tile,top row
+          4:First tile,middle row
+          5:Second tile,middle row
+          6:Second tile,bottom row
+
+Second level
+------------
+Left Box-1:Thrid tile,middle row
+         2:Third tile,bottom row
+         3:Fourth tile,bottom row
+         4:Fourth tile,middle row
+         5:Fourth tile,top row
+         6:Third tile,top row
+         7:Second tile,top row
+
+Middle Box-1:Fourth tile,top row
+           2:Third tile,top row
+           3:Third tile,middle row
+           4:Second tile,middle row
+           5:Second tile,bottom row
+           6:Third tile,bottom row
+           7:Fourth tile,bottom row
+
+Right Box-1:Second tile,middle row
+          2:Second tile,top row
+          3:Third tile,top row
+          4:Third tile, middle row
+          5:Second tile,middle row
+          6:First tile,middle row
+          7:First tile,bottom row
+
+Third level
+-----------
+Left Box-1:Second tile,second row
+         2:Second tile,first row
+         3:Third tile,first row
+         4:Third tile,second row
+         5:Second tile,second row
+         6:Second tile,third row
+
+Middle Box-1:Second tile,second row
+           2:Second tile,first row
+           3:Third tile,first row
+           4:Third tile,second row
+           5:Third tile,third row
+           6:Second tile,third row
+           7:Second tile,second row
+
+Right Box-1:Second tile,fourth row
+          2:Third tile,fourth row
+          3:Third tile,third row
+          4:Third tile,second row
+          5:Second tile,second row
+          6:Second tile,third row
+          7:Second tile,fourth row
+
+Fourth level
+------------
+Single Box-1:Second tile,first row
+           2:First tile,first row
+           3:First tile,second row
+           4:Second tile,second row
+           5:Second tile,third row
+           6:First tile,third row
+           7:First tile,second row
+------------------------------------------------------------------------------
+D.Special Ending
+If you managed to get all of Akos vests you will be treated to an extended 
+ending. The ending refers to Ako falling in love and growing into a regular
+sized woman. It also talks about her feelings for Samanosuke. Samanosuke 
+thinks its funny but he decides to keep her around while they start a new 
+journey.
+##############################################################################
+XI.The Dark Realm
+
+A.Undersea Temple (Jacques)
+Located:The secret room after you solve the math problem in the library. its
+in the hallway on the left.
+
+                              +------+
+                              +   A  +
+                              +------+
+                             /        \
+                            /          \
+                    +------+            +------+
+                    +   B  +            +   C  +
+                    +------+            +------+
+                            \
+                             \
+                              +------+
+                              +   D  +
+                              +------+
+                                  |
+                                  |
+                              +------+
+                              +   E  +
+                              +------+
+
+Realm|Enemies        |Items
+---------------------------
+A    |Zrom           |None
+B    |Zagat/3-Eyes   |None
+C    |Fugaku         |None
+D    |Bera/Gacha     |None
+E    |Batobone/Fugaku|Thunder seal
+
+B.Undersea Temple (Samanosuke)
+Located: Same as Jacques
+
+                               +------+
+                               +   A  +
+                               +------+
+                                   |
+                                   |
+                               +------+
+                               +   B  +
+                               +------+
+                              /        \
+                             /          \
+                     +------+            +------+
+                     +   C  +------------+   D  +
+                     +------+            +------+
+                         |                   |
+                         |                   | 
+                     +------+            +------+
+                     +   E  +            +   F  +
+                     +------+            +------+
+
+Realm|Eniemies          |Items
+----------------------------
+A    |Swordsman/3-Eyes  |None
+B    |Drodo/Fugaku      |None
+C    |Dark Puppet/Archer|None
+D    |Bera/Zolworm      |None
+E    |Glizorm/Dark Crow |Thunder Seal
+F    |Zagat/Bhaza       |None
+
+C.Mont-Saint-Michel (Jacques)
+Location:First doorway going down the spiral staircase
+
+                       +-----+
+                       +  A  +
+                       +-----+
+                      /       \
+                     /         \
+             +------+           +------+            +------+
+             +   B  +           +   C  +            +   I  +
+             +------+           +------+            +------+
+            /        \                  \          /        \
+           /          \                  \        /          \
+   +------+            +------+           +------+            +------+
+   +   D  +            +   E  +           +   F  +            +   J  +
+   +------+            +------+           +------+            +------+
+           \          /        \         /                   /
+            \        /          \       /                   /   
+             +------+            +-----+            +------+
+             +   G  +------------+  H  +            +   K  +
+             +------+            +-----+            +------+
+                                                   /
+                                                  /
+                                          +------+
+                                          +   L  +
+                                          +------+
+
+Realm|Enemies             |Items
+---------------------------------------
+A    |Dorabazu            |Statue Charm
+B    |Zmoh/Archer         |None
+C    |Zorm/Dark Spider    |None
+D    |Gacha               |Green Orb
+E    |Zorm/Zagat          |None
+F    |Fugaku/Fobora       |None
+G    |Gera                |None
+H    |Bera/3-Eyes         |Medicine
+I    |Zmoh/Grizmoh        |None
+J    |Batochaika/Batobone |None
+K    |Gacha/Drodo         |Medicine
+L    |Dark Puppet/Dordio  |Fire Seal
+
+D.Mont-Saint-Michel (Samanosuke)
+Located:Same as Jacques
+
+                       +------+            +------+
+                       +   A  +            +   H  +
+                       +------+            +------+
+                      /        \          /        \
+                     /          \        /          \
+             +------+            +------+            +------+
+             +   B  +            +   C  +            +   I  +
+             +------+            +------+            +------+
+            /        \                   \                   \
+           /          \                   \                   \ 
+   +------+            +------+            +------+            +------+
+   +   D  +------------+   E  +            +   G  +            +   J  +
+   +------+            +------+            +------+            +------+
+           \                              /                   /
+            \                            /                   /
+             +------+            +------+            +------+
+             +   F  +            +   N  +            +   K  +
+             +------+            +------+            +------+
+                                /        \                   \
+                               /          \                   \
+                       +------+            +------+            +------+
+                       +   O  +            +   M  +------------+   L  +
+                       +------+            +------+            +------+
+                               \
+                                \
+                                 +------+
+                                 +   P  +
+                                 +------+
+                                         \
+                                          \
+                                           +------+
+                                           +   Q  +
+                                           +------+
+                                          /
+                                         /
+                                 +------+
+                                 +   R  +
+                                 +------+
+                                /
+                               /
+                       +------+
+                       +   S  +
+                       +------+
+                               \
+                                \
+                                 +------+
+                                 +   T  +
+                                 +------+
+
+Realm|Enemies              |Items
+------------------------------------
+A    |Zagat/Dark Crow      |Wood Charm
+B    |Fugaku/Archer        |None             
+C    |Fobora/Dorabazu      |None                   
+D    |Batobone/Zmoh        |None                   
+E    |Zorm/Gilzorm         |None      
+F    |Fobora/Dark Puppet   |Purple Orb                  
+G    |Dongacha/Zmoh        |None             
+H    |Batobone/Dorido      |None              
+I    |Grizmoh/Gyaran       |Medicine              
+J    |Bera/Dongacha        |None
+K    |Gilzorm              |None
+L    |Dark Puppet/Zolworm  |None
+M    |Gajimaro/Dongacha    |None
+N    |Bera/Grizmoh         |Medicine
+O    |Gilzorm/Dark Crow    |None
+P    |Fobora/Dongacha      |None
+Q    |Fugaku/Zolworm       |None
+R    |Dark Crow/Dark Spider|Medicine
+S    |Gacha/Dorido         |None
+T    |Dark Puppet/Grizmoh  |Purple Vest
+
+E.Honnoji Temple (Jacques)
+Located:By the staircase next to the save mirror
+
+                    +------+        +------+        +------+
+                    +   A  +--------+   D  +--------+   G  +
+                    +------+        +------+        +------+
+                   /        \                      /        \
+                  /          \                    /          \
+          +------+            +------+    +------+            +------+
+          +   B  +            +   C  +    +   H  +            +   I  +
+          +------+            +------+    +------+            +------+
+                  \          /           /                   /
+                   \        /           /                   /
+                    +------+    +------+            +------+
+                    +   E  +    +   J  +            +   K  +
+                    +------+    +------+            +------+
+                   /           /        \                   \
+                  /           /          \                   \
+          +------+    +------+            +------+            +------+
+          +   F  +    +   Q  +            +   O  +            +   L  +
+          +------+    +------+            +------+            +------+
+                     /                   /        \          /
+                    /                   /          \        /
+            +------+            +------+            +------+
+            +   R  +            +   P  +            +   M  +
+            +------+            +------+            +------+
+                    \                              /
+                     \                            /
+                      +------+            +------+
+                      +   S  +            +   N  +
+                      +------+            +------+
+                              \ 
+                               \ 
+                                +------+
+                                +   T  +
+                                +------+
+Realm|Enemies               |Items
+--------------------------------------
+A    |Gilzorm/Fugaku        |Ultimate Whip
+B    |Bhaza/Archers         |Blue Orb
+C    |Gyaran/Zabiet         |None
+D    |Zmoh/Gacha            |None
+E    |Fugaku/Dordo          |None
+F    |Bera/Dongacha         |Blue Orb
+G    |Batobone/Axemen       |Blue Orb
+H    |Zolworm/Dark Spider   |None
+I    |Dark Puppet/Bhaza     |Medicine
+J    |Bera/Ouija            |None
+K    |Archer/Dark Crow      |Blue Orb
+L    |Zolworm/Grizmoh       |None
+M    |Zabiet/Fugaku         |None
+N    |Dark Spider/Gyaran    |Blue Orb
+O    |Dongacha/Dorabazu     |Secret Med
+P    |Babian/Dark Puppet    |Blue Orb
+Q    |Fobora/Ouija          |Blue Orb
+R    |Zabiet/Fugaku         |Secret Med
+S    |Ouija/Dongacha        |None
+T    |Gilzorm/Marcellus     |Blue Orb
+
+F.Honnoji Temple (Samanosuke)
+Location:Same as Jacques
+
+                                            +------+
+                                            +   A  +
+                                            +------+
+                                           /        \
+                                          /          \
+               +------+           +------+            +------+
+               +   E  +-----------+   B  +            +   C  +
+               +------+           +------+            +------+
+              /                           \                   \
+             /                             \                   \
+     +------+       +------+                +------+            +------+
+     +   F  +-------+   G  +                +   D  +            +   Q  +
+     +------+       +------+                +------+            +------+
+             \                                                 /
+              \                                               / 
+               +------+           +------+            +------+
+               +   H  +-----------+   I  +            +   P  +
+               +------+           +------+            +------+
+              /                           \          /        \ 
+             /                             \        /          \
+     +------+           +------+            +------+            +------+
+     +   J  +-----------+   K  +            +   N  +            +   O  +
+     +------+           +------+            +------+            +------+
+             \                             /                   /
+              \                           /                   / 
+               +------+           +------+            +------+
+               +   L  +-----------+   M  +            +   R  +
+               +------+           +------+            +------+
+
+Realm|Enemies               |Items
+-----------------------------------------
+A    |Gyaran/Gilzorm        |Bishamon Sword 
+B    |Gyaran/Fugaku         |None
+C    |Bhaza/Dark Spider     |None
+D    |Dongacha/Bhaza        |Red Orb
+E    |Dark Crow/Dark Puppet |None
+F    |Oujia/Fugaku          |Red Orb
+G    |Gjimaro/Dorido        |Red Orb
+H    |Bera/Grizmoh          |Secret Med
+I    |Dark Spider/Archer    |None
+J    |Dark Spider/Archer    |None
+K    |Gilzorm/Marcellus     |Red Orb
+L    |Grizmoh/Zmoh          |Red Orb
+M    |Dark Puppet/Archer    |Secret Med
+N    |Axeman/Gacha          |Red Orb
+O    |Fobora/Dark Spider    |None
+P    |Bera/Gacha            |Medicine
+Q    |Axeman/Dark Crow      |Red Orb
+R    |Zabiet/Batobone       |Red Orb
+##############################################################################
+XII.WebSites using this guide
+
+GameFAQS.com
+IGN.com
+##############################################################################
+XIII.Credits and thanks
+
+Capcom-For making such an awesome game 
+
+GameFAQs.com-for posting this walkthrough for everyone
+
+BRADY GAMES-There walkthrough guide helped me when either i forgot were a part
+            was or what had happened during that time
+
+Onimusha 3 Fans-You guys make the onimusha 3 world what it is.Thank you for 
+                taking time to look at my walkthrough. I hope this guide is
+                helpful in your quest to defeat Nobunaga and the genma.

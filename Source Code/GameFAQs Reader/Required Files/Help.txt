@@ -1,0 +1,12 @@
+GameFAQs Reader is a simple application used to display FAQs or any other miscellaneous files you want to associate with a game title. To load your collection of games into it, simply create a folder in the FAQs folder (in the main application folder) for each game, naming it the same as the game's name (obviously you can name the folders whatever you want to). You can then copy any files you want GameFAQs reader to display into the relevant game's folder.
+
+Note that Windows doesn't like all characters in folder names - don't worry though, " -" gets automatically converted into ":" so a folder like "X-Men II - Legends" will show up as "X-Men II: Legends" in the main window.
+
+You'll see that the program lists the collection of games on the left hand side. You can click on any of these displayed games and the information for that title will come up on the right hand side. The top will display the name of the game as well as it's associated cover image. Below this will be a drop down box that will allow you to select what file you wish to display for this title.
+
+Note that you can associate a cover image with a game by simply copying a relevant image into the game's folder and giving the image the same name as that of the folder. The image gets automatically resized to fit the window, just in case you are wondering.
+
+The number of games in the collection is stated at the bottom left of the program, while the Help and About labels brings up this Help and the About dialog window respectively. The AutoUpdate label forces the application to update itself.
+
+
+-- Last Updated: 24/06/2008 --

@@ -1,0 +1,172 @@
+-- Onimusha 3 --
+-- Puzzle Box FAQ --
+-- By Kouli {aka Ken Zhao, kenzhao99@yahoo.com} --
+-- Version 1.0 --
+
+----------------------------------------------------------------------------------------
+
+<Intro>
+
+There are 15 puzzle boxes in the game. Finish all 15 will get you Puzzle Phantom Realm
+when you beat the game.
+
+----------------------------------------------------------------------------------------
+
+<1> Arch of Triumph
+
+1-2-3
+4-5-6
+7-8-9
+
+- Move 1, then 4, then 7
+- Content = Power Jewel
+
+<2> Mt. Hiei
+
+1-2-3
+4-5-6
+7-8-9
+
+- Move 1, then 4, then 5, then 8
+- Content = Power Jewel
+
+<3> Sewer
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+
+- Move 3, then 7, then 6, then 5, then 1
+- Content = Magic Jewel
+
+<4> Senshuu Sakai
+
+1-2-3
+4-5-6
+7-8-9
+
+- Move 6, then 5, then 8, then 9, then 6
+- Content = Magic Jewel
+
+<5> Senshuu Sakai
+
+1-2-3
+4-5-6
+7-8-9
+
+- Move 5, then 4, then 1, then 2, then 5, then 6
+- Content = Power Jewel
+
+<6> Nanban Ship
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+
+- Move 1, then 5, then 6, then 7, then 11
+- Content = Power Jewel
+
+<7> Nanban Ship
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+
+- Move 1, then 2, then 3, then 7, then 6, then 2
+- Content = Talisman
+
+<8> Notre Dame
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+
+- Move 7, then 6, then 10, then 11, then 12, then 8
+- Content = Magic Jewel
+
+<9> Motre Dame
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 8, then 12, then 11, then 10, then 6
+- Content = Talisman
+
+<10> Underwater Temple (Past)
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 9, then 10, then 11, then 7, then 6
+- Content = Magic Jewel
+
+<11> Underwater Temple (Future)
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 14, then 10, then 11, then 7, then 6, then 5
+- Content = Power Jewel
+
+<12> Buronyu Zoo
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 12, then 8, then 7, then 6, then 10
+- Content = Magic Jewel
+
+<13> Mont Saint Michel
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 7, then 3, then 2, then 6, then 10
+- Content = Power Jewel
+
+<14> Azuchi Castle
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 2, then 3, then 7, then 11, then 15
+- Content = Magic Jewel
+
+<15> Eiffel Tower
+
+1-2-3-4
+5-6-7-8
+9-10-11-12
+13-14-15-16
+
+- Move 3, then 4, then 8, then 7, then 11, then 10
+- Content = Magic Jewel
+
+----------------------------------------------------------------------------------------
+
+
+<The End>
+
+
+----------------------------------------------------------------------------------------
+
+<Credits>
+
+- Me
+- CJayC
+
+----------------------------------------------------------------------------------------
+
+This Document Copyright 2004 Kouli
